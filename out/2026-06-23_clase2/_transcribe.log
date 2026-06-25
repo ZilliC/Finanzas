@@ -1,0 +1,36 @@
+duration=9991.0s chunks=17 chunk_len=600s word_ts=False
+[chunk 1/17] offset=0s
+[chunk 1/17] done (338 segments)
+[chunk 2/17] offset=600s
+[chunk 2/17] done (190 segments)
+[chunk 3/17] offset=1200s
+[chunk 3/17] done (140 segments)
+[chunk 4/17] offset=1800s
+[chunk 4/17] done (168 segments)
+[chunk 5/17] offset=2400s
+[chunk 5/17] done (160 segments)
+[chunk 6/17] offset=3000s
+[chunk 6/17] done (174 segments)
+[chunk 7/17] offset=3600s
+[chunk 7/17] done (176 segments)
+[chunk 8/17] offset=4200s
+[chunk 8/17] done (187 segments)
+[chunk 9/17] offset=4800s
+[chunk 9/17] done (212 segments)
+[chunk 10/17] offset=5400s
+[chunk 10/17] done (317 segments)
+[chunk 11/17] offset=6000s
+[chunk 11/17] done (197 segments)
+[chunk 12/17] offset=6600s
+[chunk 12/17] done (80 segments)
+[chunk 13/17] offset=7200s
+[chunk 13/17] done (202 segments)
+[chunk 14/17] offset=7800s
+[chunk 14/17] done (124 segments)
+[chunk 15/17] offset=8400s
+[chunk 15/17] done (140 segments)
+[chunk 16/17] offset=9000s
+[chunk 16/17] done (147 segments)
+[chunk 17/17] offset=9600s
+[chunk 17/17] done (88 segments)
+WROTE out/2026-06-23_clase2/transcript_whisperx.json/.txt/.srt  segments=3040

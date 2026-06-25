@@ -1,0 +1,67 @@
+{
+  "course": "Finanzas 2632 — UNAM FCA, Lic. Informática SUAyED, 6° semestre",
+  "language": "es",
+  "source_curriculum": "Finanzas.pdf",
+  "asr_hotwords": "Finanzas, financiamiento, fuentes de financiamiento, estados financieros, balance general, estado de resultados, análisis vertical, análisis horizontal, razones financieras, rentabilidad, liquidez, solvencia, punto de equilibrio contable, planeación financiera, planeación operativa, planeación estratégica, presupuesto de efectivo, costo de capital, capital de trabajo, WACC, costo de capital promedio ponderado, CAPM, modelo de valuación de activos de capital, estado de flujo de efectivo, método directo, valor presente neto, VPN, tasa interna de retorno, TIR, proyectos de inversión, estados proforma, apalancamiento, acciones, bonos, dividendos, tasa de descuento",
+  "units": [
+    {
+      "n": 1,
+      "title": "Introducción a las Finanzas",
+      "subtopics": [
+        "1.1 Definición y objetivo de las finanzas",
+        "1.2 Lugar de las finanzas y la administración dentro de la empresa",
+        "1.3 Decisiones financieras de inversión y de financiamiento"
+      ]
+    },
+    {
+      "n": 2,
+      "title": "El modelo de análisis financiero sistemático o integral",
+      "subtopics": [
+        "2.1 Herramientas para el análisis de la situación financiera y de la rentabilidad de la empresa",
+        "2.2 Los estados financieros",
+        "2.3 Los métodos de análisis e interpretación de estados financieros",
+        "2.4 Clasificación de las técnicas de análisis de los estados financieros"
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Planeación financiera empresarial",
+      "subtopics": [
+        "3.1 Punto de equilibrio contable",
+        "3.2 Planeación operativa",
+        "3.3 Planeación estratégica",
+        "3.4 Presupuesto de efectivo",
+        "3.5 Costo de capital",
+        "3.5.1 Proceso de cuantificación de las fuentes de financiamiento",
+        "3.5.2 Métodos para la determinación del costo de capital",
+        "3.5.3 El costo del capital promedio ponderado (WACC)",
+        "3.5.4 El modelo de valuación de los activos de capital (CAPM)",
+        "3.5.5 Resumen y conclusiones"
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Estado de flujo de efectivo — método directo",
+      "subtopics": [
+        "4.1 Objetivo",
+        "4.2 Estructura, reglas de agrupación y análisis"
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Métodos de evaluación: valor presente neto y tasa interna de retorno",
+      "subtopics": [
+        "5.1 Valor presente neto (VPN)",
+        "5.2 Tasa interna de retorno (TIR)"
+      ]
+    }
+  ],
+  "evaluation": ["Exámenes", "Actividades de aprendizaje"],
+  "bibliografia_basica": [
+    "Baca U. G. (2017). Evaluación de Proyectos (8ª ed.). McGraw-Hill.",
+    "Besley & Brigham (2016). Finanzas Corporativas (4ª ed.). CENGAGE.",
+    "Gitman L. J. (2007). Principios de Administración Financiera (11ª ed.). Pearson.",
+    "Ross, Westerfield & Jaffe (2018). Finanzas Corporativas (11ª ed.). McGraw Hill.",
+    "Van Horne (2010). Fundamentos de administración financiera (3ª ed.). Pearson."
+  ]
+}

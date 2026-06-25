@@ -1,0 +1,18 @@
+==> [1/4] Extract mono 16kHz audio
+==> [2/4] Ear A: Whisper large-v3 (chunked)
+duration=10642.3s chunks=9 chunk_len=1200s word_ts=False
+[chunk 1/9] offset=0s
+[chunk 1/9] done (263 segments)
+[chunk 2/9] offset=1200s
+[chunk 2/9] done (325 segments)
+[chunk 3/9] offset=2400s
+[chunk 3/9] done (345 segments)
+[chunk 4/9] offset=3600s
+[chunk 4/9] done (318 segments)
+[chunk 5/9] offset=4800s
+[chunk 5/9] done (385 segments)
+[chunk 6/9] offset=6000s
+[chunk 6/9] done (353 segments)
+[chunk 7/9] offset=7200s
+[chunk 7/9] done (363 segments)
+[chunk 8/9] offset=8400s

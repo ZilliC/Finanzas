@@ -1,0 +1,5 @@
+diarizing with pyannote/speaker-diarization-community-1 {'num_speakers': 4} ...
+  2383 turns, 4 speakers
+WROTE out/2026-06-23_clase2/transcript_diarized.json/.txt — speakers found: ['SPEAKER_00', 'SPEAKER_01', 'SPEAKER_02', 'SPEAKER_03', 'UNKNOWN']
+  TIP: create speakers.json mapping labels to names, e.g.
+       {"SPEAKER_00": "Prof. Heredia", "SPEAKER_01": "Carlos"}

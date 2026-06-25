@@ -1,0 +1,104 @@
+Args: {'audio': ['out/2026-06-23_finanzas/audio16k.wav'], 'model': 'mlx-community/whisper-large-v3-mlx', 'output_name': 'transcript_whisperx', 'output_dir': 'out/2026-06-23_finanzas', 'output_format': 'all', 'verbose': True, 'task': 'transcribe', 'language': 'es', 'temperature': 0, 'best_of': 5, 'patience': None, 'length_penalty': None, 'suppress_tokens': '-1', 'initial_prompt': None, 'condition_on_previous_text': False, 'fp16': True, 'compression_ratio_threshold': 2.4, 'logprob_threshold': -1.0, 'no_speech_threshold': 0.6, 'word_timestamps': True, 'prepend_punctuations': '"\'“¿([{-', 'append_punctuations': '"\'.。,，!！?？:：”)]}、', 'highlight_words': False, 'max_line_width': None, 'max_line_count': None, 'max_words_per_line': None, 'hallucination_silence_threshold': 2.0, 'clip_timestamps': '0'}
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 20510.04it/s]
+[00:31.840 --> 00:33.240]  Gracias.
+[01:12.580 --> 01:13.980]  Gracias.
+[01:58.580 --> 01:59.980]  ¡Gracias!
+[02:03.400 --> 02:08.080]  Bien, señores. Mi nombre es Eduardo Berlín de Cotellos.
+[02:08.460 --> 02:11.940]  Yo existía en el Montaguí, en el Estado de la Unión.
+[02:12.720 --> 02:17.560]  Y aparecí en el debate de la lista con ustedes este interés.
+[02:19.260 --> 02:24.320]  En este caso, nos va a tocar la asociación de la materia de los estados de la Unión.
+[02:38.120 --> 02:39.520]  Gracias.
+[02:54.900 --> 03:08.180]  normalmente eso sucede. Básicamente, pues vamos a trabajar con ustedes, esto lo han
+[03:08.180 --> 03:20.220]  entendido, estos usos son para recursos, no sé, en alguna oportunidad, hoy, en esta ocasión,
+[03:20.220 --> 03:24.600]  No sé qué está pasando con la facultad.
+[03:28.080 --> 03:34.340]  Les voy a hacer un buen estudio de quejado, siempre de un momento en los saludos.
+[03:35.820 --> 03:38.500]  Bueno, pues, señoras y señores,
+[03:44.700 --> 03:49.660]  hoy me mandaron, bueno, me ofrecieron un poco pequeño,
+[03:50.540 --> 03:52.140]  ¿Alguna otra secuestra tan pequeña?
+[03:53.180 --> 03:54.200]  En teoría,
+[03:55.780 --> 03:57.860]  nada más son cinco muchachos.
+[03:58.200 --> 03:59.800]  Y se me hace muy extra.
+[04:00.900 --> 04:01.620]  Muy bueno.
+[04:01.740 --> 04:04.420]  No creo que haya sido un muchacho.
+[04:05.940 --> 04:07.420]  No creo que haya sido un muchacho.
+[04:09.060 --> 04:10.100]  Es impresionante.
+[04:10.580 --> 04:11.100]  Pero,
+[04:12.080 --> 04:13.160]  ¿qué ejemplo? ¿Mierda o loco?
+[04:13.360 --> 04:14.100]  ¿Mierda o loco?
+[04:33.580 --> 04:34.980]  Gracias.
+[04:50.220 --> 04:52.120]  Ustedes van a tener que estar para hacer 5.
+[04:53.840 --> 04:56.360]  Ahora, desconozco si vayan a dejar el grupo.
+[04:57.020 --> 05:07.040]  A cierto, usted para la segunda vez, no sé qué día, y usted es la primera vez en 40 años que se tornó un grupo.
+[05:08.060 --> 05:10.280]  ¿Cómo verán si los programas son nuevos?
+[05:11.460 --> 05:15.240]  Es que creo que la matriz de informática nada más.
+[05:15.900 --> 05:16.980]  ¿Cómo crees?
+[05:17.280 --> 05:18.640]  ¿Qué es lo que crees?
+[05:22.520 --> 05:29.620]  pero, según lo que a mi me parece, aquí tengo las claves 301 y 308
+[05:31.120 --> 05:37.820]  esto quiere decir que nosotros no manejamos el tipo de claves, cada licenciado tiene una clave de 3 o 4
+[05:41.900 --> 05:49.840]  y casualmente eso también a mí me ha sucedido mucho en las primeras, a mí no sé cómo manejan eso,
+[05:49.940 --> 06:07.700]  pero en este caso, los clases de ustedes pertenecen a futuros licenciados en informática y futuros licenciados en analista.
+[06:10.300 --> 06:23.240]  A mí me toca constantemente que me revuelvan los chavos. Normalmente me mandan informáticos con administradores o normalmente me mandan informáticos con relaciones internacionales o negocios internacionales.
+[06:24.420 --> 06:34.300]  Los que por lo general siempre me separan son los contadores. Porque los contadores llevan, aunque llevarán la misma materia, pero llevan un enfoque diferente.
+[06:48.340 --> 06:52.480]  No quiero decir que sean ustedes, ambos de mis alumnos.
+[06:53.300 --> 06:56.800]  Yo sé que hay un administrador que le interesa mucho la investigación.
+[06:58.420 --> 07:05.080]  Seguramente los administradores están enalienados con su pacto normal, con procesos,
+[07:05.080 --> 07:08.100]  con todas esas marcas que se han de inventar.
+[07:08.660 --> 07:14.540]  Tú le dices que financia algo, financia algo, no, es de muerte, sufres.
+[07:15.520 --> 07:21.460]  No sé por qué. Eso dice mucho. Los informáticos como que son las que todavía no saben que
+[07:21.460 --> 07:26.480]  pagan bien. Pues al final van a tener que echarle con las dos licenciaturas, con las
+[07:26.480 --> 07:31.020]  tres licenciaturas, con veinte licenciaturas. Ellos no van a resolver la duda de nosotros.
+[07:31.800 --> 07:36.360]  A todos los profesionistas se les va a estar hablando mal de aquí hoy. Hoy todo se está
+[07:36.840 --> 07:43.180]  sistematizando. ¿Y quién sistematiza? Pues los informáticos. No. Ellos no van a tener
+[07:44.800 --> 07:52.080]  a los abogados, a los arquitectos, a los ingenieros, a los soldados, a los administradores.
+[07:52.380 --> 07:56.620]  Los informáticos como que todavía lo asimilan un poco más.
+[07:56.840 --> 08:05.540]  O sea, mis labores son un poco más, tienen un poquito más de intención a sus áreas particulares de ellos.
+[08:06.320 --> 08:13.240]  Que al final de los poesía y fe, en mi opinación, hoy por lo vivo es tan rica como la de los poesía.
+[08:14.540 --> 08:20.560]  No sé si alguien sabe manejar el dinero, está en la olla, realmente, y más cómo está la cosa.
+[08:21.940 --> 08:26.360]  En fin, hoy vamos a pasar a los tratados que se han tenido aquí inscritos,
+[08:27.540 --> 08:31.560]  que como les comenté, desconocidos, que los digo con toda honestidad,
+[08:32.740 --> 08:38.480]  que vaya a pasar por el mundo, si voy a dejar así, o si me voy a hacer raro, no lo sé.
+[08:39.280 --> 08:40.980]  yo tengo entendido
+[08:40.980 --> 08:42.620]  que debe haber un mínimo
+[08:42.620 --> 08:44.340]  de muchachos para
+[08:44.340 --> 08:45.360]  en mi grupo
+[08:45.360 --> 08:51.200]  no sé cuántos muchachos
+[08:51.200 --> 08:51.780]  en el mínimo
+[08:51.780 --> 08:53.020]  los que son los que
+[08:53.020 --> 08:55.020]  generalmente son 40 años
+[08:56.760 --> 08:58.360]  que a mí me sucede esto
+[08:58.360 --> 09:02.280]  tengo amigos maestros
+[09:02.280 --> 09:04.900]  y si me han comentado
+[09:04.900 --> 09:05.860]  de esto, tal vez yo digo
+[09:05.860 --> 09:07.580]  un momento de
+[09:08.480 --> 09:12.440]  Yo si me he pegado ahí, no piensa que me ha dado todo el culo que me ha dejado, y salvo un momento.
+[09:13.180 --> 09:16.280]  Y bueno, lo que quiero entender es que los compitas se dan cuenta.
+[09:17.580 --> 09:19.340]  No suman ese número de canchas.
+[09:20.520 --> 09:27.780]  Si me explico, no estoy sabiendo que tengo gente que no está considerada para el trabajo de desagüe.
+[09:28.040 --> 09:31.640]  Pero ahora me lo que hacen es que nos cambian a los alumnos de allá abajo.
+[09:32.560 --> 09:40.500]  se se abren la cuenta los CES, los ACI, los ES, los TES, 00, 00, 00, etc.
+[09:41.460 --> 09:43.020]  Son más grandes que los de arriba.
+[09:44.800 --> 09:45.860]  Para mí no hay problema.
+[09:48.160 --> 09:51.120]  Pero le digo, yo he comentado con mis amadas maestros,
+[09:51.140 --> 09:55.920]  creo que lo mínimo que hay de algunos es un amor y es.
+[09:57.580 --> 09:59.260]  Pero no, no sé si esto no es.
+[09:59.460 --> 10:00.580]  No sé si se ve sin un amor.
+[10:01.760 --> 10:04.040]  Yo, hasta hoy no tengo ninguna noticia.
+[10:04.140 --> 10:10.540]  De hecho, están recibiendo noticias de mis autoridades, que me están confirmando.
+[10:12.200 --> 10:13.900]  Yo pronto llegué, me parecen.
+[10:14.760 --> 10:17.940]  Bueno, las listas que me entregaron son nada más de cinco minutos.
+[10:20.280 --> 10:25.760]  Me contestan que es partidario mágico, que es decir, de hecho, me están mandando
+[10:27.920 --> 10:30.320]  a la pantalla de la programación.
+[10:39.900 --> 10:40.980]  ¿Están confirmando que sí?
+[10:41.720 --> 10:43.660]  ¿Que este es el grupo y que ese es el número de grupos?
+[10:44.300 --> 10:49.160]  Yo, hoy, sin desgracia, hoy la hice. Hoy, como se sabe, me entregaron la lista con chicos muy grandes.
+[10:49.400 --> 10:51.380]  De hecho, creo que el mínimo sí es de cuatro.
+[10:51.720 --> 10:58.400]  En el anterior periodo de Intersemestrales, nada más se habían inscrito, creo que 16 a otro Intersemestre que pasé.
+[10:59.780 --> 11:00.960]  Y terminamos siendo dos.
+[11:01.840 --> 11:02.360]  Ah, sí.
+[11:02.460 --> 11:04.460]  De los 16, nada más necesitamos dos.
+[11:05.640 --> 11:07.200]  Bueno, y no se ha dado el mismo punto.
+[11:11.760 --> 11:14.160]  Bueno, digamos una buena noche para ustedes.
+[11:14.340 --> 11:15.920]  Bueno, digo que ahora mismo tengo que irme.
+[11:16.500 --> 11:17.640]  O sea, tengo que irme.
+[11:19.340 --> 11:23.540]  Pero ahora mismo voy con ustedes porque, bueno, si se inscriben y descansen en el mundo,/Users/carloszilli/.local/share/uv/python/cpython-3.11.15-macos-aarch64-none/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

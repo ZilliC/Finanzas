@@ -1,0 +1,10024 @@
+1
+00:00:00,000 --> 00:00:30,000
+La 할�ED
+
+2
+00:00:30,000 --> 00:00:32,000
+¡Vamos!
+
+3
+00:01:00,000 --> 00:01:01,000
+Gracias.
+
+4
+00:01:30,000 --> 00:01:32,000
+¡Vamos!
+
+5
+00:02:00,000 --> 00:02:08,139
+Bien, señores. Mi nombre es Eduardo E. de Contreras.
+
+6
+00:02:09,020 --> 00:02:12,120
+Soy cristiano de Cataluña, egresado de la UNAM.
+
+7
+00:02:13,120 --> 00:02:20,500
+Y al parecer, en la actualidad, están con ustedes en este caso,
+
+8
+00:02:20,500 --> 00:02:24,639
+a tocarles a su diálogo, a tener en cuenta sus propias ideas.
+
+9
+00:02:24,639 --> 00:02:26,639
+Gracias.
+
+10
+00:02:54,639 --> 00:02:56,599
+normalmente eso sucede.
+
+11
+00:03:00,279 --> 00:03:07,399
+Básicamente, pues vamos a trabajar con ustedes,
+
+12
+00:03:07,819 --> 00:03:14,259
+esto voy a tener entendido que estos cursos son para recursos,
+
+13
+00:03:14,259 --> 00:03:34,439
+No sé qué pasa con la facultad. Les voy a hacer un estudio de quejado siempre de volumen de los alumnos.
+
+14
+00:03:34,439 --> 00:03:52,439
+Bueno, me mandaron, bueno, me ofrecieron un poco pequeño, pero no me hace que fuera tan pequeño.
+
+15
+00:03:52,439 --> 00:03:57,840
+En teoría, nada más un chico, un muchacho.
+
+16
+00:03:58,759 --> 00:03:59,900
+Y se me hace la muestra.
+
+17
+00:04:29,899 --> 00:04:32,599
+pero bueno
+
+18
+00:04:32,599 --> 00:04:35,579
+después de la facultad
+
+19
+00:04:35,579 --> 00:04:36,419
+que es la que me
+
+20
+00:04:36,419 --> 00:04:38,259
+como lo escuder
+
+21
+00:04:38,259 --> 00:04:40,859
+no sé, desconozco
+
+22
+00:04:40,859 --> 00:04:41,539
+insisto que
+
+23
+00:04:41,539 --> 00:04:43,819
+que lo he pasado
+
+24
+00:04:43,819 --> 00:04:46,539
+pero
+
+25
+00:04:46,539 --> 00:04:48,839
+como verán
+
+26
+00:04:48,839 --> 00:04:50,599
+ustedes
+
+27
+00:04:50,599 --> 00:04:52,299
+van a ser cinco
+
+28
+00:04:52,299 --> 00:04:53,719
+ahora
+
+29
+00:04:53,719 --> 00:04:56,579
+desconozco si vayan a dejar el grupo
+
+30
+00:04:56,579 --> 00:04:58,039
+abierto
+
+31
+00:04:58,040 --> 00:04:59,900
+que para eso
+
+32
+00:04:59,900 --> 00:05:02,020
+no sé
+
+33
+00:05:02,020 --> 00:05:03,220
+qué lineamientos tengo
+
+34
+00:05:03,220 --> 00:05:06,080
+es la primera vez en 40 años
+
+35
+00:05:06,080 --> 00:05:07,120
+que tengo un grupo
+
+36
+00:05:07,120 --> 00:05:09,000
+como verán
+
+37
+00:05:09,000 --> 00:05:12,240
+es que
+
+38
+00:05:12,240 --> 00:05:14,140
+creo que la materia
+
+39
+00:05:14,140 --> 00:05:15,420
+es de informática nada más
+
+40
+00:05:15,420 --> 00:05:17,040
+¿cómo crees?
+
+41
+00:05:17,040 --> 00:05:19,040
+¿qué es lo que sucede?
+
+42
+00:05:21,500 --> 00:05:21,960
+pero
+
+43
+00:05:21,960 --> 00:05:24,740
+según lo que a mí me parece
+
+44
+00:05:24,740 --> 00:05:27,100
+aquí tengo las claves
+
+45
+00:05:27,100 --> 00:05:29,860
+de 301 y 308.
+
+46
+00:05:31,860 --> 00:05:34,800
+Esto tiene que decir que nosotros manejamos el tipo de claves.
+
+47
+00:05:35,520 --> 00:05:38,100
+Cada licenciado tiene una clave de 304.
+
+48
+00:05:41,520 --> 00:05:45,439
+Y casualmente eso también a mí me ha sucedido mucho
+
+49
+00:05:45,439 --> 00:05:46,700
+en las primeras.
+
+50
+00:05:47,840 --> 00:05:49,960
+Aquí no sé cómo manejan eso.
+
+51
+00:05:49,960 --> 00:05:53,060
+Pero esto es algo que nosotros sacaremos.
+
+52
+00:05:53,260 --> 00:05:56,500
+Es una parte de las autoridades.
+
+53
+00:05:57,100 --> 00:06:05,220
+pero realmente en este caso, pues claro que ustedes pertenecen a futuros licenciados en informática
+
+54
+00:06:05,220 --> 00:06:08,520
+y futuros licenciados en administración de empresas.
+
+55
+00:06:10,560 --> 00:06:13,879
+A mí me toca constantemente que me devuelvan a los chavos.
+
+56
+00:06:14,939 --> 00:06:17,879
+Normalmente me mandan informáticos con administradores
+
+57
+00:06:17,879 --> 00:06:22,879
+o normalmente me mandan informáticos con relaciones internacionales o negocios internacionales.
+
+58
+00:06:22,879 --> 00:06:27,879
+los que por lo general siempre me separan son los contadores.
+
+59
+00:06:27,879 --> 00:06:31,879
+¿Por qué? Porque los contadores llevan, aunque llevaran la misma materia,
+
+60
+00:06:31,879 --> 00:06:34,879
+pero llevan un enfoque diferente.
+
+61
+00:06:34,879 --> 00:06:40,879
+A los contadores se les da todo esto con más profundidad que a los otros licenciados.
+
+62
+00:06:40,879 --> 00:06:43,879
+Porque los profesionales de especialidad son los contadores.
+
+63
+00:06:43,879 --> 00:06:48,879
+De repente, estos, si somos comunes, a vos le avisaremos,
+
+64
+00:06:48,879 --> 00:06:50,659
+algunos, no quiero decir que sean ustedes,
+
+65
+00:06:51,699 --> 00:06:52,500
+ambos de mis amigos,
+
+66
+00:06:53,800 --> 00:06:55,480
+yo sé hablar de un administrador
+
+67
+00:06:55,480 --> 00:06:56,579
+que interesa en un equipo,
+
+68
+00:06:58,579 --> 00:06:59,219
+pero realmente
+
+69
+00:06:59,219 --> 00:07:01,040
+los administradores van enalminados
+
+70
+00:07:01,040 --> 00:07:02,459
+con su pacto normal,
+
+71
+00:07:03,379 --> 00:07:05,360
+con procesos,
+
+72
+00:07:05,360 --> 00:07:06,819
+con todas esas partes,
+
+73
+00:07:07,120 --> 00:07:08,199
+con escaladitas.
+
+74
+00:07:09,180 --> 00:07:10,180
+Tú le dices, oye, financia,
+
+75
+00:07:10,300 --> 00:07:13,920
+o no, es de muerte,
+
+76
+00:07:14,100 --> 00:07:14,719
+sufres.
+
+77
+00:07:15,980 --> 00:07:16,719
+No sé por qué,
+
+78
+00:07:17,159 --> 00:07:18,159
+eso dice mucho.
+
+79
+00:07:18,879 --> 00:07:39,659
+los involucrados, los que son más, que todavía no se han equipado bien, pues al final van a tener que echarle con las dos licenciaturas, con las tres licenciaturas, con 20 licenciaturas, ellos nos van a resolver la duda nosotros, a todos los profesionistas, se les va a estar hablando de la que hoy, hoy, todos se está sistematizando, ¿y quién sistematiza?
+
+80
+00:07:39,660 --> 00:07:44,200
+no, ellos no van a tener que dar solución
+
+81
+00:07:44,200 --> 00:07:46,680
+a los economistas, a los abogados
+
+82
+00:07:46,680 --> 00:07:49,560
+a los arquitectos, a los ingenieros
+
+83
+00:07:49,560 --> 00:07:52,160
+a los electados, a los administradores
+
+84
+00:07:52,160 --> 00:07:55,660
+a los ignorantes como que todavía van a seguir
+
+85
+00:07:55,660 --> 00:07:58,480
+a un poco más, los administradores de nuestro completo
+
+86
+00:07:58,480 --> 00:08:00,660
+tienen un poquito más de
+
+87
+00:08:00,660 --> 00:08:04,140
+intención a sus áreas
+
+88
+00:08:04,140 --> 00:08:05,800
+a sus áreas particulares de ellos
+
+89
+00:08:05,800 --> 00:08:09,360
+que al final de los poesía y fe, en mi opinación
+
+90
+00:08:09,360 --> 00:08:11,040
+hoy por hoy
+
+91
+00:08:11,040 --> 00:08:13,379
+necesitan arriesgar todas las cosas
+
+92
+00:08:13,379 --> 00:08:16,280
+hoy si alguien no sabe manejar el dinero
+
+93
+00:08:16,280 --> 00:08:17,240
+está en la olla
+
+94
+00:08:17,240 --> 00:08:18,660
+realmente
+
+95
+00:08:18,660 --> 00:08:20,759
+y más, cómo está la cosa
+
+96
+00:08:20,759 --> 00:08:22,699
+en fin
+
+97
+00:08:22,699 --> 00:08:24,780
+hoy vamos a pasar a los tratados
+
+98
+00:08:24,780 --> 00:08:26,319
+que se han tenido aquí los escritos
+
+99
+00:08:26,319 --> 00:08:27,740
+que
+
+100
+00:08:27,740 --> 00:08:29,680
+como les comenté, es como los
+
+101
+00:08:29,680 --> 00:08:31,900
+digo, todo un estirado
+
+102
+00:08:31,900 --> 00:08:34,340
+que vaya a pasar por el mundo
+
+103
+00:08:34,340 --> 00:08:36,840
+si lo voy a dejar así, o si lo voy a encerrar
+
+104
+00:08:36,840 --> 00:08:38,659
+no lo sé
+
+105
+00:08:38,659 --> 00:08:46,659
+Yo tengo entendido que debe haber un mínimo de muchachos en un grupo.
+
+106
+00:08:46,659 --> 00:08:55,659
+No sé cuántos muchachos, pero el mínimo que se conoce en la Universidad General es de 40 años.
+
+107
+00:08:55,659 --> 00:09:03,659
+Que hay muchos serpientes, muchos. Pero no hay muchos maestros, son muchos.
+
+108
+00:09:03,659 --> 00:09:09,500
+Y si me han comentado que es totalmente lleno de perritos, un momento me dije, yo si me he quejado,
+
+109
+00:09:09,500 --> 00:09:12,860
+yo no pensé que me haría esto con un 80 gentes, salvo un joven de edad.
+
+110
+00:09:13,559 --> 00:09:19,559
+Y bueno, no me lo quiero entender, si los perritos se dan cuenta, no, suma que se me quedaron cachos.
+
+111
+00:09:20,740 --> 00:09:27,799
+Si me explico, no sé si tú sabes, yo tengo gente que no está considerada para esta materia de salud.
+
+112
+00:09:27,799 --> 00:09:32,799
+Seguramente lo que hacen es que nos cambian a los álbumes de allá abajo,
+
+113
+00:09:32,799 --> 00:09:37,799
+y se se ha rendido la cuenta de que los CES, los AS, los ES, los DES,
+
+114
+00:09:37,799 --> 00:09:44,799
+001, 002, etcétera, son más grandes que los de arriba.
+
+115
+00:09:44,799 --> 00:09:47,799
+Para mí no hay problema.
+
+116
+00:09:47,799 --> 00:09:54,799
+Pero lo que yo he comentado con mis amadas maestros, creo que lo mínimo que hay
+
+117
+00:09:54,799 --> 00:09:55,799
+Gracias.
+
+118
+00:10:00,000 --> 00:10:11,000
+Yo, hasta hoy no tengo ninguna noticia. De hecho, recibí un mensaje de mis autoridades y me están confirmando.
+
+119
+00:10:11,000 --> 00:10:24,000
+Yo pregunté, me parece, bueno, la agencia que me entrega, son nada más de cinco mujeres, me contestan que es acción aquí, que es asistir.
+
+120
+00:10:24,000 --> 00:10:41,120
+De hecho, en esta humanidad, la pantalla de los programas, por una pena, está confirmando que sí.
+
+121
+00:10:41,940 --> 00:10:43,860
+Que este es el mundo de muchos.
+
+122
+00:10:44,539 --> 00:10:46,080
+Yo, que si me sorprendió, ya lo hice.
+
+123
+00:10:46,360 --> 00:10:49,320
+Hoy, como se te ve, me entregué una lista de músicos muy hecha.
+
+124
+00:10:49,320 --> 00:10:51,559
+De hecho, creo que el mínimo sí es de otro.
+
+125
+00:10:51,559 --> 00:10:58,600
+En el anterior periodo de intersemestrales, nada más se habían inscrito creo que 16 a otro intersemestral que conocen.
+
+126
+00:10:59,680 --> 00:11:01,139
+Y terminamos siendo dos.
+
+127
+00:11:02,159 --> 00:11:04,639
+De los 16, nada más le distingamos dos.
+
+128
+00:11:05,899 --> 00:11:07,240
+¿Y no se va a tener un punto?
+
+129
+00:11:07,379 --> 00:11:07,580
+No.
+
+130
+00:11:08,279 --> 00:11:09,120
+¿Algo así, profesor?
+
+131
+00:11:10,860 --> 00:11:14,320
+Bueno, digamos una buena noticia para ustedes.
+
+132
+00:11:14,320 --> 00:11:16,700
+Digo, para mí, porque tengo un poco de...
+
+133
+00:11:16,700 --> 00:11:18,320
+O sea, tengo un poco de...
+
+134
+00:11:18,319 --> 00:11:25,200
+La pregunta es para ustedes, porque si se inscriben y descansen en el, ¿cómo van a pagar lo que deben?
+
+135
+00:11:26,319 --> 00:11:32,580
+Van a dejar flotando, cosa que se pasa antes, porque eso es lo que tienen ahora.
+
+136
+00:11:34,220 --> 00:11:39,179
+Entonces, si se inscriben en el, y lo hacen, debe ser porque aquí están los firmes.
+
+137
+00:11:40,100 --> 00:11:41,139
+En la Cámara Popular.
+
+138
+00:11:42,419 --> 00:11:46,319
+Y es que a mí me acaban de entregar, me acaban de avisar de los cánceres.
+
+139
+00:11:46,319 --> 00:11:52,419
+ustedes terminaron de su organizado viernes, nosotros entramos a por, o sea, realmente,
+
+140
+00:11:52,419 --> 00:11:56,700
+lo que me ha hecho, hasta que me he asustado, me he pensado, chica,
+
+141
+00:11:57,700 --> 00:12:00,960
+ya que hoy me presento, ya que hoy me presento,
+
+142
+00:12:00,960 --> 00:12:04,360
+los niños, los niños, los niños, los niños,
+
+143
+00:12:04,360 --> 00:12:06,519
+yo me he dicho, chica, no te lo tocan,
+
+144
+00:12:06,519 --> 00:12:11,159
+y ahorita, salieron las listas,
+
+145
+00:12:41,159 --> 00:12:47,159
+Es otro grupo, es inmenso.
+
+146
+00:13:00,159 --> 00:13:02,159
+Y así se hace.
+
+147
+00:13:03,159 --> 00:13:06,159
+Ni madre ni taza dice que es bueno que ya han probado menos.
+
+148
+00:13:07,159 --> 00:13:10,159
+Porque esto, en teoría,
+
+149
+00:13:11,159 --> 00:13:20,159
+es para recursos. Aunque a mí me ha tocado hablar con el tipo de concepcionistas que utilizan estos cursos,
+
+150
+00:13:20,159 --> 00:13:28,159
+estas materias para adelantar. ¿Tú estás adelantando? ¿Qué tal con los estudios de cómics?
+
+151
+00:13:28,159 --> 00:13:39,159
+Bueno, al menos hay este tipo de materias. Hay materias que son más largas, que hay materias que son un poquito más... ¿cómo decirlo?
+
+152
+00:13:41,159 --> 00:13:47,159
+más dinámicas, más difíciles.
+
+153
+00:13:47,159 --> 00:13:52,159
+Pero ya lo hablamos, vamos a ver que estas materias son una vacía.
+
+154
+00:13:52,159 --> 00:13:56,159
+Realmente son una vacía.
+
+155
+00:13:56,159 --> 00:14:01,159
+En cambio, aunque necesitamos ver también el plan de estudios,
+
+156
+00:14:01,159 --> 00:14:06,159
+yo también he entendido que hay un problema con planes de estudios.
+
+157
+00:14:06,159 --> 00:14:11,899
+por lo que por ti tú tú
+
+158
+00:14:11,899 --> 00:14:16,600
+por ti tú tú
+
+159
+00:14:16,600 --> 00:14:25,600
+por ti tú tú
+
+160
+00:14:25,600 --> 00:14:30,980
+por ti tú tú
+
+161
+00:14:30,980 --> 00:14:34,019
+por ti tú tú
+
+162
+00:14:34,019 --> 00:14:36,019
+por ti tú tú
+
+163
+00:14:36,019 --> 00:14:36,019
+
+
+164
+00:14:36,019 --> 00:14:36,039
+por ti tú tú
+
+165
+00:14:36,039 --> 00:14:36,039
+
+
+166
+00:14:36,039 --> 00:14:36,039
+
+
+167
+00:14:36,039 --> 00:14:36,039
+
+
+168
+00:14:36,039 --> 00:14:36,039
+
+
+169
+00:14:36,039 --> 00:14:36,039
+
+
+170
+00:14:36,039 --> 00:14:36,039
+
+
+171
+00:14:36,039 --> 00:14:36,039
+
+
+172
+00:14:36,039 --> 00:14:36,039
+
+
+173
+00:14:36,039 --> 00:14:36,039
+
+
+174
+00:14:36,039 --> 00:14:36,039
+
+
+175
+00:14:36,039 --> 00:14:36,039
+
+
+176
+00:14:36,039 --> 00:14:36,039
+
+
+177
+00:14:36,039 --> 00:14:36,039
+
+
+178
+00:14:36,039 --> 00:14:36,039
+
+
+179
+00:14:36,039 --> 00:14:36,039
+
+
+180
+00:14:36,039 --> 00:14:36,039
+
+
+181
+00:14:36,039 --> 00:14:36,039
+
+
+182
+00:14:36,039 --> 00:14:36,039
+
+
+183
+00:14:36,039 --> 00:14:36,039
+
+
+184
+00:14:36,039 --> 00:14:36,039
+
+
+185
+00:14:36,039 --> 00:14:36,039
+
+
+186
+00:14:36,039 --> 00:14:36,039
+
+
+187
+00:14:36,039 --> 00:14:36,039
+
+
+188
+00:14:36,039 --> 00:14:36,039
+
+
+189
+00:14:36,039 --> 00:14:36,039
+
+
+190
+00:14:36,039 --> 00:14:36,039
+
+
+191
+00:14:36,039 --> 00:14:34,019
+por ti tú tú
+
+192
+00:14:34,019 --> 00:14:34,019
+
+
+193
+00:14:34,019 --> 00:14:56,220
+¿Quién es?
+
+194
+00:14:56,220 --> 00:14:59,700
+¿Quién es de Informática 2023?
+
+195
+00:15:04,019 --> 00:15:05,019
+Gracias.
+
+196
+00:15:34,019 --> 00:15:41,599
+porque hay totales, actuales o superiores, que eran generaciones anteriores, y son de esa base.
+
+197
+00:15:43,079 --> 00:15:51,240
+Por ejemplo, a ellos se les señalaba como finanzas 4, y a nosotros nos aparecieron como finanzas corporativas.
+
+198
+00:15:52,139 --> 00:15:58,279
+A nosotros no nos aparecieron como finanzas 3, y nos trataban de finanzas corporativas.
+
+199
+00:15:58,279 --> 00:16:00,659
+Entonces, ¿cómo lo damos?
+
+200
+00:16:00,660 --> 00:16:27,660
+A nosotros nos aparece finanzas nada más.
+
+201
+00:16:30,660 --> 00:16:34,660
+O sea, esto no me confirme. Igual que esto, si se te ocurre.
+
+202
+00:16:34,660 --> 00:16:40,660
+Yo les diría que este no tiene problema.
+
+203
+00:16:40,660 --> 00:16:46,660
+Lo único que va a cambiar, y eso es lo que puedo decir casi siempre,
+
+204
+00:16:49,660 --> 00:16:58,660
+es que a las generaciones anteriores sus materias son más grandes,
+
+205
+00:16:58,660 --> 00:17:03,660
+son los contenidos. De hecho, en el libro de Brahm se dice eso.
+
+206
+00:17:03,660 --> 00:17:14,660
+A las nuevas generaciones, una materia que ven en la nueva generación, no se ve ni la
+
+207
+00:17:14,660 --> 00:17:22,660
+mitad de lo que veíamos en las generaciones anteriores. Les han estado cambiando sus contenidos.
+
+208
+00:17:22,660 --> 00:17:27,660
+y ahora lo que antes era una materia ahora se las dan a otras materias
+
+209
+00:17:27,660 --> 00:17:35,660
+¿por qué? porque se están metiendo muchas cosillas en el medio modernas entre comillas
+
+210
+00:17:35,660 --> 00:17:42,660
+y me refiero a modernas en el sentido de que están más apegadas a la social
+
+211
+00:17:42,660 --> 00:17:48,660
+a cosas como eso que el verdadero conegro de las áreas
+
+212
+00:18:18,660 --> 00:18:20,660
+van a ver algo que se llama
+
+213
+00:18:23,259 --> 00:18:25,259
+costo de capital.
+
+214
+00:18:25,259 --> 00:18:27,259
+Y el costo de capital
+
+215
+00:18:29,059 --> 00:18:31,059
+se tiene que desarrollar
+
+216
+00:18:33,660 --> 00:18:35,059
+todo lo que es,
+
+217
+00:18:35,059 --> 00:18:37,059
+lo que se denomina
+
+218
+00:18:37,059 --> 00:18:39,059
+ir a la sentencia de la realidad.
+
+219
+00:18:43,059 --> 00:18:45,059
+O sea, ir de la nada.
+
+220
+00:18:48,659 --> 00:18:51,360
+les venden mosto y cartel
+
+221
+00:18:51,360 --> 00:18:54,799
+y nunca les enseñan a calcular la tierra
+
+222
+00:18:54,799 --> 00:18:58,480
+aquí dice que ya lo sabes
+
+223
+00:18:58,480 --> 00:18:59,659
+si no lo has hecho ya lo sabes
+
+224
+00:18:59,659 --> 00:19:02,639
+y eso es antes que eso
+
+225
+00:19:02,639 --> 00:19:10,639
+aquí está
+
+226
+00:19:10,639 --> 00:19:12,259
+fuentes de financiamiento
+
+227
+00:19:12,259 --> 00:19:13,539
+a costo y largo
+
+228
+00:19:13,539 --> 00:19:15,559
+para que los contadores
+
+229
+00:19:15,559 --> 00:19:45,539
+¿Qué es el sistema financiero?
+
+230
+00:19:45,559 --> 00:19:50,559
+Después tiene que ver el vato, pero que no se vea.
+
+231
+00:19:50,559 --> 00:19:55,559
+Todo el mundo piensa que los vatos son los que están afuera en las instrucciones.
+
+232
+00:19:55,559 --> 00:19:59,559
+No es cierto. Hay muchos más vatos.
+
+233
+00:20:00,000 --> 00:20:04,559
+Debados de dinero, debados nacionales, debados internacionales.
+
+234
+00:20:08,559 --> 00:20:14,799
+Deben de conocer los créditos. Deben de conocer muchas cosas. Pero aquí en mi programa me dicen
+
+235
+00:20:14,799 --> 00:20:18,720
+financiamiento, es lo que yo les tengo que dar.
+
+236
+00:20:18,720 --> 00:20:22,720
+Repito, esto es para que sepan lo que dicen.
+
+237
+00:20:22,720 --> 00:20:25,380
+y esta
+
+238
+00:20:25,380 --> 00:20:30,480
+licenciatura de
+
+239
+00:20:30,480 --> 00:20:31,480
+contabilidad
+
+240
+00:20:31,480 --> 00:20:36,319
+descubran que ellos tienen que ver
+
+241
+00:20:36,319 --> 00:20:38,720
+financiamientos por triángulo
+
+242
+00:20:38,720 --> 00:20:40,839
+ya directamente
+
+243
+00:20:40,839 --> 00:20:43,119
+¿qué quiere decir esto? aplicar los financiamientos
+
+244
+00:20:43,119 --> 00:20:43,539
+por
+
+245
+00:20:43,539 --> 00:20:46,740
+si yo tengo que aplicar los financiamientos
+
+246
+00:20:46,740 --> 00:20:48,500
+¿qué presumimos?
+
+247
+00:20:49,900 --> 00:20:51,559
+que ya saben que es un financiamiento
+
+248
+00:20:51,559 --> 00:20:52,700
+por eso lo van a aplicar
+
+249
+00:20:52,700 --> 00:20:54,700
+y eso es lo que se llama
+
+250
+00:20:54,700 --> 00:20:57,799
+oye vamos a ir a la mesa
+
+251
+00:20:57,799 --> 00:20:58,759
+y vamos a quitar
+
+252
+00:20:58,759 --> 00:21:00,500
+bueno son mis medios
+
+253
+00:21:00,500 --> 00:21:01,859
+y los voy a quitar
+
+254
+00:21:01,859 --> 00:21:04,680
+entonces ahí se trasladan
+
+255
+00:21:04,680 --> 00:21:05,059
+los medios
+
+256
+00:21:05,059 --> 00:21:09,759
+y les dicen que aquí lo van a tener
+
+257
+00:21:09,759 --> 00:21:11,259
+entonces
+
+258
+00:21:11,259 --> 00:21:14,700
+acá hay
+
+259
+00:21:14,700 --> 00:21:16,720
+licenciado
+
+260
+00:21:16,720 --> 00:21:18,220
+que se llama
+
+261
+00:21:18,220 --> 00:21:19,359
+George
+
+262
+00:21:19,359 --> 00:21:21,359
+y eso se lo contaba a otro.
+
+263
+00:21:23,359 --> 00:21:27,359
+En donde me quedaba claro que los chavos no ponen un aprieto,
+
+264
+00:21:27,359 --> 00:21:34,359
+porque los que decían las materias ahora, no es ni la mitad de lo que eran las materias de antes.
+
+265
+00:21:34,359 --> 00:21:38,359
+Los chavos se alegran, están más claros, están más tranquilos.
+
+266
+00:21:38,359 --> 00:21:45,359
+Yo te diría eso, es que no aplaudas lo que no conoces, porque te están perroquichando.
+
+267
+00:21:45,359 --> 00:21:51,359
+todo lo que teníamos que enseñar antes sobre el mundo no se explicaba
+
+268
+00:21:51,359 --> 00:21:55,359
+pero se explicaba porque aquí lo vas a encontrar
+
+269
+00:21:55,359 --> 00:21:57,359
+no se explica
+
+270
+00:21:57,359 --> 00:22:00,359
+en el caso de ustedes no está en comunicador
+
+271
+00:22:00,359 --> 00:22:04,359
+pero ustedes, bueno quiero que se expliquen que no está en comunicador
+
+272
+00:22:04,359 --> 00:22:09,360
+porque la profundidad de ellos, por favor, es mucho más amplia que lo que ustedes
+
+273
+00:22:09,360 --> 00:22:14,360
+pero ustedes son más genial porque su presencia en tu vida es diferente
+
+274
+00:22:14,360 --> 00:22:16,500
+Lleva una ley de ese distrito.
+
+275
+00:22:17,299 --> 00:22:20,559
+Entonces, yo vamos a tratar de hacer un video de ustedes para ver cómo van a ser las cosas.
+
+276
+00:22:21,779 --> 00:22:24,220
+Y a ver de qué manera podemos avanzar.
+
+277
+00:22:25,860 --> 00:22:28,440
+Lo que yo puedo hacer es ayudarlos.
+
+278
+00:22:30,519 --> 00:22:34,119
+Para que, bueno, porque deben, que nos acompañen, no sé qué habrá pasado por ahí,
+
+279
+00:22:34,220 --> 00:22:36,079
+pero no venimos a buscar nada.
+
+280
+00:22:36,779 --> 00:22:38,180
+Venimos a resolver problemas.
+
+281
+00:22:39,019 --> 00:22:39,279
+¿Sale?
+
+282
+00:22:41,400 --> 00:22:43,220
+Bien, Picharo, vamos a pasar a la lista.
+
+283
+00:22:43,220 --> 00:22:44,220
+tenemos que dejar
+
+284
+00:22:44,220 --> 00:22:46,759
+este vestigio de lo que estamos
+
+285
+00:22:46,759 --> 00:22:48,720
+intentando
+
+286
+00:22:48,720 --> 00:22:51,079
+y
+
+287
+00:22:51,079 --> 00:22:53,079
+ahorita vamos a preguntarle
+
+288
+00:22:53,079 --> 00:22:53,799
+cómo vamos a hacer
+
+289
+00:22:53,799 --> 00:22:56,279
+qué vamos a hacer
+
+290
+00:22:56,279 --> 00:22:58,279
+qué se puede hacer
+
+291
+00:22:58,279 --> 00:23:03,319
+eso no cambia
+
+292
+00:23:03,319 --> 00:23:03,759
+nada
+
+293
+00:23:03,759 --> 00:23:05,980
+ni los contenidos
+
+294
+00:23:05,980 --> 00:23:07,500
+en mi caso
+
+295
+00:23:07,500 --> 00:23:09,900
+lo vamos a hacer
+
+296
+00:23:09,900 --> 00:23:11,900
+Gracias.
+
+297
+00:23:39,900 --> 00:23:48,619
+Cuando no es una persona, si no tenemos un reino, un barato, un presidente, enviarlo como se le llama en la religión.
+
+298
+00:23:49,400 --> 00:23:54,860
+Y si en viaje la duda aparece en la casa, yo no puedo ni guardar mi mano acá en la casa.
+
+299
+00:23:54,860 --> 00:23:59,400
+Si usted tiene que volver a la casa, pues, miramos la ciudad.
+
+300
+00:24:00,920 --> 00:24:04,519
+Aquí tenemos un padre menos que a 8 años, José Eduardo.
+
+301
+00:24:04,519 --> 00:24:15,279
+Escalona de España José Francisco.
+
+302
+00:24:15,279 --> 00:24:20,019
+Vamos a estar en la paradis.
+
+303
+00:24:20,019 --> 00:24:43,000
+Hoy tenemos a González Ortega, día y día, presente, Reyes, López, Dana, Gisele, que
+
+304
+00:24:43,000 --> 00:24:46,000
+que no logró ninguna dama de cuenta en cuanto a su programa.
+
+305
+00:24:47,500 --> 00:24:51,500
+Y finalmente, sin un dedo cargado,
+
+306
+00:24:53,500 --> 00:24:56,500
+pero el desarrollo estaba para lograrlo.
+
+307
+00:24:57,500 --> 00:25:00,000
+O sea, como verán, el grupo no está todo listo.
+
+308
+00:25:00,000 --> 00:25:03,000
+Todos los que necesitamos,
+
+309
+00:25:03,500 --> 00:25:08,000
+según su materia, su estrategia, su número de cuentos,
+
+310
+00:25:08,000 --> 00:25:10,000
+son para su programa.
+
+311
+00:25:10,000 --> 00:25:15,000
+pero no se lo digo yo, no lo administra, es una madre que se exhibe
+
+312
+00:25:16,000 --> 00:25:23,000
+ok, pues, déjame saber esto, que hacer aquí
+
+313
+00:25:27,000 --> 00:25:31,000
+se les complicó mucho, digo, ya se que esta la organizadora material
+
+314
+00:25:31,000 --> 00:25:39,000
+y me preguntan, que hacen aquí, porque la verdad, es muy difícil
+
+315
+00:25:39,000 --> 00:25:42,000
+¿Cuáles son los objetivos?
+
+316
+00:25:44,000 --> 00:25:49,000
+Bueno, en mi caso no las estoy organizando, las estoy organizando.
+
+317
+00:25:49,000 --> 00:25:59,000
+El siguiente semestre llevo materias aplicadas y lo que quiero es tener un poquito más de tiempo para dedicarme a eso un poco más de atención.
+
+318
+00:25:59,000 --> 00:26:10,980
+No es que no me interese la materia, pero veo más el tiempo de dedicarle, pues un cierto lapso de tiempo a esta materia y poder darle igual más tiempo a lo que se viene más adelante.
+
+319
+00:26:11,799 --> 00:26:12,880
+¿Usted está adelantando?
+
+320
+00:26:13,220 --> 00:26:13,500
+Sí.
+
+321
+00:26:14,960 --> 00:26:19,180
+Ok. ¿Investigó obras, banderas, antes de la entrega de banderas?
+
+322
+00:26:19,839 --> 00:26:24,740
+Un poquito más buenas, pero todavía no tengo como que claro todas las definiciones.
+
+323
+00:26:25,740 --> 00:26:27,360
+Ok. ¿Usted está adelantando?
+
+324
+00:26:27,360 --> 00:26:27,660
+¿Usted está adelantando Miguel?
+
+325
+00:26:28,139 --> 00:26:28,700
+Sí.
+
+326
+00:26:29,000 --> 00:26:35,559
+igual adelantarlo
+
+327
+00:26:35,559 --> 00:26:39,139
+también para, como tengo intención de irme de intercambio
+
+328
+00:26:39,139 --> 00:26:43,860
+necesito adelantar para que no me atrase cuando regrese
+
+329
+00:26:43,860 --> 00:26:46,059
+igual eso
+
+330
+00:26:46,059 --> 00:27:01,819
+Bueno, yo ya no sé terminar las materias, me falta ese como... yo trabajo, entonces no me da tiempo de meterse a la compra, entonces nunca lo había pensado tampoco.
+
+331
+00:27:03,180 --> 00:27:13,819
+Como trabajo en la estudiante siempre he podido meterse 7 horas, entonces me he ido desalando, yo soy del plan 2012 actualizado.
+
+332
+00:27:13,819 --> 00:27:17,159
+y pues no había tomado el mando
+
+333
+00:27:17,159 --> 00:27:20,019
+¿Pero no nos acusas?
+
+334
+00:27:20,180 --> 00:27:20,759
+¿Cómo tienes que ir?
+
+335
+00:27:22,200 --> 00:27:23,500
+El trabajo que me he hecho
+
+336
+00:27:23,500 --> 00:27:25,440
+es que se abren
+
+337
+00:27:25,440 --> 00:27:27,500
+las primas que son usadas
+
+338
+00:27:27,500 --> 00:27:29,059
+y luego lo meten tres por silencio
+
+339
+00:27:29,059 --> 00:27:31,139
+pero ya hoy te llevan
+
+340
+00:27:31,139 --> 00:27:32,619
+hasta tres más días por fin
+
+341
+00:27:32,619 --> 00:27:36,200
+¿No tienes nada?
+
+342
+00:27:37,019 --> 00:27:37,599
+¿Y a mí?
+
+343
+00:27:37,599 --> 00:27:37,960
+¿A mí?
+
+344
+00:27:37,960 --> 00:27:38,000
+¿A mí?
+
+345
+00:27:38,000 --> 00:27:38,059
+¿A mí?
+
+346
+00:27:38,059 --> 00:27:38,099
+¿A mí?
+
+347
+00:27:38,099 --> 00:27:38,159
+¿A mí?
+
+348
+00:27:38,159 --> 00:27:38,200
+¿A mí?
+
+349
+00:27:38,200 --> 00:27:38,259
+¿A mí?
+
+350
+00:27:38,259 --> 00:27:38,360
+¿A mí?
+
+351
+00:27:38,360 --> 00:27:38,880
+¿A mí?
+
+352
+00:27:38,880 --> 00:27:38,980
+¿A mí?
+
+353
+00:27:38,980 --> 00:27:39,039
+¿A mí?
+
+354
+00:27:39,039 --> 00:27:39,180
+¿A mí?
+
+355
+00:27:39,180 --> 00:27:39,240
+¿A mí?
+
+356
+00:27:39,240 --> 00:27:40,039
+¿A mí?
+
+357
+00:27:40,039 --> 00:27:40,539
+¿A mí?
+
+358
+00:27:40,539 --> 00:27:40,599
+¿A mí?
+
+359
+00:27:40,599 --> 00:27:41,159
+¿A mí?
+
+360
+00:27:41,159 --> 00:27:41,480
+¿A mí?
+
+361
+00:27:41,480 --> 00:27:41,579
+¿A mí?
+
+362
+00:27:41,579 --> 00:27:41,680
+¿A mí?
+
+363
+00:27:41,680 --> 00:27:41,880
+¿A mí?
+
+364
+00:27:41,880 --> 00:27:42,880
+Gracias.
+
+365
+00:28:11,880 --> 00:28:14,880
+y
+
+366
+00:28:14,880 --> 00:28:15,880
+y
+
+367
+00:28:15,880 --> 00:28:17,880
+y
+
+368
+00:28:17,880 --> 00:28:19,880
+y
+
+369
+00:28:19,880 --> 00:28:21,880
+y
+
+370
+00:28:21,880 --> 00:28:23,880
+y
+
+371
+00:28:23,880 --> 00:28:25,880
+y
+
+372
+00:28:25,880 --> 00:28:27,880
+y
+
+373
+00:28:27,880 --> 00:28:29,880
+y
+
+374
+00:28:29,880 --> 00:28:31,880
+y
+
+375
+00:28:31,880 --> 00:28:33,880
+y
+
+376
+00:28:33,880 --> 00:28:35,880
+y
+
+377
+00:28:35,880 --> 00:28:37,880
+y
+
+378
+00:28:37,880 --> 00:28:39,880
+y
+
+379
+00:28:39,880 --> 00:28:41,880
+la verdad que los grupos igual de importantes
+
+380
+00:28:41,880 --> 00:28:43,960
+en lo que la traducción es
+
+381
+00:28:43,960 --> 00:28:45,960
+en los grupos de chineses
+
+382
+00:28:45,960 --> 00:28:47,639
+en esos grupos están igual
+
+383
+00:28:47,639 --> 00:28:56,200
+yo amo a los alumnos
+
+384
+00:28:56,200 --> 00:28:58,019
+simples como lo que hacen
+
+385
+00:28:58,019 --> 00:28:59,360
+en el programa que les tiene
+
+386
+00:28:59,360 --> 00:29:00,820
+como es la traducción
+
+387
+00:29:00,820 --> 00:29:02,840
+porque la traducción
+
+388
+00:29:02,840 --> 00:29:04,519
+son más simples
+
+389
+00:29:04,519 --> 00:29:07,840
+la modalidad es la que
+
+390
+00:29:07,840 --> 00:29:08,179
+la cual
+
+391
+00:29:08,179 --> 00:29:18,799
+si no vemos
+
+392
+00:29:18,799 --> 00:29:21,119
+el programa que ustedes vieron
+
+393
+00:29:21,119 --> 00:29:21,799
+en la experiencia
+
+394
+00:29:21,799 --> 00:29:27,119
+los tómacos que se van a desarrollar
+
+395
+00:29:27,799 --> 00:29:30,119
+son los mismos que nos tiran
+
+396
+00:29:30,119 --> 00:29:32,980
+las horas que se tienen que dedicar
+
+397
+00:29:32,980 --> 00:29:35,880
+son las mismas horas que les vamos a dedicar
+
+398
+00:29:35,880 --> 00:29:38,159
+¿Cuál es la diferencia?
+
+399
+00:29:38,840 --> 00:29:39,920
+Para muchos de ustedes
+
+400
+00:29:39,920 --> 00:29:42,700
+aparentemente no se dan cuenta
+
+401
+00:29:42,700 --> 00:29:44,119
+si hay una diferencia o no
+
+402
+00:29:44,119 --> 00:29:46,340
+La diferencia es que
+
+403
+00:29:46,340 --> 00:29:48,079
+en el escolarizado se le lleva falta
+
+404
+00:29:48,079 --> 00:29:48,700
+de un bote
+
+405
+00:29:48,700 --> 00:29:51,759
+porque todas las materias
+
+406
+00:29:51,759 --> 00:29:54,179
+dos días a la semana, terciadas
+
+407
+00:29:54,179 --> 00:29:56,400
+es decir, después
+
+408
+00:29:56,400 --> 00:29:57,059
+de tocar la mano
+
+409
+00:29:57,059 --> 00:29:59,539
+se pierde el paro
+
+410
+00:30:00,000 --> 00:30:03,000
+¿Qué es esto? No lo sé. Una combinación de cosas.
+
+411
+00:30:03,000 --> 00:30:10,000
+¿Por qué? ¿Pero qué sucede? Ustedes tienen hoy un gran trabajo de tocar, ¿no?
+
+412
+00:30:10,000 --> 00:30:11,000
+Gracias.
+
+413
+00:30:11,000 --> 00:30:14,000
+¿Cómo les toca? Por hacerles el destino de un millón de millones.
+
+414
+00:30:14,000 --> 00:30:17,000
+¿Por cuánto millón? Por lo México.
+
+415
+00:30:17,000 --> 00:30:22,000
+¿Qué pasa? Ustedes vienen y dicen, tiran en la maca dos horas y tres de clase.
+
+416
+00:30:22,000 --> 00:30:25,000
+Y no se preocupan las tenientes.
+
+417
+00:30:25,000 --> 00:30:31,000
+que un trabajo, que un tema, que una investigación, sin bronca,
+
+418
+00:30:31,000 --> 00:30:39,000
+tengo chance de irme a nada, hacer ejercicio en el equipo, ir con mi ley
+
+419
+00:30:39,000 --> 00:30:43,000
+y me sobra tiempo todavía para tener una...
+
+420
+00:30:43,000 --> 00:30:51,000
+vengo dos o tres días de interfase para estudiar, para pasar, para los tres años
+
+421
+00:30:51,000 --> 00:31:20,980
+¿Qué pasa?
+
+422
+00:31:21,000 --> 00:31:24,079
+que trabajan, se les complica.
+
+423
+00:31:24,740 --> 00:31:26,500
+Porque yo antes no tenía boca.
+
+424
+00:31:27,440 --> 00:31:29,519
+Si no me dejo tiempo, si me dejo mañana,
+
+425
+00:31:29,660 --> 00:31:30,799
+si no es mañana, es pasado.
+
+426
+00:31:31,480 --> 00:31:32,019
+Si no es tiempo,
+
+427
+00:31:33,160 --> 00:31:34,119
+¿qué me da yo volar?
+
+428
+00:31:35,180 --> 00:31:38,279
+Aquí, si tú me dices que no tienes trabajo,
+
+429
+00:31:38,480 --> 00:31:39,319
+¿qué te voy a dar?
+
+430
+00:31:43,599 --> 00:31:44,799
+¿Qué no es lo que te voy a dar?
+
+431
+00:31:46,740 --> 00:31:47,819
+¿Qué te imaginas?
+
+432
+00:32:21,000 --> 00:32:22,180
+a la mente real.
+
+433
+00:32:25,180 --> 00:32:25,980
+Pregunta
+
+434
+00:32:25,980 --> 00:32:27,819
+número uno.
+
+435
+00:32:30,099 --> 00:32:31,039
+¿Qué me obligue
+
+436
+00:32:31,039 --> 00:32:32,680
+a que me escribiera
+
+437
+00:32:32,680 --> 00:32:34,319
+el horario de la sede de hoy?
+
+438
+00:32:38,740 --> 00:32:40,000
+¿Qué me obligue
+
+439
+00:32:40,000 --> 00:32:40,559
+a que me escribiera
+
+440
+00:32:40,559 --> 00:32:41,299
+la sede de hoy?
+
+441
+00:32:46,039 --> 00:32:46,799
+Yo
+
+442
+00:32:46,799 --> 00:32:50,799
+y luego, con suerte, se descansará de todo como ha sido en la última hora.
+
+443
+00:32:51,799 --> 00:32:54,799
+Ahora, y así me demas en mi palabra,
+
+444
+00:32:55,799 --> 00:33:00,799
+como verás, esto lo debiste hablar de una forma súper perfecta.
+
+445
+00:33:01,799 --> 00:33:04,799
+Si te gustó, te lo voy a apartar de las once de la mañana,
+
+446
+00:33:05,799 --> 00:33:08,799
+para que dejo bien que te guste la materia, así, de la mañana.
+
+447
+00:33:09,799 --> 00:33:11,799
+Si te lo gustó, te lo voy a dejar de ti.
+
+448
+00:33:12,799 --> 00:33:14,799
+Pues, ¿qué me dices ahora sobre eso?
+
+449
+00:33:14,799 --> 00:33:19,099
+yo paso la lista de la ciudad
+
+450
+00:33:19,099 --> 00:33:21,539
+y tú no estás
+
+451
+00:33:21,539 --> 00:33:25,000
+yo mientras que la voy
+
+452
+00:33:25,000 --> 00:33:25,900
+y te escoges
+
+453
+00:33:25,900 --> 00:33:29,720
+voy a ir
+
+454
+00:33:29,720 --> 00:33:32,660
+entonces como verán muchachos
+
+455
+00:33:32,660 --> 00:33:33,740
+a veces es más que lo más
+
+456
+00:33:33,740 --> 00:33:34,539
+es muy tan largo
+
+457
+00:33:34,539 --> 00:33:36,240
+es muy largo
+
+458
+00:33:36,240 --> 00:33:38,339
+es el más largo de los dos
+
+459
+00:33:38,339 --> 00:33:40,960
+es muy largo
+
+460
+00:33:40,960 --> 00:33:42,460
+entonces
+
+461
+00:33:42,460 --> 00:33:44,500
+aquí yo espero que no tengamos
+
+462
+00:33:44,500 --> 00:33:46,500
+es un tipo de...
+
+463
+00:33:46,500 --> 00:33:48,500
+¡Ah!
+
+464
+00:33:48,500 --> 00:33:50,500
+Es una situación
+
+465
+00:33:50,500 --> 00:33:52,500
+y el ambiente
+
+466
+00:33:52,500 --> 00:33:54,500
+está bien, pero la materia no es difícil.
+
+467
+00:33:54,500 --> 00:33:56,500
+No es que no haga mal,
+
+468
+00:33:56,500 --> 00:33:58,500
+no es difícil, yo la tengo.
+
+469
+00:33:58,500 --> 00:34:00,500
+Los chavos quizás no le hacen nada
+
+470
+00:34:00,500 --> 00:34:02,500
+a la fama.
+
+471
+00:34:02,500 --> 00:34:04,500
+Digo, porque a la gallina.
+
+472
+00:34:06,500 --> 00:34:08,500
+Pero la materia entretenece.
+
+473
+00:34:08,500 --> 00:34:10,500
+Van a ver que al tempo
+
+474
+00:34:10,500 --> 00:34:12,500
+no se procede.
+
+475
+00:34:14,500 --> 00:34:19,500
+¿Se les va a ser difícil en el caso de usted?
+
+476
+00:34:19,500 --> 00:34:24,500
+Me lo digo a ustedes porque por lo que veo ustedes
+
+477
+00:34:24,500 --> 00:34:29,500
+yo ya entiendo que van a tocar la materia.
+
+478
+00:34:29,500 --> 00:34:35,500
+A mí sí que queda claro algo, a los negociadores se les hace más fácil.
+
+479
+00:34:35,500 --> 00:34:39,500
+A ver, vamos a hacer un análisis de nosotros.
+
+480
+00:34:39,500 --> 00:34:41,800
+¿Por qué estos hijos son imbéciles?
+
+481
+00:34:42,400 --> 00:34:44,119
+¿Por qué están enseñando a los niños?
+
+482
+00:34:45,300 --> 00:34:47,239
+¿Por qué todavía no conocen a su madre?
+
+483
+00:34:48,099 --> 00:34:49,739
+¿Ya la llevaron a un semestre?
+
+484
+00:34:50,760 --> 00:34:52,059
+Por la razón que sea.
+
+485
+00:34:52,480 --> 00:34:53,119
+Pero nada más.
+
+486
+00:34:53,480 --> 00:34:54,039
+Estamos de acuerdo.
+
+487
+00:34:54,860 --> 00:34:55,840
+¿Por qué hará daño?
+
+488
+00:34:56,599 --> 00:34:59,159
+Pues porque no le dedicaron el tiempo.
+
+489
+00:34:59,840 --> 00:35:02,340
+Porque sus agendas estaban saturadas.
+
+490
+00:35:03,079 --> 00:35:04,860
+Porque se la pasaron huevoneando.
+
+491
+00:35:05,039 --> 00:35:06,300
+Como tú le quieras llamar.
+
+492
+00:35:06,300 --> 00:35:09,300
+pero no se me estrenó
+
+493
+00:35:09,300 --> 00:35:12,320
+porque a lo mejor
+
+494
+00:35:12,320 --> 00:35:13,559
+no lo tienen en el examen
+
+495
+00:35:13,559 --> 00:35:17,960
+pero ya saben de qué están hablando
+
+496
+00:35:17,960 --> 00:35:21,559
+entonces vienen aquí y nada más vienen a recobrar
+
+497
+00:35:21,559 --> 00:35:24,880
+vienen aquí y nada más vienen a completar
+
+498
+00:35:24,880 --> 00:35:25,519
+porque les pago
+
+499
+00:35:25,519 --> 00:35:28,639
+vienen aquí y nada más vienen a aclarar
+
+500
+00:35:28,639 --> 00:35:31,260
+es que el teoría de Dios es más
+
+501
+00:35:31,260 --> 00:35:34,579
+pero aquí la bronca es que ustedes se me olvidan
+
+502
+00:35:34,579 --> 00:35:44,779
+de ningún tipo de fuente que no está diseñado para venir en teoría, en teoría, a ver con toda la calma que yo tengo,
+
+503
+00:35:44,779 --> 00:35:46,779
+el tema profesional.
+
+504
+00:35:46,779 --> 00:35:50,779
+Pues primero, hay que algo que no aprecie para el sentido.
+
+505
+00:35:50,779 --> 00:35:54,779
+Eso va a ser su primer enemigo mundial.
+
+506
+00:35:54,779 --> 00:35:56,779
+No sé si intervienen con nosotros.
+
+507
+00:35:56,779 --> 00:36:01,779
+Entonces quizá lo que se van a hacer es algo que se van a hacer con nosotros.
+
+508
+00:36:01,779 --> 00:36:02,860
+y yo se me la dejo.
+
+509
+00:36:04,119 --> 00:36:05,219
+Pero si tengo un mar,
+
+510
+00:36:05,579 --> 00:36:06,099
+¿cuál precio?
+
+511
+00:36:08,320 --> 00:36:09,779
+¿Cuál es la recomendación
+
+512
+00:36:09,779 --> 00:36:11,019
+que yo les voy a dar a los bichos?
+
+513
+00:36:11,440 --> 00:36:11,840
+A ver,
+
+514
+00:36:11,920 --> 00:36:14,000
+si ustedes pagan
+
+515
+00:36:14,000 --> 00:36:15,119
+a los desatletas,
+
+516
+00:36:15,279 --> 00:36:16,619
+no crean que
+
+517
+00:36:16,619 --> 00:36:19,739
+si me echan bien
+
+518
+00:36:19,739 --> 00:36:20,539
+a los bichos,
+
+519
+00:36:20,679 --> 00:36:21,219
+no tienen que
+
+520
+00:36:21,219 --> 00:36:22,279
+mantenerlos
+
+521
+00:36:22,279 --> 00:36:22,920
+a pesar de que
+
+522
+00:36:22,920 --> 00:36:23,420
+son un grupo
+
+523
+00:36:23,420 --> 00:36:24,219
+que son un cualquiera
+
+524
+00:36:24,219 --> 00:36:24,719
+de los bichos.
+
+525
+00:36:26,059 --> 00:36:26,460
+Pero hay que
+
+526
+00:36:26,460 --> 00:36:27,019
+dificultar
+
+527
+00:36:27,019 --> 00:36:27,779
+y hay que
+
+528
+00:36:27,779 --> 00:36:28,059
+evitar
+
+529
+00:36:28,059 --> 00:36:28,760
+que se pongan
+
+530
+00:36:28,760 --> 00:36:29,800
+en sus trabajos
+
+531
+00:36:29,800 --> 00:36:30,380
+y entonces
+
+532
+00:36:30,380 --> 00:36:30,980
+si se reparan
+
+533
+00:36:30,980 --> 00:36:36,260
+de la vida, pues, a los hombres, porque si no se aplicaron a ustedes, pues, claro,
+
+534
+00:36:37,079 --> 00:36:43,420
+si mucho de cosas, aparte de lo que tienen que ver, tienen la ropa de lo que deben saber.
+
+535
+00:36:45,539 --> 00:36:49,239
+Y si a mí me ven y me dicen, es que eso yo no lo vi, por la pena que yo lo vea en el estudio,
+
+536
+00:36:49,239 --> 00:36:54,159
+dice que usted se lo sabe. Y si lo vio o no lo vio, es que yo vengo yo a preguntarse,
+
+537
+00:36:54,699 --> 00:37:00,199
+yo vengo a lo que usted lleva a pliegue. Es como si yo te lo había preguntado,
+
+538
+00:37:00,199 --> 00:37:02,199
+¿por qué no lo hago?
+
+539
+00:37:02,199 --> 00:37:04,199
+necesito que me hagan una macro
+
+540
+00:37:04,199 --> 00:37:06,199
+correcto
+
+541
+00:37:06,199 --> 00:37:08,199
+y que me desarrolle
+
+542
+00:37:08,199 --> 00:37:10,199
+con base de datos
+
+543
+00:37:10,199 --> 00:37:12,199
+no existe
+
+544
+00:37:12,199 --> 00:37:14,199
+si me va a decir que yo
+
+545
+00:37:14,199 --> 00:37:16,199
+no me diste el ser
+
+546
+00:37:16,199 --> 00:37:18,199
+acabo
+
+547
+00:37:18,199 --> 00:37:20,199
+aquí me dice que tu puedes desarrollar
+
+548
+00:37:20,199 --> 00:37:22,199
+un macro
+
+549
+00:37:22,199 --> 00:37:24,199
+yo no se si me diste el ser o no me diste el ser
+
+550
+00:37:24,199 --> 00:37:26,199
+yo no se si me diste
+
+551
+00:37:26,199 --> 00:37:28,199
+base de datos o no me diste el ser
+
+552
+00:37:28,199 --> 00:37:33,139
+¿A quién se le va a pedir?
+
+553
+00:37:34,900 --> 00:37:35,380
+Pásame.
+
+554
+00:37:39,539 --> 00:37:42,059
+Voy con el administrador.
+
+555
+00:37:43,260 --> 00:37:45,739
+Y me dice que tenemos que determinar una nómina.
+
+556
+00:37:46,000 --> 00:37:48,380
+Este va para factor humano, si sabe de lo que estamos hablando.
+
+557
+00:37:49,860 --> 00:37:51,760
+Si sabe de lo que estamos hablando, la nómina.
+
+558
+00:37:52,500 --> 00:37:55,320
+La nómina no es llegar a su apellido en un trabajo,
+
+559
+00:37:55,320 --> 00:37:57,739
+no es hablar de quién es, se lo hizo el foco.
+
+560
+00:37:58,199 --> 00:38:05,199
+Usted le suelte billetes a su señor trabajador, ¿qué cree que tiene que hacer antes?
+
+561
+00:38:05,199 --> 00:38:19,199
+Pues tiene que ver cuál es su salario nominal, tiene que saber qué prestaciones tiene, porque el señor usted no lo va a pagar desde su gana,
+
+562
+00:38:19,199 --> 00:38:23,199
+¿Usted no sabe cuánto es su salario? Pasa.
+
+563
+00:38:23,199 --> 00:38:26,199
+Usted tiene que saber si el señor tiene derecho al Seguro Social,
+
+564
+00:38:26,199 --> 00:38:29,199
+¿cuánto le va a retener el Seguro Social?
+
+565
+00:38:29,199 --> 00:38:32,199
+Usted tiene que saber si el señor tiene derecho a un bonamiento,
+
+566
+00:38:32,199 --> 00:38:35,199
+¿qué va a pasar con el bonamiento?
+
+567
+00:38:35,199 --> 00:38:40,199
+Usted tiene que saber que el señor tiene que pagar impuestos, impuestos sobre la renta.
+
+568
+00:38:40,199 --> 00:38:45,199
+Miren, pues, sobre la renta no lo va a pagar usted, no va a pagar la renta, usted lo va a retener.
+
+569
+00:38:45,199 --> 00:38:47,880
+Nada más que entretener los dientes que nos han dado,
+
+570
+00:38:48,880 --> 00:38:50,400
+ustedes deben saber calcular todos.
+
+571
+00:38:50,980 --> 00:38:54,140
+Y aquí me dice que la morirá la morirá.
+
+572
+00:38:55,039 --> 00:38:56,239
+Que lo voy a pasar a seguir.
+
+573
+00:38:56,619 --> 00:39:02,019
+Aquí la nómina del Señor, no sé, pongamos como ejemplo, Carlos.
+
+574
+00:39:06,619 --> 00:39:08,559
+¿Cómo lo vas a hacer con los que te tocan?
+
+575
+00:39:09,320 --> 00:39:11,920
+Aquí dice que lo que te vas a hacer no es.
+
+576
+00:39:11,920 --> 00:39:22,659
+Y si a mí me dices, oiga, es que no me hicieron la captura del manual, oiga, es que yo no sé cómo se captura el segundo social, oiga, es que yo no sé cómo se captura el impuesto de la renta.
+
+577
+00:39:24,619 --> 00:39:25,760
+Nuevamente, ¿qué pensamos?
+
+578
+00:39:27,260 --> 00:39:28,079
+Pues que lo pasó.
+
+579
+00:39:29,300 --> 00:39:30,199
+Qué mala motivación.
+
+580
+00:39:32,139 --> 00:39:32,920
+Qué triste, ¿no?
+
+581
+00:39:32,920 --> 00:39:33,099
+¿Qué pasa?
+
+582
+00:39:35,719 --> 00:39:40,179
+Si lo viste en la administración, uno, dos, tres, cuatro, qué bueno.
+
+583
+00:39:40,179 --> 00:39:42,920
+si no lo viste ni la 5
+
+584
+00:39:42,920 --> 00:39:44,480
+que pena
+
+585
+00:39:44,480 --> 00:39:47,440
+porque la 6 no va a ser
+
+586
+00:39:47,440 --> 00:39:50,300
+¿sí?
+
+587
+00:39:50,300 --> 00:39:50,359
+¿sí?
+
+588
+00:39:53,659 --> 00:39:54,539
+ok
+
+589
+00:39:54,539 --> 00:39:56,440
+bueno
+
+590
+00:39:56,440 --> 00:39:59,980
+pues vamos a irnos con un sitio
+
+591
+00:40:00,000 --> 00:40:07,000
+Por eso tenemos un nuevo grupo de estudiantes que se presenta en toda la tabla de abragantes.
+
+592
+00:40:07,000 --> 00:40:12,000
+A este lado, que es el que ya hablaba, que es el que va a hablar en el caso de todos.
+
+593
+00:40:12,000 --> 00:40:16,000
+Para ver cada uno de los que van a venir a hablar con él.
+
+594
+00:40:16,000 --> 00:40:19,000
+Ok, ya volvimos.
+
+595
+00:40:19,000 --> 00:40:23,000
+Lo primero que nos quiso saber, bueno, antes que nada, ¿qué es lo que se está hablando?
+
+596
+00:40:23,000 --> 00:40:27,000
+¿Qué necesitamos? ¿Y lo que quiere el programa con todo esto?
+
+597
+00:40:27,000 --> 00:40:38,199
+si quieren saber si te preparamos, si tienen conocimientos de esta materia, si quieren saber cuáles materias, lo que es este, ¿qué necesitas?
+
+598
+00:40:40,679 --> 00:40:44,380
+Bueno, ahorita entendí que tiene tres grupos de intercensión.
+
+599
+00:40:45,300 --> 00:40:53,699
+Eh, bueno, en este caso, en este caso, para ustedes,
+
+600
+00:40:53,699 --> 00:40:57,340
+porque como tal, a los 90 años me llegué a saber
+
+601
+00:40:57,340 --> 00:41:01,239
+pero no me representaba
+
+602
+00:41:01,239 --> 00:41:03,780
+también ver clases en otras instituciones
+
+603
+00:41:03,780 --> 00:41:06,360
+entonces yo ahorita
+
+604
+00:41:06,360 --> 00:41:07,599
+como lo siento
+
+605
+00:41:07,599 --> 00:41:09,920
+bueno
+
+606
+00:41:09,920 --> 00:41:16,039
+por lo pronto ahorita
+
+607
+00:41:16,039 --> 00:41:18,639
+pues tendríamos que platicar
+
+608
+00:41:18,639 --> 00:41:22,059
+tanto de la UNAM como de otras instituciones
+
+609
+00:41:22,059 --> 00:41:23,059
+Gracias.
+
+610
+00:41:52,059 --> 00:41:55,059
+y
+
+611
+00:41:55,059 --> 00:41:58,059
+y
+
+612
+00:41:58,059 --> 00:42:02,059
+y
+
+613
+00:42:02,059 --> 00:42:05,059
+y
+
+614
+00:42:05,059 --> 00:42:08,059
+y
+
+615
+00:42:08,059 --> 00:42:11,059
+y
+
+616
+00:42:11,059 --> 00:42:14,059
+y
+
+617
+00:42:14,059 --> 00:42:17,059
+y
+
+618
+00:42:17,059 --> 00:42:20,059
+y
+
+619
+00:42:20,059 --> 00:42:26,639
+Y lo primero, cuando yo le dejo de su conocimiento, su madre o a su hijo,
+
+620
+00:42:26,639 --> 00:42:30,239
+yo creo que cada vez que le hablan a su madre, a su hija,
+
+621
+00:42:30,239 --> 00:42:32,639
+ella cree que yo soy un chiquitín.
+
+622
+00:42:33,420 --> 00:42:37,219
+No puede ser que ella no sepa que yo soy un chiquitín.
+
+623
+00:42:38,739 --> 00:42:40,139
+Entonces, tú me mueres de orgullo.
+
+624
+00:42:45,199 --> 00:42:48,420
+Por si fuera poco, si se queda aquí, a mí me saca la madre.
+
+625
+00:43:20,059 --> 00:43:25,059
+Pero hay una diferencia muy grande entre ustedes y mis alumnos del octavo.
+
+626
+00:43:25,059 --> 00:43:31,059
+Usted viene a presumir su iPhone 20 y cambio.
+
+627
+00:43:31,059 --> 00:43:37,059
+¿Vale? Pero usted sin esto no va a resolver lo que está de frente.
+
+628
+00:43:37,059 --> 00:43:42,059
+Mis alumnos no presumen iPhone, pero tienen algo que se llama CPU.
+
+629
+00:43:42,059 --> 00:43:48,059
+Ellos piensan. Solo que demuestren que usted piensa sin el teléfono.
+
+630
+00:43:48,059 --> 00:43:50,360
+y es donde pisa la gana
+
+631
+00:43:50,360 --> 00:43:52,659
+porque tiene mucha tecnología
+
+632
+00:43:52,659 --> 00:43:53,860
+y mucha gana de tecnología
+
+633
+00:43:53,860 --> 00:43:56,500
+así que podemos
+
+634
+00:43:56,500 --> 00:43:57,099
+estudiar
+
+635
+00:43:57,099 --> 00:43:59,059
+pero es el mismo
+
+636
+00:43:59,059 --> 00:44:05,119
+pero perdón
+
+637
+00:44:05,119 --> 00:44:06,360
+¿qué necesitas?
+
+638
+00:44:07,619 --> 00:44:09,760
+bueno, es que
+
+639
+00:44:09,760 --> 00:44:11,199
+tengo entendido que
+
+640
+00:44:11,199 --> 00:44:12,380
+algunos profesores
+
+641
+00:44:12,380 --> 00:44:14,980
+tienen que dar tres clases
+
+642
+00:44:14,980 --> 00:44:16,079
+al semestre
+
+643
+00:44:16,079 --> 00:44:46,059
+¿Qué es lo que se ve en los maestros?
+
+644
+00:44:46,059 --> 00:44:49,059
+administrativos y su alma es tuya.
+
+645
+00:44:49,059 --> 00:44:54,059
+Por ejemplo, los administrativos tienen que cumplir con su labor administrativa
+
+646
+00:44:54,059 --> 00:44:59,059
+y aparte tienen que cumplir con un número de horas frente a uno.
+
+647
+00:44:59,059 --> 00:45:03,059
+O sea, tienen que estar allá y a charleco o a un minotier.
+
+648
+00:45:03,059 --> 00:45:07,059
+Tienen que cumplir con un cierto número de horas.
+
+649
+00:45:07,059 --> 00:45:12,059
+Porque si es su clase, hay maestros de tiempo completo
+
+650
+00:45:12,059 --> 00:45:16,059
+se dedican a eso de la clase.
+
+651
+00:45:16,059 --> 00:45:19,059
+Hay maestros de medio tiempo, ya,
+
+652
+00:45:19,059 --> 00:45:22,059
+hablan diferentes tipos de maestros.
+
+653
+00:45:22,059 --> 00:45:26,059
+En mi caso personal, yo soy catedrático definitivo
+
+654
+00:45:26,059 --> 00:45:31,059
+por oposición y yo no vivo de esto,
+
+655
+00:45:31,059 --> 00:45:34,059
+es decir, no me dedico nada más a la clase.
+
+656
+00:45:34,059 --> 00:45:37,059
+Yo trabajo de manera independiente
+
+657
+00:45:37,059 --> 00:46:03,659
+y aparte de dar clases
+
+658
+00:46:03,659 --> 00:46:05,159
+se dedica a otra cosa
+
+659
+00:46:07,059 --> 00:46:13,920
+En la vida real, en este momento aquí yo soy licenciado contaduario.
+
+660
+00:46:16,079 --> 00:46:23,380
+Aparte de una cátedra, yo soy asesor en la tarea financiera contaduría fiscal.
+
+661
+00:46:24,720 --> 00:46:27,279
+Soy un compañero de otro despacho.
+
+662
+00:46:28,860 --> 00:46:32,980
+Soy socio de otro despacho, de dos despachos.
+
+663
+00:46:32,980 --> 00:46:34,659
+correcto
+
+664
+00:46:34,659 --> 00:46:38,099
+independientemente de eso
+
+665
+00:46:38,099 --> 00:46:40,139
+en materia relacionada
+
+666
+00:46:40,139 --> 00:46:41,519
+a esta cuenta bonita
+
+667
+00:46:41,519 --> 00:46:44,639
+que es mi profesión etílica
+
+668
+00:46:44,639 --> 00:46:46,720
+aparte de eso
+
+669
+00:46:46,720 --> 00:46:47,880
+tengo
+
+670
+00:46:47,880 --> 00:46:49,380
+posseados
+
+671
+00:46:49,380 --> 00:46:52,400
+entre finanzas
+
+672
+00:46:52,400 --> 00:46:54,199
+hablando de todas las finanzas
+
+673
+00:46:54,199 --> 00:46:56,500
+entonces relacionado a las finanzas
+
+674
+00:46:56,500 --> 00:46:58,880
+tengo maestría en finanzas
+
+675
+00:46:58,880 --> 00:47:00,400
+correcto
+
+676
+00:47:00,400 --> 00:47:02,639
+adicionalmente a eso
+
+677
+00:47:02,639 --> 00:47:09,639
+que corresponde a la educación internacional,
+
+678
+00:47:10,739 --> 00:47:13,480
+la vida profesional de mi escuela,
+
+679
+00:47:14,480 --> 00:47:19,579
+desarrollando lo que son operaciones de importación y exportación.
+
+680
+00:47:21,079 --> 00:47:24,480
+Desde aquí, en la Guanavista,
+
+681
+00:47:26,179 --> 00:47:30,139
+tengo un curso en microempresario
+
+682
+00:47:30,139 --> 00:47:44,980
+con un negocio de logística terrestre en materia de importación y exportación a nivel de operaciones de comercio exterior.
+
+683
+00:47:46,579 --> 00:47:54,300
+Y algunos otros pequeños convenios que tengo de negocios por mis problemas climáticos.
+
+684
+00:47:54,300 --> 00:47:57,780
+básicamente
+
+685
+00:47:57,780 --> 00:48:00,380
+en ese entorno
+
+686
+00:48:00,380 --> 00:48:02,079
+aparte de ser
+
+687
+00:48:02,079 --> 00:48:04,320
+catedrático de varias instituciones
+
+688
+00:48:04,320 --> 00:48:06,720
+entre ellas
+
+689
+00:48:06,720 --> 00:48:07,880
+la Comisión de la Chilena
+
+690
+00:48:07,880 --> 00:48:09,920
+la CIDA, la CIDA de Anticrán
+
+691
+00:48:09,920 --> 00:48:11,119
+la CIDA de Anticrán
+
+692
+00:48:11,119 --> 00:48:12,119
+y
+
+693
+00:48:12,119 --> 00:48:16,280
+doy placer
+
+694
+00:48:16,280 --> 00:48:17,579
+a estas instituciones
+
+695
+00:48:17,579 --> 00:48:18,739
+sin hacerle
+
+696
+00:48:18,739 --> 00:48:19,820
+la catedría
+
+697
+00:48:19,820 --> 00:48:40,920
+Soy académico en la Pago de Vista, soy académico en la Anáhuac, soy académico en la Zambia, soy académico en el Turco de México,
+
+698
+00:48:40,920 --> 00:48:50,920
+Soy académico de la América del Aero Blanco, de la América Rusana, de la Querétana, de varios países.
+
+699
+00:48:50,920 --> 00:49:04,920
+Pero al igual que yo no les contesto antes que me lo pregunten, yo adoro el raitán, porque yo soy de ese raitán, pero a mí no le puedo dedicar mucho.
+
+700
+00:49:04,920 --> 00:49:11,219
+Entonces yo nada más voy en ciertos periodos de tiempo a cada institución.
+
+701
+00:49:12,079 --> 00:49:16,380
+Ejemplo, yo aquí no lo descubro, únicamente no, interanuales.
+
+702
+00:49:17,440 --> 00:49:18,840
+¿Por qué? Porque es tan difícil.
+
+703
+00:49:19,679 --> 00:49:24,659
+La verdad es que yo en la posibilidad, les comentaba cuáles son las operaciones,
+
+704
+00:49:25,900 --> 00:49:29,840
+yo viajo muchísimo, me la vivo constantemente.
+
+705
+00:49:29,840 --> 00:49:34,260
+de aquí a la frontera, de la frontera aquí a las diferentes fronteras,
+
+706
+00:49:34,360 --> 00:49:35,739
+con las operaciones de comercio.
+
+707
+00:49:37,579 --> 00:49:38,820
+En su ocasión, se venía a la vista.
+
+708
+00:49:40,720 --> 00:49:47,000
+De hecho, la menor parte de los que fueron a la febrera se venían.
+
+709
+00:49:48,199 --> 00:49:50,880
+De los que fueron a la febrera se venían.
+
+710
+00:49:53,000 --> 00:49:54,639
+La mayor parte de los que venían.
+
+711
+00:49:56,139 --> 00:49:57,940
+Si no fue de luchados, de los que fueron a la febrera.
+
+712
+00:49:57,940 --> 00:49:59,940
+Gracias.
+
+713
+00:50:00,000 --> 00:50:08,000
+Entonces, yo no voy a ir a esa clase porque no me implica en las estados.
+
+714
+00:50:08,000 --> 00:50:12,000
+Están seis meses en el curso y no se ven.
+
+715
+00:50:12,000 --> 00:50:18,000
+Yo no vivo en las clases, yo vivo en los negocios.
+
+716
+00:50:18,000 --> 00:50:28,000
+Entonces, pues ahora desde que me casé con él, yo no podía, bueno, sí puedo, pero no me conmigo.
+
+717
+00:50:28,000 --> 00:50:43,599
+Yo prefiero cursos que no son muy probados, cursos más seminarios, como son los seminarios en los que yo voy un mes y medio.
+
+718
+00:50:43,599 --> 00:50:47,900
+Vamos a ver si es como el caso de ustedes.
+
+719
+00:50:49,579 --> 00:50:52,900
+Este curso es un curso más a la escuela, es a los alumnos.
+
+720
+00:50:52,900 --> 00:50:53,900
+Gracias.
+
+721
+00:51:22,900 --> 00:51:28,639
+No es un material de los matadores, como dirá la madre de nuestro Camila de Plata,
+
+722
+00:51:29,539 --> 00:51:34,519
+de los que van a haber hechos, ni la mitad, ni es la misma materia.
+
+723
+00:51:36,360 --> 00:51:41,179
+Como puedan ver, son 64 de los que nos están viendo.
+
+724
+00:51:41,500 --> 00:51:44,679
+Lo mismo que en el semestre escolar, ¿qué es lo que pasa?
+
+725
+00:51:44,679 --> 00:51:46,579
+en ustedes
+
+726
+00:51:46,579 --> 00:51:49,400
+en este caso
+
+727
+00:51:49,400 --> 00:51:50,320
+de la interacción
+
+728
+00:51:50,320 --> 00:51:53,159
+se ve lo mismo
+
+729
+00:51:53,159 --> 00:51:54,079
+pero se ve bien
+
+730
+00:51:54,079 --> 00:51:56,579
+se ve bien lo mismo
+
+731
+00:51:56,579 --> 00:51:59,539
+si hacemos cuentas
+
+732
+00:51:59,539 --> 00:52:00,099
+muchachos
+
+733
+00:52:00,099 --> 00:52:02,199
+ustedes van a estar en su cuerpo
+
+734
+00:52:02,199 --> 00:52:05,260
+por lo que me pasaron
+
+735
+00:52:05,260 --> 00:52:06,280
+también hace un rato
+
+736
+00:52:06,280 --> 00:52:09,239
+por lo que me pasaron hace un rato
+
+737
+00:52:09,239 --> 00:52:11,380
+volvieron a mover
+
+738
+00:52:11,380 --> 00:52:13,260
+el calentazo
+
+739
+00:52:13,260 --> 00:52:32,860
+¿Me corrige si estoy bien? ¿Has tomado algún otro interés? ¿Estuviste en interpasar?
+
+740
+00:52:34,239 --> 00:52:37,199
+No, porque ha tardado muchas horas.
+
+741
+00:52:37,199 --> 00:52:43,699
+muy para mí, el interpasón entre personas, el interpasón entre un cuantio.
+
+742
+00:52:46,699 --> 00:52:47,699
+¿Por qué?
+
+743
+00:52:52,360 --> 00:53:00,199
+Fue un convenio que se llevó con los chamas, porque los alumnos hicieron su desmayo
+
+744
+00:53:00,199 --> 00:53:08,199
+para realizar una universidad y cuando se dieron cuenta ya estaban en santa cruz
+
+745
+00:53:08,199 --> 00:53:14,199
+iban a perder ese semestre y vinieron a chiclear
+
+746
+00:53:14,199 --> 00:53:17,199
+que no querían salir del semestre
+
+747
+00:53:17,199 --> 00:53:22,199
+pues como no podías perder cabrón si estuviste para la universidad
+
+748
+00:53:22,199 --> 00:53:27,199
+la única manera en la que la universidad trató de ayudarles
+
+749
+00:53:27,199 --> 00:53:37,539
+fue ajustando los caninares para que los alumnos pudieran terminar en tiempo y fuego, pero a los
+
+750
+00:53:37,539 --> 00:53:45,800
+índices los recuerdo. ¿Qué hizo? En vez de que sean tres horas, van a ser cuatro. Y así se la
+
+751
+00:53:45,800 --> 00:53:53,780
+corrieron los chavos. Digo, si no querían perder nuestro honor. No sé si estoy bien aquí, pero
+
+752
+00:53:53,780 --> 00:53:54,960
+obviamente su tiempo de vacaciones.
+
+753
+00:53:56,920 --> 00:54:00,500
+Entonces, como ahorita se está tratando otra vez de regularizar el calendario,
+
+754
+00:54:02,280 --> 00:54:07,699
+el periodo pasado fue de cuatro horas, normalmente se deberían de dar corridas.
+
+755
+00:54:08,239 --> 00:54:15,880
+Después de un cambiado a tres semanas, vacaciones, no, una semana, vacaciones y tres semanas.
+
+756
+00:54:17,320 --> 00:54:20,519
+Estos meses de mercado de reservas, en los segundos, en los segundos,
+
+757
+00:54:20,519 --> 00:54:26,119
+y luego, en el próximo mes o semana, me manda un correo, donde me notifica que el nuevo
+
+758
+00:54:26,119 --> 00:54:33,460
+carretado se vuelve a ajustar. Y ahora vamos a estar dos semanas. Se van de vacaciones
+
+759
+00:54:33,460 --> 00:54:40,739
+y regresan dos semanas. Pero si lo vemos en términos reales, son cuatro semanas.
+
+760
+00:54:43,820 --> 00:54:48,380
+Si sumas el número de horas, te va a dar el número de horas que tienes en el semestre
+
+761
+00:54:48,380 --> 00:54:50,300
+que van a ser 60 al promedio.
+
+762
+00:54:51,239 --> 00:54:53,000
+Si sacamos la cuenta, nosotros tenemos
+
+763
+00:54:53,000 --> 00:54:53,460
+casi
+
+764
+00:54:53,460 --> 00:54:57,320
+17 días, son 3 horas
+
+765
+00:54:57,320 --> 00:54:57,880
+diarias.
+
+766
+00:54:58,980 --> 00:55:01,300
+3 horas diarias
+
+767
+00:55:01,300 --> 00:55:02,219
+por 5 días
+
+768
+00:55:02,219 --> 00:55:05,340
+a la semana, son 15 horas.
+
+769
+00:55:06,179 --> 00:55:07,139
+15 horas por
+
+770
+00:55:07,139 --> 00:55:09,039
+4 semanas son las 60 horas
+
+771
+00:55:09,039 --> 00:55:09,920
+que va a ir el programa.
+
+772
+00:55:11,059 --> 00:55:11,579
+Es lo mismo.
+
+773
+00:55:13,320 --> 00:55:15,059
+Entonces, regresando a lo que estábamos platicando
+
+774
+00:55:15,059 --> 00:55:15,440
+conmigo,
+
+775
+00:55:15,440 --> 00:55:28,440
+Yo prefiero dedicarme, por ejemplo, a la facultad, cuatro semanas, seis meses, y mucho más.
+
+776
+00:55:28,440 --> 00:55:35,440
+Y lo mismo hago con los privados. Oye, tengo una especialidad, ¿qué modo me hay que dar?
+
+777
+00:55:35,440 --> 00:55:37,940
+Oye, ¿no te pones a mediar? No.
+
+778
+00:55:37,940 --> 00:55:38,940
+¿Cómo?
+
+779
+00:55:38,940 --> 00:55:41,940
+Si tengo tiempo de trabajo, perfecto.
+
+780
+00:55:41,940 --> 00:55:44,940
+¿Qué conviene? Bueno, si no, busca otro.
+
+781
+00:55:44,940 --> 00:55:46,940
+¿Tienes pensamiento?
+
+782
+00:55:46,940 --> 00:55:48,940
+Así me parejo.
+
+783
+00:55:48,940 --> 00:55:50,940
+¿Algún ejemplo?
+
+784
+00:55:50,940 --> 00:55:52,940
+¿O te gusta?
+
+785
+00:55:57,940 --> 00:55:59,940
+¿No?
+
+786
+00:55:59,940 --> 00:56:01,940
+¿Algún ejemplo que te haya hecho?
+
+787
+00:56:01,940 --> 00:56:03,440
+Yo estoy perfecto.
+
+788
+00:56:03,440 --> 00:56:04,440
+¿Estás seguro?
+
+789
+00:56:04,440 --> 00:56:04,940
+Sí.
+
+790
+00:56:04,940 --> 00:56:08,139
+Si me tienen en la cabeza, me voy a hacer un poco de chicharro.
+
+791
+00:56:08,139 --> 00:56:08,659
+No, no, no.
+
+792
+00:56:09,800 --> 00:56:11,219
+Me voy a hacer un poco de chicharro.
+
+793
+00:56:13,440 --> 00:56:15,820
+Y como se lo dije, yo no me subo ni a la mesa.
+
+794
+00:56:17,039 --> 00:56:17,920
+No, no, no.
+
+795
+00:56:19,260 --> 00:56:20,320
+Tengo un parámetro.
+
+796
+00:56:22,159 --> 00:56:25,400
+Si me des la pena, me voy a dar un chicharro allá atrás.
+
+797
+00:56:32,400 --> 00:56:33,880
+Efectivamente, tengo un parámetro.
+
+798
+00:56:34,940 --> 00:56:40,579
+¿Por qué razón?
+
+799
+00:56:41,639 --> 00:56:46,139
+Porque si tengo un
+
+800
+00:56:46,139 --> 00:56:48,599
+nivel importante de información.
+
+801
+00:56:50,079 --> 00:56:51,779
+Sí, eso es una chica muy bien.
+
+802
+00:56:51,779 --> 00:56:55,260
+De un grupo, si bien es malo,
+
+803
+00:56:55,400 --> 00:56:56,239
+va a salir de casa.
+
+804
+00:56:57,559 --> 00:56:59,739
+Entonces, para los chavos, eso es un malo.
+
+805
+00:56:59,880 --> 00:57:01,199
+Es un hijo del diablo.
+
+806
+00:57:01,420 --> 00:57:02,619
+No, no, no.
+
+807
+00:57:02,619 --> 00:57:09,619
+Yo, por un lado, como vamos a hablar, César Roque es del César y yo le impongo un dictor a mis alumnos,
+
+808
+00:57:09,619 --> 00:57:16,619
+a mis ex alumnos, a su compañero, a referencias reales.
+
+809
+00:57:16,619 --> 00:57:20,619
+Por otro lado, bueno, vamos a contarles las notificaciones.
+
+810
+00:57:20,619 --> 00:57:25,619
+Seguro que se miran eso ahorita. Yo no programo las notificaciones.
+
+811
+00:57:25,619 --> 00:57:30,619
+A mí si me sacas diez, diez te lo compro.
+
+812
+00:57:30,619 --> 00:57:35,619
+y así me sacas cinco de todo.
+
+813
+00:57:35,619 --> 00:57:40,619
+No, no es como alquilar esos que tienes aliviar, a veces te van a poner en mi casa,
+
+814
+00:57:40,619 --> 00:57:45,619
+si yo no lo hago bien. Me van a educar muy bien en casa,
+
+815
+00:57:45,619 --> 00:57:50,619
+me van a coger a hacer tu trabajo. Yo tenía esas cosas muy fáciles,
+
+816
+00:57:50,619 --> 00:57:55,619
+pero no te estudiaron. No te estudiaron
+
+817
+00:57:55,619 --> 00:57:57,619
+O sea, que no tienes contra.
+
+818
+00:57:57,619 --> 00:58:01,619
+Pero si me pidas que yo te regale o guarde una calificación,
+
+819
+00:58:01,619 --> 00:58:03,619
+lo voy a hacer.
+
+820
+00:58:03,619 --> 00:58:05,619
+Que te quede bien claro eso, gente.
+
+821
+00:58:05,619 --> 00:58:08,619
+O sea, a lo mejor te puedo ayudar,
+
+822
+00:58:08,619 --> 00:58:11,619
+pero no te voy a regalar.
+
+823
+00:58:11,619 --> 00:58:14,619
+Aquí yo estoy bien trabajado.
+
+824
+00:58:14,619 --> 00:58:16,619
+Fácil.
+
+825
+00:58:16,619 --> 00:58:18,619
+Yo parto de la premisa
+
+826
+00:58:18,619 --> 00:58:20,619
+de que mi intención es llegar
+
+827
+00:58:20,619 --> 00:58:22,619
+a San José de San Jorge
+
+828
+00:58:22,619 --> 00:58:28,619
+hacer el título de profesión, hacer una licenciada.
+
+829
+00:58:28,619 --> 00:58:34,619
+Y para poder decir una licenciada, es porque somos responsables,
+
+830
+00:58:34,619 --> 00:58:38,619
+es porque tenemos los gozos,
+
+831
+00:58:38,619 --> 00:58:43,619
+es porque vamos a resolver problemas maduros.
+
+832
+00:58:43,619 --> 00:58:47,619
+Aquí tienes que empezar así.
+
+833
+00:58:47,619 --> 00:58:51,619
+Aquí tú trabajas, y te compras.
+
+834
+00:58:51,619 --> 00:58:56,199
+y aprovecho de conversar con la licencia
+
+835
+00:58:56,199 --> 00:59:01,840
+y no me interesa si ahorita sale por ahí
+
+836
+00:59:01,840 --> 00:59:02,880
+en la sección escolar
+
+837
+00:59:02,880 --> 00:59:04,980
+hablar de baja
+
+838
+00:59:04,980 --> 00:59:06,400
+yo mismo se lo diría
+
+839
+00:59:06,400 --> 00:59:10,139
+no me interesa
+
+840
+00:59:10,139 --> 00:59:10,599
+hablar de baja
+
+841
+00:59:10,599 --> 00:59:16,900
+repito, si les puedo ayudar
+
+842
+00:59:16,900 --> 00:59:20,480
+si les puedo apoyar
+
+843
+00:59:20,480 --> 00:59:22,559
+si puedo hacer muchas cosas
+
+844
+00:59:22,559 --> 00:59:25,079
+echenme ganas
+
+845
+00:59:25,079 --> 00:59:26,779
+y van a ver que las he hecho ahora
+
+846
+00:59:26,779 --> 00:59:29,279
+lo primero de no es creer
+
+847
+00:59:29,279 --> 00:59:31,820
+que se lo crece
+
+848
+00:59:31,820 --> 00:59:33,279
+que no me gane
+
+849
+00:59:33,279 --> 00:59:35,619
+vamos a ir
+
+850
+00:59:35,619 --> 00:59:35,760
+a buscarlo
+
+851
+00:59:35,760 --> 00:59:37,760
+muchas gracias
+
+852
+00:59:37,760 --> 00:59:41,039
+y yo sé
+
+853
+00:59:41,039 --> 00:59:41,659
+que tengo
+
+854
+00:59:41,659 --> 00:59:46,440
+5, 10, 15, 20 años
+
+855
+00:59:46,440 --> 00:59:47,059
+en la educación
+
+856
+00:59:47,059 --> 00:59:49,159
+la verdad es que
+
+857
+00:59:49,159 --> 00:59:51,159
+y
+
+858
+00:59:51,159 --> 00:59:53,159
+y
+
+859
+00:59:53,159 --> 00:59:55,159
+y
+
+860
+00:59:55,159 --> 00:59:57,159
+y
+
+861
+00:59:57,159 --> 00:59:59,159
+y
+
+862
+00:59:59,159 --> 01:00:01,159
+y
+
+863
+01:00:00,000 --> 01:00:14,000
+Entonces, no hay que extrañar a la gente. Yo sé que antes de mi febrero, me había enseñado a los laboratorios, a la gente que está con ustedes, a quien le recomiendas, todo lo que sea.
+
+864
+01:00:14,000 --> 01:00:21,000
+Claro, creo que hoy ya son más modernos, en esta política de los alumnos, pero ya está.
+
+865
+01:00:21,000 --> 01:00:33,000
+No sé en qué lugares.com se comunican, se orientan, tienen una dirección, con el Internet.
+
+866
+01:00:33,000 --> 01:00:39,000
+Ahora tenemos medios informáticos, ya me parece que no los tenemos.
+
+867
+01:00:39,000 --> 01:00:45,000
+El Internet no es equilibrido. ¿Cómo se puede seguir?
+
+868
+01:00:45,000 --> 01:00:54,000
+hay grupos.com, no sé qué, que ya se llama, y sigamos con las redes sociales, y todas estas cosas.
+
+869
+01:00:54,000 --> 01:01:01,000
+Entonces, yo he pensado en la ideológica, en la psicomunicada. No sé qué dirán en la hora de hora,
+
+870
+01:01:01,000 --> 01:01:11,000
+nomás en los primeros años. Pero yo recuerdo cosas, algo se me ocurre a veces.
+
+871
+01:01:11,000 --> 01:01:15,000
+Si ustedes se piden, empiezan a hacer lo que van a hacer.
+
+872
+01:01:15,000 --> 01:01:18,000
+Y eso es lo que yo digo.
+
+873
+01:01:18,000 --> 01:01:20,000
+Repito y voy a verlo.
+
+874
+01:01:20,000 --> 01:01:22,000
+Pero si les pongo la acción.
+
+875
+01:01:22,000 --> 01:01:26,000
+Que de esta materia no van a salir igual que yo.
+
+876
+01:01:26,000 --> 01:01:34,000
+De esta materia van a salir aprendiendo a parir, a achar el hongo, a pegarlo en sus brazos.
+
+877
+01:01:34,000 --> 01:01:36,000
+Y eso es todo.
+
+878
+01:01:36,000 --> 01:02:06,000
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no
+
+879
+01:02:06,000 --> 01:02:09,079
+les voy a decir porque ellos están muchos predicados
+
+880
+01:02:09,079 --> 01:02:10,579
+entonces lo que tenemos
+
+881
+01:02:10,579 --> 01:02:12,960
+es que no tienen que chanear las cosas
+
+882
+01:02:12,960 --> 01:02:15,900
+en él no van a tener que
+
+883
+01:02:15,900 --> 01:02:16,719
+entregar trabajo
+
+884
+01:02:16,719 --> 01:02:19,420
+y los trabajos están
+
+885
+01:02:19,420 --> 01:02:20,760
+prevenidos para que se den
+
+886
+01:02:20,760 --> 01:02:23,940
+entonces que es lo que va a pasar
+
+887
+01:02:23,940 --> 01:02:25,840
+cuando son muchos
+
+888
+01:02:25,840 --> 01:02:27,239
+y cuentan varios equipos
+
+889
+01:02:27,239 --> 01:02:28,820
+de entrada con sus compadres
+
+890
+01:02:28,820 --> 01:02:30,940
+ya saben que son soldados
+
+891
+01:02:30,940 --> 01:02:33,199
+tú les dices equipo
+
+892
+01:02:33,199 --> 01:02:35,579
+no, no, no, yo te quito
+
+893
+01:02:35,579 --> 01:02:42,579
+y con Juanito y con Chuchito porque estaban los sociales entre ellos.
+
+894
+01:02:48,579 --> 01:02:52,579
+Ya saben cómo se organizan, ya saben dónde se ven, ya saben si no se ven,
+
+895
+01:02:52,579 --> 01:02:57,579
+ya saben cómo se tramitan la información, ya saben cómo se comunican,
+
+896
+01:02:57,579 --> 01:03:03,579
+que si por pasar, que si por ver, si bien que son, ya se confían.
+
+897
+01:03:03,579 --> 01:03:10,579
+y obviamente dependiendo los temas, pues es el número de muchachos,
+
+898
+01:03:10,579 --> 01:03:16,579
+pues el número puede ser de 5, 6 muchachos, 4 muchachos, dependiendo.
+
+899
+01:03:16,579 --> 01:03:25,579
+Pues aquí, algo mucho más evidente es que aquí, pues no,
+
+900
+01:03:25,579 --> 01:03:29,579
+porque sea con padres, ya están juntos, pero luego se dice,
+
+901
+01:03:29,579 --> 01:03:32,739
+a los hombres se toparon con él en una materia
+
+902
+01:03:32,739 --> 01:03:34,139
+pero no se intentó a la carrera
+
+903
+01:03:34,139 --> 01:03:38,619
+los equitunos ya no se llevan
+
+904
+01:03:38,619 --> 01:03:40,380
+a tiempo
+
+905
+01:03:40,380 --> 01:03:41,599
+a la mesa
+
+906
+01:03:41,599 --> 01:03:46,179
+pero los otros ya saben quién es el haragán
+
+907
+01:03:46,179 --> 01:03:48,139
+quién es el cobiado, quién es el
+
+908
+01:03:48,139 --> 01:03:50,559
+intelectual, quién es el
+
+909
+01:03:50,559 --> 01:03:52,239
+pantalín, ya saben siempre que tienen
+
+910
+01:03:52,239 --> 01:03:53,320
+la ventana del pantalín
+
+911
+01:03:54,239 --> 01:03:54,239
+
+
+912
+01:03:54,239 --> 01:03:54,239
+
+
+913
+01:03:54,239 --> 01:03:54,239
+
+
+914
+01:03:54,239 --> 01:03:54,239
+
+
+915
+01:03:54,239 --> 01:03:54,239
+
+
+916
+01:03:54,239 --> 01:03:54,239
+
+
+917
+01:03:54,239 --> 01:03:54,239
+
+
+918
+01:03:54,239 --> 01:03:54,239
+
+
+919
+01:03:54,239 --> 01:03:54,239
+
+
+920
+01:03:54,239 --> 01:03:54,239
+
+
+921
+01:03:54,239 --> 01:03:54,239
+
+
+922
+01:03:54,239 --> 01:03:54,239
+
+
+923
+01:03:54,239 --> 01:03:54,239
+
+
+924
+01:03:54,239 --> 01:03:54,239
+
+
+925
+01:03:54,239 --> 01:03:54,239
+
+
+926
+01:03:54,239 --> 01:03:54,239
+
+
+927
+01:03:54,239 --> 01:03:54,239
+
+
+928
+01:03:54,239 --> 01:03:54,239
+
+
+929
+01:03:54,239 --> 01:03:54,239
+
+
+930
+01:03:54,239 --> 01:03:54,239
+
+
+931
+01:03:54,239 --> 01:03:54,239
+
+
+932
+01:03:54,239 --> 01:03:54,239
+
+
+933
+01:03:54,239 --> 01:03:54,239
+
+
+934
+01:03:54,239 --> 01:03:54,239
+
+
+935
+01:03:54,239 --> 01:03:54,239
+
+
+936
+01:03:54,239 --> 01:03:54,239
+
+
+937
+01:03:54,239 --> 01:03:54,239
+
+
+938
+01:03:54,239 --> 01:03:54,239
+
+
+939
+01:03:54,239 --> 01:03:54,239
+
+
+940
+01:03:54,239 --> 01:03:54,239
+
+
+941
+01:03:54,239 --> 01:03:54,239
+
+
+942
+01:03:54,239 --> 01:03:54,239
+
+
+943
+01:03:54,239 --> 01:03:54,239
+
+
+944
+01:03:54,239 --> 01:03:54,239
+
+
+945
+01:03:54,239 --> 01:03:54,239
+
+
+946
+01:03:54,239 --> 01:03:54,239
+
+
+947
+01:03:54,239 --> 01:03:54,239
+
+
+948
+01:03:54,239 --> 01:03:56,239
+¿Verdad?
+
+949
+01:03:56,239 --> 01:03:58,239
+Hay que ir un rato más.
+
+950
+01:03:58,239 --> 01:04:00,239
+¿Qué pasa?
+
+951
+01:04:00,239 --> 01:04:02,239
+¿Qué pasa?
+
+952
+01:04:02,239 --> 01:04:04,239
+¿Qué pasa?
+
+953
+01:04:04,239 --> 01:04:06,239
+¿Qué pasa?
+
+954
+01:04:06,239 --> 01:04:08,239
+¿Qué pasa?
+
+955
+01:04:08,239 --> 01:04:10,239
+¿Qué pasa?
+
+956
+01:04:10,239 --> 01:04:12,239
+Entonces, yo les lo voy a decir.
+
+957
+01:04:12,239 --> 01:04:14,239
+Que el chico, cuando se levanta,
+
+958
+01:04:14,239 --> 01:04:16,239
+no se mueve.
+
+959
+01:04:16,239 --> 01:04:18,239
+Entonces, lo que hace es que lo mueve.
+
+960
+01:04:18,239 --> 01:04:20,239
+Y hace bien movimientos.
+
+961
+01:04:20,239 --> 01:04:22,239
+Más que no hay movimientos.
+
+962
+01:04:22,239 --> 01:04:30,239
+Y digo más con la mujer, porque yo cuando entré a esta oportunidad, yo ganaba, ganaba bien de cosas.
+
+963
+01:04:30,239 --> 01:04:35,239
+Nosotros nos teníamos que ir de casa y ir ya a otro lugar.
+
+964
+01:04:35,239 --> 01:04:41,239
+A ver, ya me han jodido aquí a trabajo, se me ha echado.
+
+965
+01:04:41,239 --> 01:04:44,239
+Porque no había mujeres tan necesarias.
+
+966
+01:04:44,239 --> 01:04:49,239
+Hoy hay más mujeres jóvenes, si no se me ha dado el tiempo.
+
+967
+01:04:49,239 --> 01:04:51,239
+o me equivoco
+
+968
+01:04:51,239 --> 01:04:53,239
+quizás pases cambio
+
+969
+01:04:53,239 --> 01:04:55,239
+no te vayas a escapar
+
+970
+01:04:55,239 --> 01:04:57,239
+pues habrá que comprarlo chicos
+
+971
+01:04:57,239 --> 01:04:59,239
+y más que eso que
+
+972
+01:04:59,239 --> 01:05:01,239
+aprendí esto
+
+973
+01:05:01,239 --> 01:05:03,239
+he hecho y me ganas
+
+974
+01:05:05,239 --> 01:05:07,239
+no valgo la pena
+
+975
+01:05:09,239 --> 01:05:11,239
+y no van a tener
+
+976
+01:05:11,239 --> 01:05:13,239
+un cajón de batería
+
+977
+01:05:13,239 --> 01:05:15,239
+pues ustedes
+
+978
+01:05:15,239 --> 01:05:17,239
+están de vuelta
+
+979
+01:05:17,239 --> 01:05:21,440
+pero repito, que me iría a tirar sin combate
+
+980
+01:05:21,440 --> 01:05:24,900
+y lo que pienso es que es de un hijo de su hijo
+
+981
+01:05:24,900 --> 01:05:28,119
+que no lo hará, no lo hará
+
+982
+01:05:28,119 --> 01:05:31,420
+solo el 20 a su mamá
+
+983
+01:05:31,420 --> 01:05:37,280
+un chico de 4 años
+
+984
+01:05:37,280 --> 01:05:38,420
+no nos conocemos
+
+985
+01:05:38,420 --> 01:05:41,860
+y creo que yo no lo podría ir creando
+
+986
+01:05:41,860 --> 01:05:44,739
+nos pasamos como un muro
+
+987
+01:05:44,739 --> 01:05:50,260
+¿ya ves una materia conmigo?
+
+988
+01:05:51,800 --> 01:05:52,960
+dígame si estoy mintiendo
+
+989
+01:05:52,960 --> 01:05:56,840
+¿cuándo está el último?
+
+990
+01:05:56,940 --> 01:05:58,460
+no, no, no, vuelvo a pasar
+
+991
+01:05:58,460 --> 01:06:04,400
+¿en qué lo metí?
+
+992
+01:06:04,500 --> 01:06:05,139
+¿habla en qué?
+
+993
+01:06:05,139 --> 01:06:05,720
+¿cuándo está el último?
+
+994
+01:06:05,720 --> 01:06:06,179
+¿cuándo está el último?
+
+995
+01:06:06,179 --> 01:06:07,159
+¿cuándo está el último?
+
+996
+01:06:07,159 --> 01:06:12,039
+cuando estoy hablando con usted
+
+997
+01:06:12,039 --> 01:06:13,920
+me acuerdo
+
+998
+01:06:13,920 --> 01:06:18,199
+que cada vez se preguntaba
+
+999
+01:06:18,199 --> 01:06:21,099
+que se había visto la anterior
+
+1000
+01:06:21,099 --> 01:06:25,920
+y luego ya después
+
+1001
+01:06:25,920 --> 01:06:30,139
+preguntaba de lo que había dejado de estar ya por investigar
+
+1002
+01:06:30,139 --> 01:06:32,400
+y aquí no contestaba
+
+1003
+01:06:32,400 --> 01:06:36,559
+¿Qué más?
+
+1004
+01:06:36,559 --> 01:06:36,559
+
+
+1005
+01:06:41,280 --> 01:06:43,139
+¿Qué deseas aprender?
+
+1006
+01:06:43,920 --> 01:07:10,199
+¿Cómo es la evaluación así en general?
+
+1007
+01:07:13,920 --> 01:07:39,480
+Creo que nos dejaba elegir más que nada porcentaje, pero sí, nos dejaba elegir el porcentaje de la forma de evaluación,
+
+1008
+01:07:39,480 --> 01:07:43,199
+pero al que le pusiéramos
+
+1009
+01:07:43,199 --> 01:07:45,420
+más le calgaba
+
+1010
+01:07:45,420 --> 01:07:47,139
+menos el
+
+1011
+01:07:47,139 --> 01:07:53,099
+yo normalmente
+
+1012
+01:07:53,099 --> 01:07:54,139
+me acaso un poco
+
+1013
+01:07:54,139 --> 01:07:57,039
+pero bueno
+
+1014
+01:07:57,039 --> 01:07:59,139
+normalmente
+
+1015
+01:07:59,139 --> 01:08:00,539
+me acaso
+
+1016
+01:08:00,539 --> 01:08:02,720
+yo
+
+1017
+01:08:02,720 --> 01:08:04,900
+soy enemigo
+
+1018
+01:08:04,900 --> 01:08:06,019
+de los poderes
+
+1019
+01:08:06,019 --> 01:08:17,479
+¿A ver? Yo prefiero negociar. ¿Por qué? Porque si negociar, el otro no ha de ver.
+
+1020
+01:08:17,479 --> 01:08:20,479
+Y va a decir que...
+
+1021
+01:08:20,479 --> 01:08:27,939
+Yo normalmente le rechazo que negociemos la ventanita de evaluación.
+
+1022
+01:08:28,659 --> 01:08:33,180
+Le rechazo que se supine y que evite algo que no es posible.
+
+1023
+01:08:33,180 --> 01:08:42,619
+Ahora, si hablamos de evaluación, quiero pensar en que salen las aluchas.
+
+1024
+01:09:03,180 --> 01:09:08,880
+Debe haber sido Ignacio Fiscal o el director de cualquier de los asesinos.
+
+1025
+01:09:12,880 --> 01:09:14,880
+No, todavía no.
+
+1026
+01:09:14,880 --> 01:09:18,220
+¿Cómo te refieres a la policía?
+
+1027
+01:09:21,220 --> 01:09:22,479
+La recobaste.
+
+1028
+01:09:22,479 --> 01:09:23,819
+La recobaste.
+
+1029
+01:09:26,520 --> 01:09:28,600
+Porque llegabas.
+
+1030
+01:09:29,260 --> 01:09:30,279
+Porque llegabas.
+
+1031
+01:09:30,279 --> 01:09:46,840
+y
+
+1032
+01:09:46,840 --> 01:09:46,939
+y
+
+1033
+01:09:46,939 --> 01:09:46,960
+y
+
+1034
+01:09:46,960 --> 01:09:46,979
+y
+
+1035
+01:09:46,979 --> 01:09:47,000
+y
+
+1036
+01:09:47,000 --> 01:09:47,020
+y
+
+1037
+01:09:47,020 --> 01:09:47,039
+y
+
+1038
+01:09:47,039 --> 01:09:47,059
+y
+
+1039
+01:09:47,059 --> 01:09:47,100
+y
+
+1040
+01:09:47,100 --> 01:09:47,119
+y
+
+1041
+01:09:47,119 --> 01:09:47,140
+y
+
+1042
+01:09:47,140 --> 01:09:47,159
+y
+
+1043
+01:09:47,159 --> 01:09:47,180
+y
+
+1044
+01:09:47,180 --> 01:09:47,199
+y
+
+1045
+01:09:47,199 --> 01:09:47,220
+y
+
+1046
+01:09:47,220 --> 01:09:47,220
+
+
+1047
+01:09:47,220 --> 01:09:47,239
+y
+
+1048
+01:09:47,239 --> 01:09:47,260
+y
+
+1049
+01:09:47,260 --> 01:09:47,260
+
+
+1050
+01:09:47,260 --> 01:09:47,279
+y
+
+1051
+01:09:47,279 --> 01:09:47,300
+y
+
+1052
+01:09:47,300 --> 01:09:47,300
+
+
+1053
+01:09:47,300 --> 01:09:47,319
+y
+
+1054
+01:09:47,319 --> 01:09:47,340
+y
+
+1055
+01:09:59,340 --> 01:09:59,359
+y
+
+1056
+01:09:59,359 --> 01:09:59,380
+y
+
+1057
+01:09:59,380 --> 01:09:59,399
+y
+
+1058
+01:09:59,399 --> 01:09:59,420
+y
+
+1059
+01:09:59,420 --> 01:09:59,439
+y
+
+1060
+01:09:59,439 --> 01:09:59,460
+y
+
+1061
+01:09:59,460 --> 01:09:59,479
+y
+
+1062
+01:09:59,479 --> 01:09:59,500
+y
+
+1063
+01:09:59,500 --> 01:09:59,500
+
+
+1064
+01:09:59,500 --> 01:09:59,520
+y
+
+1065
+01:09:59,520 --> 01:09:59,539
+y
+
+1066
+01:09:59,539 --> 01:09:59,539
+
+
+1067
+01:09:59,539 --> 01:09:59,559
+y
+
+1068
+01:09:59,559 --> 01:09:59,579
+y
+
+1069
+01:09:59,579 --> 01:09:59,579
+
+
+1070
+01:09:59,579 --> 01:09:59,600
+y
+
+1071
+01:09:59,600 --> 01:09:59,619
+y
+
+1072
+01:09:59,619 --> 01:09:59,619
+
+
+1073
+01:09:59,619 --> 01:09:59,640
+y
+
+1074
+01:09:59,640 --> 01:09:59,659
+y
+
+1075
+01:09:59,659 --> 01:09:59,659
+
+
+1076
+01:09:59,659 --> 01:09:59,680
+y
+
+1077
+01:09:59,680 --> 01:09:59,699
+y
+
+1078
+01:09:59,699 --> 01:09:59,699
+
+
+1079
+01:09:59,699 --> 01:09:59,720
+y
+
+1080
+01:09:59,720 --> 01:09:59,739
+y
+
+1081
+01:10:00,000 --> 01:10:02,000
+Ahorita vamos a replicar eso.
+
+1082
+01:10:03,000 --> 01:10:06,000
+El reglamento le da derechos y recomendaciones.
+
+1083
+01:10:07,000 --> 01:10:15,000
+Y el reglamento marca que los chavitos tienen obligaciones de atender cuando vengan los 80 por subidas de las clases.
+
+1084
+01:10:16,000 --> 01:10:17,000
+Es correcto.
+
+1085
+01:10:21,000 --> 01:10:24,000
+El chavo que me toque menos,
+
+1086
+01:10:25,000 --> 01:10:27,000
+con panas,
+
+1087
+01:10:27,000 --> 01:10:40,000
+Pero así se evalúa, porque la mejor realidad es la forma, que no te divierte, no te evalúe.
+
+1088
+01:10:40,000 --> 01:10:48,000
+Eso es cierto. Aquí vamos a fijar reglas, y en que reglas?
+
+1089
+01:10:48,000 --> 01:10:51,680
+Si un compañero ya se adelantó, más vamos a ir a buscar.
+
+1090
+01:10:53,439 --> 01:10:57,800
+Vamos a picar de manera, vamos a llegar a puertos.
+
+1091
+01:10:59,460 --> 01:11:04,680
+Pero vamos a pensar, vamos a hablar con los compañeros, vamos a hablar.
+
+1092
+01:11:07,800 --> 01:11:12,939
+Si decimos que vamos a cumplir con el reglamento, quiere decir que vamos a llegar al 100% de casa.
+
+1093
+01:11:12,939 --> 01:11:23,939
+Pero no falta que empiece con algunas situaciones en donde empiece a faltar.
+
+1094
+01:11:23,939 --> 01:11:28,939
+Yo no tengo nunca un café, pero no hay muchos padres.
+
+1095
+01:11:28,939 --> 01:11:36,939
+Si tú pretendes faltar por la razón que tú quieras o como lo haces,
+
+1096
+01:11:36,939 --> 01:11:47,140
+no sé un viaje, no lo sé, pero cuida para llegar al primer depósito, porque si no salgo al primer depósito, no me voy a ir.
+
+1097
+01:11:48,520 --> 01:11:50,859
+¿Vale? Esa es otra cosa.
+
+1098
+01:11:51,880 --> 01:12:00,840
+La materia de la universidad, el plan de estudios y mis autoridades de centro, mi materia es de 7 a 3 años.
+
+1099
+01:12:00,840 --> 01:12:12,840
+Si no tienes que entrar al sentido de las muertes, yo hoy llegué y había muchas personas que estaban.
+
+1100
+01:12:12,840 --> 01:12:20,840
+¿A qué hora llego yo aquí? ¿Cómo me vas a hacer creer? ¿Qué es lo que más te hace? ¿Qué es lo que más te hace creer?
+
+1101
+01:12:20,840 --> 01:12:24,800
+si algo
+
+1102
+01:12:24,800 --> 01:12:26,680
+no me cuesta
+
+1103
+01:12:26,680 --> 01:12:30,460
+si mi clase empieza a las 7
+
+1104
+01:12:30,460 --> 01:12:32,319
+yo lo llevo después de las 7
+
+1105
+01:12:32,319 --> 01:12:35,100
+yo siempre lo llevo antes de las 7
+
+1106
+01:12:35,100 --> 01:12:39,279
+si mi junta es a las 10
+
+1107
+01:12:39,279 --> 01:12:40,640
+yo me llevo a las 10
+
+1108
+01:12:40,640 --> 01:12:42,600
+y a las 10 y 1 y a las 15
+
+1109
+01:12:42,600 --> 01:12:44,760
+tengo las manos
+
+1110
+01:12:44,760 --> 01:12:50,260
+si mi compromiso es a las 4 de la tarde
+
+1111
+01:12:50,260 --> 01:12:51,920
+yo le digo las 4 y 5
+
+1112
+01:12:51,920 --> 01:12:55,239
+yo le digo las 3 y 5
+
+1113
+01:12:55,239 --> 01:12:57,760
+porque es así
+
+1114
+01:12:57,760 --> 01:13:01,039
+con ustedes no los puedo quedar
+
+1115
+01:13:01,039 --> 01:13:02,739
+hasta que
+
+1116
+01:13:02,739 --> 01:13:03,960
+a las 6 y 5
+
+1117
+01:13:03,960 --> 01:13:06,800
+pero su clase no se termina
+
+1118
+01:13:06,800 --> 01:13:07,399
+a las 7
+
+1119
+01:13:07,399 --> 01:13:10,439
+correcto
+
+1120
+01:13:10,439 --> 01:13:14,000
+no a las 6 y 5
+
+1121
+01:13:14,000 --> 01:13:15,880
+vale que no a las 7
+
+1122
+01:13:15,880 --> 01:13:17,260
+no a las 7
+
+1123
+01:13:17,260 --> 01:13:19,260
+Muy bien.
+
+1124
+01:13:19,260 --> 01:13:25,260
+A lo mejor me pusieron una tolerancia para la muerte.
+
+1125
+01:13:25,260 --> 01:13:30,260
+A lo mejor decidimos que la tolerancia sea de unos 15 minutos.
+
+1126
+01:13:30,260 --> 01:13:32,260
+Muy bien.
+
+1127
+01:13:32,260 --> 01:13:35,260
+Eso es lo que me quieres llevar de la...
+
+1128
+01:13:35,260 --> 01:13:37,260
+...en la silla.
+
+1129
+01:13:37,260 --> 01:13:39,260
+O en la silla.
+
+1130
+01:13:39,260 --> 01:13:41,260
+O en el revés.
+
+1131
+01:13:41,260 --> 01:13:43,260
+Muy bien.
+
+1132
+01:13:43,260 --> 01:13:45,260
+Pero si me llegan a la muerte,
+
+1133
+01:13:45,260 --> 01:13:50,260
+Pero si me llegan a las 7 y 16, ¿qué tengo que pasar?
+
+1134
+01:13:50,260 --> 01:13:56,260
+No tienen idea de lo que están haciendo, no pueden pasar.
+
+1135
+01:13:56,260 --> 01:14:04,260
+Y si no pueden pasar, ¿quién falta? No retardo, no hay falta.
+
+1136
+01:14:04,260 --> 01:14:09,260
+Y si hay un accidente, no hay necesidad.
+
+1137
+01:14:09,260 --> 01:14:12,079
+y me llegan a ver
+
+1138
+01:14:12,079 --> 01:14:13,380
+por si no importa más
+
+1139
+01:14:13,380 --> 01:14:17,000
+me mandaron a los botellos
+
+1140
+01:14:17,000 --> 01:14:19,699
+porque se enterraban
+
+1141
+01:14:19,699 --> 01:14:20,920
+y me lo mataron
+
+1142
+01:14:20,920 --> 01:14:21,579
+y me lo mataron
+
+1143
+01:14:21,579 --> 01:14:24,399
+y me lo mataron
+
+1144
+01:14:24,399 --> 01:14:27,420
+y me lo mataron
+
+1145
+01:14:27,420 --> 01:14:28,060
+y me lo mataron
+
+1146
+01:14:28,060 --> 01:14:31,560
+y me lo mataron
+
+1147
+01:14:39,260 --> 01:14:59,539
+bueno por lo del plan de
+
+1148
+01:14:59,539 --> 01:15:02,680
+de trabajo, bueno de estudio que vamos a
+
+1149
+01:15:02,680 --> 01:15:04,720
+a un lugar de visión
+
+1150
+01:15:04,720 --> 01:15:06,840
+el programa lo vamos a tocar
+
+1151
+01:15:06,840 --> 01:15:09,140
+en el 5 de marzo
+
+1152
+01:15:09,140 --> 01:15:10,739
+si es verdad
+
+1153
+01:15:10,739 --> 01:15:12,659
+es más, en el sector de la música
+
+1154
+01:15:12,659 --> 01:15:14,039
+está más que lo que va a ser
+
+1155
+01:15:14,039 --> 01:15:17,319
+antes de que se ponga
+
+1156
+01:15:17,319 --> 01:15:19,539
+hoy en el sector de la música
+
+1157
+01:15:19,539 --> 01:15:21,199
+la revista de la música
+
+1158
+01:15:21,199 --> 01:15:23,199
+el 5 de marzo
+
+1159
+01:15:23,199 --> 01:15:24,520
+lo vamos a tocar
+
+1160
+01:15:24,520 --> 01:15:27,319
+es más, hasta más
+
+1161
+01:15:27,319 --> 01:15:28,680
+siempre
+
+1162
+01:15:28,680 --> 01:15:29,560
+veo más
+
+1163
+01:15:29,560 --> 01:15:32,619
+estoy en mi vida
+
+1164
+01:15:32,619 --> 01:15:33,720
+bueno
+
+1165
+01:15:33,720 --> 01:15:35,460
+y ya me decía que
+
+1166
+01:15:35,460 --> 01:15:37,239
+me estoy preparando
+
+1167
+01:15:37,239 --> 01:15:37,800
+para el proceso
+
+1168
+01:15:37,800 --> 01:15:39,619
+¿sabe?
+
+1169
+01:15:40,819 --> 01:15:42,560
+bueno, sí, pero más iba
+
+1170
+01:15:42,560 --> 01:15:45,319
+como a la versión que íbamos a tomar
+
+1171
+01:15:45,319 --> 01:15:46,920
+porque veo que
+
+1172
+01:15:46,920 --> 01:15:48,579
+bueno, yo tengo una que es
+
+1173
+01:15:48,579 --> 01:15:50,260
+que se llama Sin Financias Nada Más
+
+1174
+01:15:50,260 --> 01:15:52,079
+como para contemplarlo
+
+1175
+01:15:52,079 --> 01:15:53,060
+es una misión
+
+1176
+01:15:53,060 --> 01:15:55,920
+es encontrar como
+
+1177
+01:16:25,920 --> 01:16:26,920
+Gracias.
+
+1178
+01:16:55,920 --> 01:16:58,659
+para ellos no hay nada más que llevar
+
+1179
+01:16:58,659 --> 01:17:01,020
+creo que uno o dos fiscales
+
+1180
+01:17:01,020 --> 01:17:03,659
+nosotros llevamos
+
+1181
+01:17:03,659 --> 01:17:05,859
+a los 5 más las alternativas
+
+1182
+01:17:05,859 --> 01:17:08,659
+no sé
+
+1183
+01:17:08,659 --> 01:17:11,000
+a ellos a lo mejor nada más llevan
+
+1184
+01:17:11,000 --> 01:17:12,399
+un ser, a lo mejor
+
+1185
+01:17:12,399 --> 01:17:14,439
+dos o tres finanzas
+
+1186
+01:17:14,439 --> 01:17:16,859
+para los que lo mismo son 6
+
+1187
+01:17:16,859 --> 01:17:17,960
+más las alternativas
+
+1188
+01:17:17,960 --> 01:17:19,819
+y luego
+
+1189
+01:17:19,819 --> 01:17:22,159
+es igual que si se ve la relación
+
+1190
+01:17:22,159 --> 01:17:24,619
+con los materiales
+
+1191
+01:17:24,619 --> 01:17:28,619
+incluidas en su profesión, ustedes solamente van a conocer lo mismo.
+
+1192
+01:17:28,619 --> 01:17:32,619
+Yo estoy hablando de informática, pero los viejos, al menos, también es informática.
+
+1193
+01:17:32,619 --> 01:17:34,619
+También pasa que...
+
+1194
+01:17:34,619 --> 01:17:38,619
+Y cuando las pocas materias que nos dieron informática,
+
+1195
+01:17:38,619 --> 01:17:41,619
+los siguientes, pues, te vas a enredar.
+
+1196
+01:17:41,619 --> 01:17:44,619
+Yo fui informático en mi licenciatura.
+
+1197
+01:17:44,619 --> 01:17:46,619
+¿Vale?
+
+1198
+01:17:46,619 --> 01:17:50,619
+A lo mejor no se han entendido eso.
+
+1199
+01:17:50,619 --> 01:17:55,619
+A lo mejor para ustedes ya se sabe como empezó el informático.
+
+1200
+01:17:55,619 --> 01:18:07,619
+Yo soy testigo de que a nosotros nos enseñaron con un Júbiles.
+
+1201
+01:18:07,619 --> 01:18:15,619
+A nosotros nos enseñaron con Facebook, con Ford, con Al Gore.
+
+1202
+01:18:15,619 --> 01:18:19,619
+Ustedes, creo que si bien lo conocen.
+
+1203
+01:18:19,619 --> 01:18:21,619
+Pues así, histórico, básicamente.
+
+1204
+01:18:49,619 --> 01:18:54,619
+traer un WhatsApp donde puedo mandar hasta fotos.
+
+1205
+01:18:54,619 --> 01:18:57,619
+Y muy pocos no existen.
+
+1206
+01:18:57,619 --> 01:19:03,619
+Yo digo, entonces si hablamos de formar un equipo, ustedes son...
+
+1207
+01:19:03,619 --> 01:19:08,619
+Yo vengo de un chupacabra muy bajo. Ustedes ya vieron que hacen un trabajo.
+
+1208
+01:19:08,619 --> 01:19:11,619
+Ustedes ya vieron que...
+
+1209
+01:19:11,619 --> 01:19:16,619
+que a la altura los otros portadores se los enseñan como un hilario.
+
+1210
+01:19:16,619 --> 01:19:18,619
+No me preocupes, no me preocupes.
+
+1211
+01:19:25,619 --> 01:19:27,619
+¿Qué más les puedo pedir?
+
+1212
+01:19:27,619 --> 01:19:29,619
+Porque...
+
+1213
+01:19:29,619 --> 01:19:31,619
+De eso tienes que cuidarte...
+
+1214
+01:19:31,619 --> 01:19:33,619
+Si te acuerdas...
+
+1215
+01:19:33,619 --> 01:19:35,619
+Porque si no, no lo escucharás.
+
+1216
+01:19:35,619 --> 01:19:37,619
+¿Me tiembla la gana para recobrar a la cárcel?
+
+1217
+01:19:37,619 --> 01:19:39,619
+No.
+
+1218
+01:19:39,619 --> 01:19:40,619
+Gracias.
+
+1219
+01:20:00,000 --> 01:20:02,000
+¿Qué tienen que repasar?
+
+1220
+01:20:02,000 --> 01:20:04,000
+¿Qué?
+
+1221
+01:20:04,000 --> 01:20:06,000
+¿Qué?
+
+1222
+01:20:06,000 --> 01:20:08,000
+Sí.
+
+1223
+01:20:08,000 --> 01:20:12,000
+No, tienen que repasarlo bien a fondo porque...
+
+1224
+01:20:12,000 --> 01:20:14,000
+...
+
+1225
+01:20:16,000 --> 01:20:18,000
+Pues sí, las preguntas sí son...
+
+1226
+01:20:18,000 --> 01:20:20,000
+...más...
+
+1227
+01:20:20,000 --> 01:20:22,000
+...este...
+
+1228
+01:20:24,000 --> 01:20:28,000
+Pues no sé si tienen que ver con el radar, la entrada, el paso...
+
+1229
+01:20:28,000 --> 01:20:30,000
+¿Qué es lo que se llama?
+
+1230
+01:20:30,000 --> 01:20:32,000
+¿Qué es lo que se llama?
+
+1231
+01:20:32,000 --> 01:20:34,000
+¿Qué es lo que se llama?
+
+1232
+01:20:34,000 --> 01:20:36,000
+¿Qué es lo que se llama?
+
+1233
+01:20:36,000 --> 01:20:38,000
+¿Qué es lo que se llama?
+
+1234
+01:20:38,000 --> 01:20:40,000
+¿Qué es lo que se llama?
+
+1235
+01:20:40,000 --> 01:20:42,000
+¿Qué es lo que se llama?
+
+1236
+01:20:42,000 --> 01:20:44,000
+¿Qué es lo que se llama?
+
+1237
+01:20:44,000 --> 01:20:46,000
+¿Qué es lo que se llama?
+
+1238
+01:20:46,000 --> 01:20:48,000
+¿Qué es lo que se llama?
+
+1239
+01:20:48,000 --> 01:20:50,000
+¿Qué es lo que se llama?
+
+1240
+01:20:50,000 --> 01:20:52,000
+¿Qué es lo que se llama?
+
+1241
+01:20:52,000 --> 01:20:54,000
+¿Qué es lo que se llama?
+
+1242
+01:20:54,000 --> 01:20:56,000
+¿Qué es lo que se llama?
+
+1243
+01:20:56,000 --> 01:21:01,000
+No sé qué tiene que ver con esto. No estoy de acuerdo, no estoy honesto.
+
+1244
+01:21:01,000 --> 01:21:05,000
+Y yo no estoy de acuerdo así que no, no puedo.
+
+1245
+01:21:05,000 --> 01:21:09,000
+Porque yo no pregunto nada que me haga mucho caso.
+
+1246
+01:21:09,000 --> 01:21:12,000
+Nada. Y aquí está el problema.
+
+1247
+01:21:12,000 --> 01:21:19,000
+Uno de los que te va a decir, ¿sabes qué? Ahorita te copian al capítulo 15 al 20, que mañana hay examen.
+
+1248
+01:21:19,000 --> 01:21:22,000
+No. Eso será su mejor lado.
+
+1249
+01:21:22,000 --> 01:21:26,000
+porque si, eso para mí se llama autoritario
+
+1250
+01:21:26,000 --> 01:21:28,359
+tú lo puedes decir
+
+1251
+01:21:28,359 --> 01:21:32,680
+si tú quieres ser autoritario en un tiempo aquí mejor vete al sur
+
+1252
+01:21:32,680 --> 01:21:38,659
+si no te presentas a los exámenes y cosas que no te gustan
+
+1253
+01:21:38,659 --> 01:21:40,680
+¿por qué vienes a perder el tiempo en un clasico?
+
+1254
+01:21:41,279 --> 01:21:44,500
+yo no pregunto nada que me va a mostrar
+
+1255
+01:21:44,500 --> 01:21:47,199
+pero eso es todo lo que yo quiero saber
+
+1256
+01:21:47,199 --> 01:21:49,319
+¿sí o no sé?
+
+1257
+01:21:49,319 --> 01:21:52,460
+no sé si eso es demasiado seguro
+
+1258
+01:21:52,460 --> 01:21:54,239
+si es eso
+
+1259
+01:21:54,239 --> 01:21:55,159
+no te mire
+
+1260
+01:21:55,159 --> 01:21:57,039
+¿qué más viste?
+
+1261
+01:21:59,279 --> 01:21:59,680
+pues
+
+1262
+01:21:59,680 --> 01:22:01,020
+¿qué más te mire?
+
+1263
+01:22:02,220 --> 01:22:03,159
+¿a ti qué te gusta?
+
+1264
+01:22:03,720 --> 01:22:06,199
+pues sí, pues justo lo que usted está comentando
+
+1265
+01:22:06,199 --> 01:22:07,199
+que no
+
+1266
+01:22:07,199 --> 01:22:09,859
+regala calificación y que
+
+1267
+01:22:09,859 --> 01:22:11,079
+que
+
+1268
+01:22:11,079 --> 01:22:13,859
+se puede aprender mucho pero pues sí
+
+1269
+01:22:13,859 --> 01:22:16,239
+es de estudiar y echarle ganas
+
+1270
+01:22:16,239 --> 01:22:16,640
+básicamente
+
+1271
+01:22:16,640 --> 01:22:17,920
+pero pues
+
+1272
+01:22:17,920 --> 01:22:18,359
+que no
+
+1273
+01:22:18,359 --> 01:22:19,399
+en el sonido de mi
+
+1274
+01:22:19,399 --> 01:22:20,880
+yo ayudo a por si lo quieres
+
+1275
+01:22:20,880 --> 01:22:24,180
+en el sonido de mi
+
+1276
+01:22:24,180 --> 01:22:25,319
+yo se lo digo
+
+1277
+01:22:25,319 --> 01:22:25,960
+échame las
+
+1278
+01:22:25,960 --> 01:22:26,399
+vas a ver
+
+1279
+01:22:26,399 --> 01:22:28,319
+aplicate
+
+1280
+01:22:28,319 --> 01:22:29,460
+y
+
+1281
+01:22:29,460 --> 01:22:31,359
+te llevas la caliente
+
+1282
+01:22:31,359 --> 01:22:31,840
+así
+
+1283
+01:22:31,840 --> 01:22:33,420
+sin colocar
+
+1284
+01:22:33,420 --> 01:22:36,039
+pero ahora caminas
+
+1285
+01:22:36,039 --> 01:22:37,979
+caminas
+
+1286
+01:22:37,979 --> 01:22:40,100
+vuelvo a mi
+
+1287
+01:22:40,100 --> 01:22:41,939
+caminas
+
+1288
+01:22:41,939 --> 01:22:42,500
+caminas
+
+1289
+01:22:42,500 --> 01:22:42,819
+caminas
+
+1290
+01:22:42,819 --> 01:22:44,819
+caminas
+
+1291
+01:22:46,640 --> 01:22:52,640
+Ok, vamos a pasar a lo siguiente. Ya le he dicho en sexo de dependencia. Ahora yo quiero saber lo que es.
+
+1292
+01:22:52,640 --> 01:23:01,640
+No quiero saber a quién le va por el pan. No quiero saber si son yunos.
+
+1293
+01:23:01,640 --> 01:23:06,640
+No quiero saber qué modelo de teléfono tiene. Esto es muy interesante.
+
+1294
+01:23:06,640 --> 01:23:11,640
+Quiero saber mi interés. Primero su nombre, que ya lo tengo en la lista.
+
+1295
+01:23:11,640 --> 01:23:19,640
+Normalmente, preguntando a los jóvenes, aquí lo tengo roto, ¿qué más necesito saber?
+
+1296
+01:23:19,640 --> 01:23:29,640
+¿A qué se dedica? ¿Eso se dedica? ¿A qué se dedica? Si trabaja, ¿dónde trabaja? ¿Qué cargo tiene?
+
+1297
+01:23:29,640 --> 01:23:35,640
+¿Cuánto tiempo tiene en el trabajo? ¿Qué otra cosa me interesa?
+
+1298
+01:23:35,640 --> 01:23:39,039
+si en su trabajo tienen relación con mi materia
+
+1299
+01:23:39,039 --> 01:23:42,539
+o no tienen relación con mi materia.
+
+1300
+01:23:44,539 --> 01:23:46,739
+Normalmente les pregunto qué licenciatura tienen.
+
+1301
+01:23:46,979 --> 01:23:49,000
+Aquí la que hicimos un curso no me lo va a dar.
+
+1302
+01:23:49,739 --> 01:23:51,279
+Pero me hizo un grupo de 80.
+
+1303
+01:23:51,859 --> 01:23:52,479
+Para ganas.
+
+1304
+01:23:53,000 --> 01:23:54,300
+Si no, no sé a ver quiénes tienen.
+
+1305
+01:23:57,880 --> 01:23:59,319
+Y otra cosa me interesa.
+
+1306
+01:24:00,539 --> 01:24:02,539
+Saber qué tanto manejan mi forma.
+
+1307
+01:24:03,260 --> 01:24:04,979
+Aquí te estoy dando el artículo de acá.
+
+1308
+01:24:04,979 --> 01:24:08,979
+al cien por su eficacia y su formato, pues eso es lo que se llama.
+
+1309
+01:24:08,979 --> 01:24:11,979
+Pero que también es un informático.
+
+1310
+01:24:11,979 --> 01:24:14,979
+¿Qué otra cosa me interesa?
+
+1311
+01:24:14,979 --> 01:24:18,979
+¿Qué tanto manejan de mi vida?
+
+1312
+01:24:18,979 --> 01:24:23,979
+¿Qué otra cosa me interesa?
+
+1313
+01:24:23,979 --> 01:24:27,979
+Saber que ya lo pregunté, o que están aquí.
+
+1314
+01:24:27,979 --> 01:24:29,979
+O sea, ¿por qué echamos comercio?
+
+1315
+01:24:29,979 --> 01:24:32,979
+La verdad, a mí no se me dan las penas.
+
+1316
+01:24:32,979 --> 01:24:38,819
+Así, honestamente, yo no me he hecho conocimiento con este chavo.
+
+1317
+01:24:39,579 --> 01:24:40,739
+Me lo voy a ver más complicado.
+
+1318
+01:24:40,979 --> 01:24:45,840
+Tengo que pensar la forma de que lo entienda, porque si se le dificulta mucho,
+
+1319
+01:24:47,220 --> 01:24:50,159
+pues no es lo mismo que alguien que se tenga afiliado a un hogar.
+
+1320
+01:24:52,159 --> 01:24:55,539
+Entonces, a ver, básicamente, ¿por qué están aquí?
+
+1321
+01:24:55,539 --> 01:24:57,340
+Yo recuerdo que fue lo que pasó.
+
+1322
+01:24:57,340 --> 01:25:05,340
+que parte del programa se les complicó para ver si le dedicamos más tiempo, si le dedicamos despacito
+
+1323
+01:25:05,340 --> 01:25:09,039
+o qué cosas podemos ver rápidas y dedicarle más tiempo a ellos.
+
+1324
+01:25:10,380 --> 01:25:13,220
+Y ya nada más por cultura general y dónde son egresados.
+
+1325
+01:25:15,279 --> 01:25:20,960
+Llegaron aquí, ejemplo, obviamente la mayoría de ustedes tienen un compraso automático,
+
+1326
+01:25:20,960 --> 01:25:26,939
+pero si son egresados de una escuela nacional preparatoria, tenemos más de dos escuelas
+
+1327
+01:25:26,939 --> 01:25:37,039
+de la escuela preparatoria, o si son egresados de un centro vacacional SSH, o si ingresaron
+
+1328
+01:25:37,039 --> 01:25:43,800
+por examen de educación, para dar una idea, ¿por qué? Porque es muy diferente las bases
+
+1329
+01:25:43,800 --> 01:25:49,159
+que tiene un muchacho SSH a las bases que tiene un muchacho de escuela, incluso el número
+
+1330
+01:25:49,159 --> 01:25:53,159
+la materia es muy diferente, cada vez más la cuenta con sus colegas.
+
+1331
+01:25:53,159 --> 01:25:58,159
+El chatbot es ese accionario de la dinamita de las claves que se lleva al tutorial.
+
+1332
+01:25:58,159 --> 01:26:04,159
+Entonces, por lógica, hay muchos que ya tenemos escrito muchas cosas desde la prueba.
+
+1333
+01:26:04,159 --> 01:26:10,159
+Y hay chats que no sabemos lo que está soplando. Eso es lo que yo quisiera saber de ustedes.
+
+1334
+01:26:10,159 --> 01:26:15,159
+Una vez que terminemos con eso, vamos a pasar a la organización de estudio.
+
+1335
+01:26:15,159 --> 01:26:18,159
+vamos a ver como vamos a volver
+
+1336
+01:26:18,159 --> 01:26:21,960
+y vamos a mirar a puntos
+
+1337
+01:26:21,960 --> 01:26:23,619
+¿va?
+
+1338
+01:26:24,619 --> 01:26:25,300
+ok
+
+1339
+01:26:25,300 --> 01:26:27,159
+comenzamos
+
+1340
+01:26:27,159 --> 01:26:29,779
+¿me puedo completar?
+
+1341
+01:26:30,319 --> 01:26:31,380
+no, no pasa
+
+1342
+01:26:31,380 --> 01:26:33,359
+¿puedo decir un breve?
+
+1343
+01:26:33,359 --> 01:26:33,760
+bien
+
+1344
+01:26:33,760 --> 01:26:37,520
+pues por el momento
+
+1345
+01:26:37,520 --> 01:26:39,119
+no trabajo, pero
+
+1346
+01:26:39,119 --> 01:26:41,359
+si tomo algunos cursos
+
+1347
+01:26:41,359 --> 01:26:42,979
+los tomo de Cisco
+
+1348
+01:26:42,979 --> 01:27:00,979
+Tengo bases de Linux, se conectan a bases de AWS, igual tengo conocimientos de HTML y CSS,
+
+1349
+01:27:00,979 --> 01:27:09,979
+un poco de JavaScript, conocimientos en C y en Java, son otros, como decirlo en C.
+
+1350
+01:27:09,979 --> 01:27:12,819
+¿Qué más?
+
+1351
+01:27:13,819 --> 01:27:15,619
+Ok, habíamos visto
+
+1352
+01:27:15,619 --> 01:27:18,039
+En los trabajos
+
+1353
+01:27:18,039 --> 01:27:20,640
+Y años
+
+1354
+01:27:20,640 --> 01:27:23,140
+Antes
+
+1355
+01:27:23,140 --> 01:27:24,659
+Trabajaba en
+
+1356
+01:27:24,659 --> 01:27:27,079
+Bueno, en vacaciones
+
+1357
+01:27:27,079 --> 01:27:28,680
+Y en mis tiempos libres
+
+1358
+01:27:28,680 --> 01:27:30,020
+Trabajaba en el supermercado
+
+1359
+01:27:30,020 --> 01:27:32,279
+¿Tenía nada que ver con la carrera?
+
+1360
+01:27:32,600 --> 01:27:32,779
+¿Vale?
+
+1361
+01:27:33,159 --> 01:27:34,300
+¿Tenía nada que ver con la carrera?
+
+1362
+01:27:34,720 --> 01:27:34,960
+No
+
+1363
+01:27:34,960 --> 01:27:38,119
+¿Con la carrera no?
+
+1364
+01:27:38,119 --> 01:28:06,920
+¿Cuánto tiempo trabajas?
+
+1365
+01:28:08,119 --> 01:28:10,119
+¿Qué era esto?
+
+1366
+01:28:10,119 --> 01:28:14,119
+Pues es que eran periodos vocacionales o en algún momento
+
+1367
+01:28:14,119 --> 01:28:17,119
+me permitía trabajar por ejemplo los fines de semana
+
+1368
+01:28:17,119 --> 01:28:23,119
+me permitía que era el baño, trabajar los sábados porque los domingos no había
+
+1369
+01:28:27,119 --> 01:28:31,119
+Por lo que veo tú tienes estudios colaterales como el mercado de transmisión
+
+1370
+01:28:31,119 --> 01:28:36,119
+y esos estudios colaterales son todos inclinados a la red informática
+
+1371
+01:28:36,119 --> 01:28:52,119
+Es correcto. Más que nada me intenté encaminar por la parte de programación, pero al final estoy viendo que no es lo que me apasiona del todo y me estoy orientando un poco más a la parte de ciberseguridad.
+
+1372
+01:28:52,119 --> 01:29:05,119
+Entonces, ahorita estoy viendo igual esa parte de tener certificados que vayan dirigidos a esa parte. Y también pues ya tengo un poquito más de bases para ir aumentando la patria.
+
+1373
+01:29:05,119 --> 01:29:10,119
+Yo creo que tiene mucho sentido, más con lo que estamos subiendo actualmente.
+
+1374
+01:29:10,119 --> 01:29:16,119
+Bien. ¿Qué más? ¿Idiomas?
+
+1375
+01:29:16,119 --> 01:29:23,119
+Un poco de inglés. Lo sé leer, lo comprendo, pero no lo puedo hablar.
+
+1376
+01:29:23,119 --> 01:29:25,119
+Todo pasa muy fluido.
+
+1377
+01:29:25,119 --> 01:29:30,119
+¿Y en porcentaje se llama por el escrito?
+
+1378
+01:29:30,119 --> 01:29:38,119
+digo, por su parte, he escrito bastante porque me comparte, eso es definitivo, aunque esté...
+
+1379
+01:29:38,119 --> 01:29:52,119
+si, justo por eso lo comprendo, digamos que podría escribirlo y leerlo en un 80% más hablarlo, no creo que pueda leer todo
+
+1380
+01:29:52,119 --> 01:29:54,119
+eso es muy importante, ¿no es?
+
+1381
+01:29:54,119 --> 01:29:55,859
+Sí
+
+1382
+01:29:55,859 --> 01:29:57,539
+Y
+
+1383
+01:29:57,539 --> 01:29:58,600
+No
+
+1384
+01:29:58,600 --> 01:29:58,600
+
+
+1385
+01:29:58,600 --> 01:29:58,600
+
+
+1386
+01:29:58,600 --> 01:29:58,600
+
+
+1387
+01:29:58,600 --> 01:29:58,600
+
+
+1388
+01:29:58,600 --> 01:29:58,600
+
+
+1389
+01:29:58,600 --> 01:29:58,600
+
+
+1390
+01:29:58,600 --> 01:29:58,600
+
+
+1391
+01:29:58,600 --> 01:29:58,600
+
+
+1392
+01:29:58,600 --> 01:29:58,600
+
+
+1393
+01:29:58,600 --> 01:29:58,600
+
+
+1394
+01:29:58,600 --> 01:29:58,600
+
+
+1395
+01:29:58,600 --> 01:29:58,600
+
+
+1396
+01:29:58,600 --> 01:29:58,600
+
+
+1397
+01:29:58,600 --> 01:29:58,600
+
+
+1398
+01:29:58,600 --> 01:29:58,600
+
+
+1399
+01:29:58,600 --> 01:29:58,600
+
+
+1400
+01:29:58,600 --> 01:29:58,600
+
+
+1401
+01:29:58,600 --> 01:29:58,600
+
+
+1402
+01:29:58,600 --> 01:29:58,600
+
+
+1403
+01:29:58,600 --> 01:29:58,600
+
+
+1404
+01:29:58,600 --> 01:29:58,600
+
+
+1405
+01:29:58,600 --> 01:29:58,600
+
+
+1406
+01:29:58,600 --> 01:29:58,600
+
+
+1407
+01:29:58,600 --> 01:29:58,600
+
+
+1408
+01:29:58,600 --> 01:29:58,600
+
+
+1409
+01:29:58,600 --> 01:29:58,600
+
+
+1410
+01:29:58,600 --> 01:29:58,600
+
+
+1411
+01:29:58,600 --> 01:29:58,600
+
+
+1412
+01:29:58,600 --> 01:29:58,600
+
+
+1413
+01:29:58,600 --> 01:29:58,600
+
+
+1414
+01:29:58,600 --> 01:29:58,600
+
+
+1415
+01:29:58,600 --> 01:29:58,600
+
+
+1416
+01:29:58,600 --> 01:29:58,600
+
+
+1417
+01:29:58,600 --> 01:29:58,600
+
+
+1418
+01:29:58,600 --> 01:29:58,600
+
+
+1419
+01:29:58,600 --> 01:29:58,600
+
+
+1420
+01:29:58,600 --> 01:29:58,600
+
+
+1421
+01:29:58,600 --> 01:30:22,140
+Nor
+
+1422
+01:30:22,140 --> 01:30:22,140
+
+
+1423
+01:30:22,140 --> 01:30:22,140
+
+
+1424
+01:30:22,140 --> 01:30:22,140
+
+
+1425
+01:30:22,140 --> 01:30:22,140
+
+
+1426
+01:30:22,140 --> 01:30:22,140
+
+
+1427
+01:30:22,140 --> 01:30:22,140
+
+
+1428
+01:30:22,140 --> 01:30:22,140
+
+
+1429
+01:30:22,140 --> 01:30:22,140
+
+
+1430
+01:30:22,140 --> 01:30:22,140
+
+
+1431
+01:30:22,140 --> 01:30:22,140
+
+
+1432
+01:30:22,140 --> 01:30:22,140
+
+
+1433
+01:30:22,140 --> 01:30:22,140
+
+
+1434
+01:30:22,140 --> 01:30:22,140
+
+
+1435
+01:30:22,140 --> 01:30:22,140
+
+
+1436
+01:30:22,140 --> 01:30:22,140
+
+
+1437
+01:30:22,140 --> 01:30:22,140
+
+
+1438
+01:30:22,140 --> 01:30:22,140
+
+
+1439
+01:30:22,140 --> 01:30:22,140
+
+
+1440
+01:30:22,140 --> 01:30:22,140
+
+
+1441
+01:30:22,140 --> 01:30:22,140
+
+
+1442
+01:30:22,140 --> 01:30:22,140
+
+
+1443
+01:30:22,140 --> 01:30:22,140
+
+
+1444
+01:30:22,140 --> 01:30:22,140
+
+
+1445
+01:30:22,140 --> 01:30:22,140
+
+
+1446
+01:30:22,140 --> 01:30:22,140
+
+
+1447
+01:30:22,140 --> 01:30:22,140
+
+
+1448
+01:30:22,140 --> 01:30:22,140
+
+
+1449
+01:30:22,140 --> 01:30:22,140
+
+
+1450
+01:30:22,140 --> 01:30:22,140
+
+
+1451
+01:30:22,140 --> 01:30:22,140
+
+
+1452
+01:30:22,140 --> 01:30:22,140
+
+
+1453
+01:30:22,140 --> 01:30:22,140
+
+
+1454
+01:30:22,140 --> 01:30:22,140
+
+
+1455
+01:30:00,000 --> 01:30:02,000
+No, yo creo que lo dejo pues en eso.
+
+1456
+01:30:02,000 --> 01:30:04,000
+No, te preocupo porque tengo algún museo.
+
+1457
+01:30:04,000 --> 01:30:06,000
+¿Cómo es el nombre?
+
+1458
+01:30:06,000 --> 01:30:08,000
+Chino.
+
+1459
+01:30:08,000 --> 01:30:10,000
+Chino Magallanes.
+
+1460
+01:30:10,000 --> 01:30:12,000
+O bien hay un político que tiene que estar con el chino también.
+
+1461
+01:30:12,000 --> 01:30:14,000
+Ya me están bañando con el chino.
+
+1462
+01:30:14,000 --> 01:30:16,000
+Ok.
+
+1463
+01:30:16,000 --> 01:30:18,000
+Interesante.
+
+1464
+01:30:18,000 --> 01:30:20,000
+¿El nombre es interesante?
+
+1465
+01:30:20,000 --> 01:30:22,000
+Debo ser ese hecho.
+
+1466
+01:30:22,000 --> 01:30:24,000
+Pero yo creo que nunca lo he visto.
+
+1467
+01:30:24,000 --> 01:30:26,000
+Pero yo creo que es un sentido vacacional.
+
+1468
+01:30:26,000 --> 01:30:28,000
+Claro.
+
+1469
+01:30:30,000 --> 01:30:33,899
+Gracias
+
+1470
+01:30:33,899 --> 01:30:38,420
+Yo soy Carlos
+
+1471
+01:30:38,420 --> 01:30:41,520
+Estuve trabajando
+
+1472
+01:30:41,520 --> 01:30:44,060
+De reparación de teléfonos y computadores
+
+1473
+01:30:44,060 --> 01:30:44,680
+De manera
+
+1474
+01:30:44,680 --> 01:30:47,039
+Independiente
+
+1475
+01:30:47,039 --> 01:30:48,819
+Y soporte técnico en general
+
+1476
+01:30:48,819 --> 01:30:52,060
+Y fueron 8 años
+
+1477
+01:30:52,060 --> 01:30:54,020
+Pero justo
+
+1478
+01:30:54,020 --> 01:30:56,279
+Me acabo de retirar
+
+1479
+01:30:56,279 --> 01:30:57,800
+Para enfocarme más
+
+1480
+01:30:57,800 --> 01:30:59,319
+Bueno, más que retirarme
+
+1481
+01:30:59,319 --> 01:31:00,560
+como cambiar el enfoque
+
+1482
+01:31:00,560 --> 01:31:03,159
+ahorita estoy un poco más como hacia
+
+1483
+01:31:03,159 --> 01:31:06,020
+como asesorías
+
+1484
+01:31:06,020 --> 01:31:06,699
+y
+
+1485
+01:31:06,699 --> 01:31:09,100
+consultoría básicamente
+
+1486
+01:31:09,100 --> 01:31:11,859
+porque pues ya no me da
+
+1487
+01:31:11,859 --> 01:31:13,100
+tiempo de
+
+1488
+01:31:13,100 --> 01:31:15,060
+echarle ganas a la escuela y
+
+1489
+01:31:15,060 --> 01:31:17,319
+lo de las reparaciones pues es mucho
+
+1490
+01:31:17,319 --> 01:31:19,880
+independiente
+
+1491
+01:31:19,880 --> 01:31:20,359
+así
+
+1492
+01:31:20,359 --> 01:31:22,119
+si pues ahí
+
+1493
+01:31:22,119 --> 01:31:27,560
+y este
+
+1494
+01:31:27,560 --> 01:31:32,439
+y ahorita le digo que para ser prácticamente arreglista es puro servicio
+
+1495
+01:31:32,439 --> 01:31:36,760
+y bueno antes igual en la prep
+
+1496
+01:31:36,760 --> 01:31:40,140
+desde la primaria en realidad vendía dulces
+
+1497
+01:31:40,140 --> 01:31:43,779
+en la primaria, en la escondaria, en la prepa
+
+1498
+01:31:43,779 --> 01:31:48,539
+y ya bueno básicamente antes lo de trabajo
+
+1499
+01:31:48,539 --> 01:31:51,460
+y una vez estuve trabajando en un taller de bicicleta
+
+1500
+01:31:51,460 --> 01:31:53,300
+como 10 meses
+
+1501
+01:31:53,300 --> 01:32:06,640
+no, no, todo era en mi casa
+
+1502
+01:32:06,640 --> 01:32:08,939
+en mi casa
+
+1503
+01:32:08,939 --> 01:32:10,500
+trabajaba a domicilio también
+
+1504
+01:32:10,500 --> 01:32:11,760
+bueno, todavía
+
+1505
+01:32:11,760 --> 01:32:15,359
+pues justo eso fue lo que más
+
+1506
+01:32:15,359 --> 01:32:17,340
+me ha acercado un poco
+
+1507
+01:32:17,340 --> 01:32:18,239
+al área de finanzas
+
+1508
+01:32:18,239 --> 01:32:21,239
+si lo he estudiado pues casualmente
+
+1509
+01:32:21,239 --> 01:32:22,180
+en youtube
+
+1510
+01:32:22,180 --> 01:32:23,399
+pues más que nada
+
+1511
+01:32:23,399 --> 01:32:26,420
+pues lo que son
+
+1512
+01:32:26,420 --> 01:32:28,260
+créditos, inversiones
+
+1513
+01:32:28,260 --> 01:32:30,619
+y muy básico
+
+1514
+01:32:30,619 --> 01:32:31,279
+y este
+
+1515
+01:32:31,279 --> 01:32:32,720
+pues un poco
+
+1516
+01:32:32,720 --> 01:32:35,840
+la idea como de jinetear el dinero
+
+1517
+01:32:35,840 --> 01:32:37,600
+si la conozco y lo
+
+1518
+01:32:37,600 --> 01:32:38,659
+lo he hecho ahí
+
+1519
+01:32:38,659 --> 01:32:41,399
+muy sencillamente pero pues si
+
+1520
+01:32:41,399 --> 01:32:43,560
+el concepto
+
+1521
+01:32:43,560 --> 01:32:44,060
+y
+
+1522
+01:32:44,060 --> 01:32:47,260
+pues si
+
+1523
+01:32:47,260 --> 01:32:49,539
+en general si lo he estudiado aparte
+
+1524
+01:32:49,539 --> 01:32:51,539
+pues más que nada esa parte
+
+1525
+01:32:51,539 --> 01:32:54,479
+como de inversiones
+
+1526
+01:32:56,039 --> 01:33:01,539
+pues si en internet
+
+1527
+01:33:08,460 --> 01:33:14,300
+también hasta yo lo que hacía mucho era dar créditos así como a veces no tienen
+
+1528
+01:33:14,300 --> 01:33:19,000
+papel en el momento pero como es pues el trabajo para siguiente por las personas
+
+1529
+01:33:19,000 --> 01:33:25,600
+de confianza pues sí sí sí encontré que tenía más ganancias dando créditos
+
+1530
+01:33:25,600 --> 01:33:29,159
+pagando después pero
+
+1531
+01:33:30,659 --> 01:33:34,000
+sí pues las facilitas
+
+1532
+01:33:35,680 --> 01:33:42,760
+hay muchas veces o me dan cosas me dan otro teléfono que esté roto y yo lo puedo recargar
+
+1533
+01:33:42,760 --> 01:33:46,760
+mucho mucho dinero
+
+1534
+01:33:49,000 --> 01:33:51,000
+si
+
+1535
+01:34:11,000 --> 01:34:13,000
+si
+
+1536
+01:34:13,000 --> 01:34:15,000
+pues del inglés
+
+1537
+01:34:15,000 --> 01:34:17,000
+si lo domino
+
+1538
+01:34:17,000 --> 01:34:19,000
+y
+
+1539
+01:34:19,000 --> 01:34:21,000
+todo, si he hablado
+
+1540
+01:34:21,000 --> 01:34:23,000
+digo, las
+
+1541
+01:34:23,000 --> 01:34:25,000
+justamente las lecturas que hemos tenido técnicas
+
+1542
+01:34:25,000 --> 01:34:27,000
+aquí, si las entiendo
+
+1543
+01:34:27,000 --> 01:34:29,000
+pero si es de ponerle más atención
+
+1544
+01:34:29,000 --> 01:34:31,000
+que al lenguaje
+
+1545
+01:34:31,000 --> 01:34:33,000
+estoy más acostumbrado, pero pues si
+
+1546
+01:34:33,000 --> 01:34:35,000
+rara vez se encuentra una palabra que no conozca
+
+1547
+01:34:35,000 --> 01:34:37,000
+y
+
+1548
+01:34:37,000 --> 01:34:39,000
+un muy básico neerlandés
+
+1549
+01:34:39,000 --> 01:34:41,000
+estoy aprendiendo ahorita
+
+1550
+01:34:41,000 --> 01:34:43,000
+y
+
+1551
+01:34:43,000 --> 01:34:45,000
+igual estoy estudiando chino pero
+
+1552
+01:34:45,000 --> 01:34:52,520
+como dos un mes yo creo lo mucho y si con cuatro palabras
+
+1553
+01:35:04,520 --> 01:35:08,079
+si quiero volver
+
+1554
+01:35:15,000 --> 01:35:41,260
+...
+
+1555
+01:35:41,260 --> 01:35:41,260
+
+
+1556
+01:35:41,260 --> 01:35:41,260
+
+
+1557
+01:35:41,260 --> 01:35:41,260
+
+
+1558
+01:35:41,260 --> 01:35:41,260
+
+
+1559
+01:35:41,260 --> 01:35:41,260
+
+
+1560
+01:35:41,260 --> 01:35:41,260
+
+
+1561
+01:35:41,260 --> 01:35:41,260
+
+
+1562
+01:35:41,260 --> 01:35:41,260
+
+
+1563
+01:35:41,260 --> 01:35:41,260
+
+
+1564
+01:35:41,260 --> 01:35:41,260
+
+
+1565
+01:35:41,260 --> 01:35:41,260
+
+
+1566
+01:35:41,260 --> 01:35:41,260
+
+
+1567
+01:35:41,260 --> 01:35:41,260
+
+
+1568
+01:35:41,260 --> 01:35:41,260
+
+
+1569
+01:35:41,260 --> 01:35:41,260
+
+
+1570
+01:35:41,260 --> 01:35:41,260
+
+
+1571
+01:35:41,260 --> 01:35:41,260
+
+
+1572
+01:35:41,260 --> 01:35:41,260
+
+
+1573
+01:35:41,260 --> 01:35:41,260
+
+
+1574
+01:35:41,260 --> 01:35:41,260
+
+
+1575
+01:35:41,260 --> 01:35:41,260
+
+
+1576
+01:35:41,260 --> 01:35:41,260
+
+
+1577
+01:35:41,260 --> 01:35:41,260
+
+
+1578
+01:35:41,260 --> 01:35:41,260
+
+
+1579
+01:35:41,260 --> 01:35:41,260
+
+
+1580
+01:35:41,260 --> 01:35:41,260
+
+
+1581
+01:35:41,260 --> 01:35:41,260
+
+
+1582
+01:35:41,260 --> 01:35:41,260
+
+
+1583
+01:35:41,260 --> 01:35:41,260
+
+
+1584
+01:35:41,260 --> 01:35:41,260
+
+
+1585
+01:35:41,260 --> 01:35:41,260
+
+
+1586
+01:35:41,260 --> 01:35:41,260
+
+
+1587
+01:35:41,260 --> 01:35:41,260
+
+
+1588
+01:35:41,260 --> 01:35:41,260
+
+
+1589
+01:35:41,260 --> 01:35:41,260
+
+
+1590
+01:35:41,260 --> 01:35:41,260
+
+
+1591
+01:35:41,260 --> 01:35:41,260
+
+
+1592
+01:35:41,260 --> 01:35:41,260
+
+
+1593
+01:35:41,260 --> 01:35:41,260
+
+
+1594
+01:35:41,260 --> 01:35:41,260
+
+
+1595
+01:35:41,260 --> 01:35:41,260
+
+
+1596
+01:35:41,260 --> 01:35:41,260
+
+
+1597
+01:35:41,260 --> 01:35:41,260
+
+
+1598
+01:35:41,260 --> 01:35:41,260
+
+
+1599
+01:35:41,260 --> 01:35:41,260
+
+
+1600
+01:35:41,260 --> 01:35:41,260
+
+
+1601
+01:35:41,260 --> 01:35:41,260
+
+
+1602
+01:35:41,260 --> 01:35:41,260
+
+
+1603
+01:35:41,260 --> 01:35:41,260
+
+
+1604
+01:35:41,260 --> 01:35:41,260
+
+
+1605
+01:35:41,260 --> 01:35:41,260
+
+
+1606
+01:35:41,260 --> 01:35:41,260
+
+
+1607
+01:35:41,260 --> 01:35:41,260
+
+
+1608
+01:35:41,260 --> 01:35:41,260
+
+
+1609
+01:35:41,260 --> 01:35:41,260
+
+
+1610
+01:35:41,260 --> 01:35:41,260
+
+
+1611
+01:35:41,260 --> 01:35:41,260
+
+
+1612
+01:35:41,260 --> 01:35:41,260
+
+
+1613
+01:35:41,260 --> 01:35:41,260
+
+
+1614
+01:35:41,260 --> 01:35:41,260
+
+
+1615
+01:35:41,260 --> 01:35:41,260
+
+
+1616
+01:35:41,260 --> 01:35:41,260
+
+
+1617
+01:35:41,260 --> 01:35:41,260
+
+
+1618
+01:35:41,260 --> 01:35:41,260
+
+
+1619
+01:35:41,260 --> 01:35:41,260
+
+
+1620
+01:35:41,260 --> 01:35:41,260
+
+
+1621
+01:35:41,260 --> 01:35:41,260
+
+
+1622
+01:35:41,260 --> 01:35:41,260
+
+
+1623
+01:35:41,260 --> 01:35:41,260
+
+
+1624
+01:35:41,260 --> 01:35:41,260
+
+
+1625
+01:35:41,260 --> 01:35:41,260
+
+
+1626
+01:35:41,260 --> 01:35:41,260
+
+
+1627
+01:35:41,260 --> 01:35:41,260
+
+
+1628
+01:35:41,260 --> 01:35:44,220
+de prepa 5
+
+1629
+01:35:44,220 --> 01:35:46,220
+¿Prepa 5? ¿No lo escuchamos?
+
+1630
+01:35:46,220 --> 01:35:48,220
+Sí
+
+1631
+01:35:48,220 --> 01:35:50,220
+La más grande y la más acosta de todos
+
+1632
+01:35:50,220 --> 01:35:52,220
+Facultad de Coapa
+
+1633
+01:35:52,220 --> 01:35:54,220
+Dicen Facultad de Coapa
+
+1634
+01:35:54,220 --> 01:35:56,220
+Ah, sí, me pareció que sí
+
+1635
+01:35:56,220 --> 01:36:00,220
+Todavía siguen haciendo sus novedades, escuchar y...
+
+1636
+01:36:00,220 --> 01:36:02,220
+Pues a mí no me tocó nada de eso
+
+1637
+01:36:02,220 --> 01:36:04,220
+Claro
+
+1638
+01:36:04,220 --> 01:36:31,220
+Pues muy, muy variado, pero así, de manera casual, ¿no?
+
+1639
+01:36:31,220 --> 01:36:38,720
+producir porque así que desde que tengo una memoria de mucho youtube así pero de todo
+
+1640
+01:36:38,720 --> 01:36:45,159
+así como así como lo que conozco de finanzas psicología pedagogía
+
+1641
+01:36:45,159 --> 01:36:50,020
+informática
+
+1642
+01:36:50,020 --> 01:36:56,260
+o sea ya incluso antes de entrar a la carrera primero segundo semestre casi ya sabía todo
+
+1643
+01:37:13,659 --> 01:37:17,300
+pero
+
+1644
+01:37:50,020 --> 01:37:58,020
+Mi nombre es Francisco, vengo de CCH Vallejo.
+
+1645
+01:37:58,020 --> 01:38:26,020
+un conocimiento de... tuve la tabla técnica en el CSH de decir en la página web, en bases de datos
+
+1646
+01:38:26,020 --> 01:38:31,340
+un poquito de la pasada
+
+1647
+01:38:31,340 --> 01:38:38,899
+actualmente estoy trabajando en Liverpool como encargado de una de las marcas
+
+1648
+01:38:39,819 --> 01:38:43,619
+llevo 5 años trabajando ahi
+
+1649
+01:38:44,819 --> 01:38:50,500
+empece como experiencia digital, ya de ventas
+
+1650
+01:38:50,500 --> 01:38:54,500
+cambio de área y luego ya encargado
+
+1651
+01:38:56,020 --> 01:39:04,020
+las materias que tomé
+
+1652
+01:39:04,020 --> 01:39:07,399
+si, las dejé, están muy cortadas
+
+1653
+01:39:07,399 --> 01:39:08,380
+que eran de varias
+
+1654
+01:39:08,380 --> 01:39:10,920
+¿cuál es la necesidad?
+
+1655
+01:39:10,920 --> 01:39:12,140
+¿cuál es la necesidad?
+
+1656
+01:39:13,600 --> 01:39:16,300
+pues la necesidad de
+
+1657
+01:39:16,300 --> 01:39:17,520
+a ver, no se llama
+
+1658
+01:39:17,520 --> 01:39:19,760
+¿qué es?
+
+1659
+01:39:20,039 --> 01:39:22,199
+no, no, no, no, no, no, no
+
+1660
+01:39:22,199 --> 01:39:22,520
+es que
+
+1661
+01:39:22,520 --> 01:39:26,380
+información financiera
+
+1662
+01:39:26,380 --> 01:39:28,260
+apenas una de las últimas
+
+1663
+01:39:28,260 --> 01:39:29,220
+que he estado grabando
+
+1664
+01:39:29,220 --> 01:39:31,100
+si se me ha complicado mucho
+
+1665
+01:39:31,100 --> 01:39:33,260
+pero que pues está listo
+
+1666
+01:39:33,260 --> 01:39:33,960
+y ganar todo
+
+1667
+01:39:33,960 --> 01:39:35,279
+lo que tiene que ver con matemáticas
+
+1668
+01:39:35,279 --> 01:39:36,039
+es el equipo
+
+1669
+01:39:36,039 --> 01:39:41,439
+mi inglés
+
+1670
+01:39:41,439 --> 01:39:43,579
+pues muy básico
+
+1671
+01:39:43,579 --> 01:39:44,559
+casi no
+
+1672
+01:39:44,559 --> 01:39:46,699
+si este
+
+1673
+01:39:46,699 --> 01:39:49,559
+bueno aquí traté de meterme
+
+1674
+01:39:49,559 --> 01:39:50,220
+al
+
+1675
+01:39:50,220 --> 01:39:59,220
+al inglés, pero como era nivel 0, pues nunca se abrieron los grupos, entonces ahorita he estado metiendo frases para...
+
+1676
+01:40:00,000 --> 01:40:04,239
+Más o menos, los estudios de la universidad nos han completado muchos de ellos.
+
+1677
+01:40:07,439 --> 01:40:08,439
+Bien, ya está.
+
+1678
+01:40:10,239 --> 01:40:12,760
+Quiero agradecer a todos los que participan en este programa.
+
+1679
+01:40:15,479 --> 01:40:18,479
+Se me hace que yo hablo de otras cosas, pero la verdad es que no es para mí.
+
+1680
+01:40:18,479 --> 01:40:21,159
+Se la voy a poner en un sitio que se desvanece.
+
+1681
+01:40:26,199 --> 01:40:28,640
+¿Por qué no un área más enfocada en tu carrera?
+
+1682
+01:40:30,000 --> 01:40:32,000
+y
+
+1683
+01:40:32,000 --> 01:40:34,000
+y
+
+1684
+01:40:34,000 --> 01:40:36,000
+y
+
+1685
+01:40:36,000 --> 01:40:38,000
+y
+
+1686
+01:40:38,000 --> 01:40:40,000
+y
+
+1687
+01:40:40,000 --> 01:40:42,000
+y
+
+1688
+01:40:42,000 --> 01:40:44,000
+y
+
+1689
+01:40:44,000 --> 01:40:46,000
+y
+
+1690
+01:40:46,000 --> 01:40:48,000
+y
+
+1691
+01:40:48,000 --> 01:40:50,000
+y
+
+1692
+01:40:50,000 --> 01:40:52,000
+y
+
+1693
+01:40:52,000 --> 01:40:54,000
+y
+
+1694
+01:40:54,000 --> 01:40:56,000
+y
+
+1695
+01:40:56,000 --> 01:40:58,000
+y
+
+1696
+01:40:58,000 --> 01:41:04,500
+¿Qué es lo que se puede ofrecer de recursos humanos?
+
+1697
+01:41:04,779 --> 01:41:06,920
+¿Por qué no se habla de recursos humanos?
+
+1698
+01:41:08,659 --> 01:41:12,000
+Si todas las actividades que he obtenido son de...
+
+1699
+01:41:12,000 --> 01:41:14,479
+Típicos.
+
+1700
+01:41:28,000 --> 01:41:29,939
+Sí, sí, sí, sí.
+
+1701
+01:41:30,659 --> 01:41:35,640
+No, no me gusta porque sería mucho trato con las personas,
+
+1702
+01:41:37,140 --> 01:41:43,220
+con ser, pues sí, me considero una persona que es un poco social,
+
+1703
+01:41:43,220 --> 01:41:48,220
+entonces sí como que se me facilita un poquito en ese aspecto,
+
+1704
+01:41:49,140 --> 01:41:54,420
+inclusive en los años, sí es algo que sí se me complica demasiado,
+
+1705
+01:42:24,420 --> 01:42:30,420
+En el sistema de capital, como yo digo, hay muchas cosas que se requieren para la pandemia.
+
+1706
+01:42:31,420 --> 01:42:35,420
+Y hay otro tema. Yo he visto un poco como bien se trabaja el sistema.
+
+1707
+01:42:36,420 --> 01:42:39,420
+Y ahí se ve ustedes el sistema de evaluación.
+
+1708
+01:42:40,420 --> 01:42:47,420
+Pero para negociar, en este caso, en la mayoría, en el volumen de lo pequeño,
+
+1709
+01:42:48,420 --> 01:42:52,420
+en la humana, en el consumo, en el gas, en un complicado negociar,
+
+1710
+01:42:52,420 --> 01:43:04,420
+con muchas opiniones diferentes, llegaron a pensar en una crisis.
+
+1711
+01:43:04,420 --> 01:43:12,420
+Hay que hacerlo más fácil. A pesar de que somos cinco, bueno, al menos cinco,
+
+1712
+01:43:42,420 --> 01:43:44,420
+porque somos mayores de ellos.
+
+1713
+01:43:45,420 --> 01:43:48,420
+¿Por qué digo que no hay algo que no hay?
+
+1714
+01:43:48,420 --> 01:43:51,420
+Porque la protección es eso.
+
+1715
+01:43:51,420 --> 01:43:53,420
+Eso es lo que estamos diciendo.
+
+1716
+01:43:54,420 --> 01:43:57,420
+Ejemplo, aquí vamos a negociar incluso,
+
+1717
+01:43:57,420 --> 01:44:00,420
+me voy a ir a un extremo,
+
+1718
+01:44:00,420 --> 01:44:03,420
+vamos a hablar de alguna situación en particular,
+
+1719
+01:44:03,420 --> 01:44:05,420
+se va a dar el examen que se me parece.
+
+1720
+01:44:05,420 --> 01:44:10,420
+Por favor, yo sé que lo tengo como un escándalo,
+
+1721
+01:44:40,420 --> 01:44:41,600
+¿Qué haces? ¿Qué haces?
+
+1722
+01:44:42,300 --> 01:44:43,359
+¿Qué haces?
+
+1723
+01:44:45,539 --> 01:44:46,659
+¿No te han entendido?
+
+1724
+01:44:47,720 --> 01:44:49,560
+Que yo ni que hay ningún problema
+
+1725
+01:44:49,560 --> 01:44:50,939
+porque la decisión fue tuya.
+
+1726
+01:44:51,100 --> 01:44:51,520
+No hay problema.
+
+1727
+01:44:54,239 --> 01:44:55,020
+No hay problema.
+
+1728
+01:44:55,760 --> 01:44:56,600
+Si usted no vino,
+
+1729
+01:44:57,039 --> 01:44:58,159
+no se le pierda un trozo
+
+1730
+01:44:58,159 --> 01:44:59,640
+porque usted no hace seguro.
+
+1731
+01:45:00,560 --> 01:45:01,659
+Entonces, si viene y queda en la cara
+
+1732
+01:45:01,659 --> 01:45:03,300
+lo que ha puesto más de serie,
+
+1733
+01:45:03,539 --> 01:45:04,579
+eso lo podemos hacer
+
+1734
+01:45:04,579 --> 01:45:05,840
+y no se nos puede olvidar.
+
+1735
+01:45:07,420 --> 01:45:09,220
+Yo no debería quebrirme un pato.
+
+1736
+01:45:09,220 --> 01:45:13,659
+3 de 5
+
+1737
+01:45:13,659 --> 01:45:13,659
+
+
+1738
+01:45:13,659 --> 01:45:13,659
+
+
+1739
+01:45:13,659 --> 01:45:13,659
+
+
+1740
+01:45:13,659 --> 01:45:13,659
+
+
+1741
+01:45:13,659 --> 01:45:13,659
+
+
+1742
+01:45:13,659 --> 01:45:13,659
+
+
+1743
+01:45:13,659 --> 01:45:13,659
+
+
+1744
+01:45:13,659 --> 01:45:13,659
+
+
+1745
+01:45:13,659 --> 01:45:13,659
+
+
+1746
+01:45:13,659 --> 01:45:13,659
+
+
+1747
+01:45:13,659 --> 01:45:13,659
+
+
+1748
+01:45:13,659 --> 01:45:13,659
+
+
+1749
+01:45:13,659 --> 01:45:13,659
+
+
+1750
+01:45:13,659 --> 01:45:13,659
+
+
+1751
+01:45:13,659 --> 01:45:13,659
+
+
+1752
+01:45:13,659 --> 01:45:13,659
+
+
+1753
+01:45:13,659 --> 01:45:13,659
+
+
+1754
+01:45:13,659 --> 01:45:13,659
+
+
+1755
+01:45:13,659 --> 01:45:13,659
+
+
+1756
+01:45:13,659 --> 01:45:13,659
+
+
+1757
+01:45:13,659 --> 01:45:13,659
+
+
+1758
+01:45:13,659 --> 01:45:13,659
+
+
+1759
+01:45:13,659 --> 01:45:13,659
+
+
+1760
+01:45:13,659 --> 01:45:13,659
+
+
+1761
+01:45:13,659 --> 01:45:13,659
+
+
+1762
+01:45:13,659 --> 01:45:13,659
+
+
+1763
+01:45:13,659 --> 01:45:13,659
+
+
+1764
+01:45:13,659 --> 01:45:13,659
+
+
+1765
+01:45:13,659 --> 01:45:17,720
+3 de 5
+
+1766
+01:45:17,720 --> 01:45:17,720
+
+
+1767
+01:45:17,720 --> 01:45:17,720
+
+
+1768
+01:45:17,720 --> 01:45:17,720
+
+
+1769
+01:45:17,720 --> 01:45:17,720
+
+
+1770
+01:45:17,720 --> 01:45:17,720
+
+
+1771
+01:45:17,720 --> 01:45:17,720
+
+
+1772
+01:45:17,720 --> 01:45:17,720
+
+
+1773
+01:45:17,720 --> 01:45:17,720
+
+
+1774
+01:45:17,720 --> 01:45:17,720
+
+
+1775
+01:45:17,720 --> 01:45:17,720
+
+
+1776
+01:45:17,720 --> 01:45:17,720
+
+
+1777
+01:45:17,720 --> 01:45:17,720
+
+
+1778
+01:45:17,720 --> 01:45:17,720
+
+
+1779
+01:45:17,720 --> 01:45:17,720
+
+
+1780
+01:45:17,720 --> 01:45:25,720
+No se lo deciden por su nombre, se le encarga de ustedes de seguir.
+
+1781
+01:45:26,720 --> 01:45:33,720
+Ustedes, que decían los códigos, preferen esperar a sus camaradas.
+
+1782
+01:45:33,720 --> 01:45:34,720
+Gracias.
+
+1783
+01:46:03,720 --> 01:46:05,720
+¿Es... es...
+
+1784
+01:46:05,720 --> 01:46:07,720
+¿Es... es...
+
+1785
+01:46:07,720 --> 01:46:09,720
+¿Es... es...
+
+1786
+01:46:09,720 --> 01:46:11,720
+Yo creo que sí, don Abel, está bien. Para no atrasar más.
+
+1787
+01:46:11,720 --> 01:46:13,720
+Tenemos mucho que ver.
+
+1788
+01:46:13,720 --> 01:46:15,720
+Tenemos mucho que ver.
+
+1789
+01:46:15,720 --> 01:46:17,720
+Tenemos mucho que ver.
+
+1790
+01:46:17,720 --> 01:46:19,720
+Vamos a ver.
+
+1791
+01:46:19,720 --> 01:46:21,720
+Vamos a ver.
+
+1792
+01:46:21,720 --> 01:46:23,720
+A tratar de llegar a un acuerdo.
+
+1793
+01:46:23,720 --> 01:46:25,720
+Y ese acuerdo espero que sea
+
+1794
+01:46:25,720 --> 01:46:27,720
+más feliz que el de ustedes.
+
+1795
+01:46:27,720 --> 01:46:29,720
+¿Vale?
+
+1796
+01:46:29,720 --> 01:46:31,720
+Bueno, vamos a
+
+1797
+01:46:31,720 --> 01:46:36,220
+Ahora vamos a plantear la resultado de la consulta.
+
+1798
+01:46:40,539 --> 01:46:41,880
+Vamos a plantear.
+
+1799
+01:46:42,779 --> 01:46:49,399
+Yo les voy a explicar dos formas de valor.
+
+1800
+01:46:50,979 --> 01:46:54,800
+Ustedes van a escoger de aquí más disponible lo que crean que es lo que se puede.
+
+1801
+01:46:55,739 --> 01:46:56,220
+¿Correcto?
+
+1802
+01:46:57,000 --> 01:47:00,539
+Van a poder opinar, van a poder sugerir, van a poder hacer.
+
+1803
+01:47:01,720 --> 01:47:04,659
+y lo vamos a tener que considerar siempre y siempre.
+
+1804
+01:47:05,840 --> 01:47:07,479
+Lo que ustedes deciden
+
+1805
+01:47:07,479 --> 01:47:10,100
+se va a quedar bien
+
+1806
+01:47:10,100 --> 01:47:13,140
+con nuestro esquema de evaluación.
+
+1807
+01:47:13,440 --> 01:47:14,180
+Eso es muy claro.
+
+1808
+01:47:15,180 --> 01:47:16,220
+Lo que decida el doctor,
+
+1809
+01:47:16,699 --> 01:47:19,640
+lo que vayan pensando.
+
+1810
+01:47:20,819 --> 01:47:23,020
+Denme unos minutos, quiero recibir un maestro,
+
+1811
+01:47:23,020 --> 01:47:25,340
+quiero checar una cosa con él
+
+1812
+01:47:25,340 --> 01:47:27,960
+y vamos a empezar con eso.
+
+1813
+01:47:31,720 --> 01:47:52,220
+hasta asistencia va a poner
+
+1814
+01:47:52,220 --> 01:47:54,699
+pero si dijimos ponerle
+
+1815
+01:47:54,699 --> 01:47:56,199
+mayor cargo a uno
+
+1816
+01:47:56,199 --> 01:47:57,220
+se va a poner
+
+1817
+01:47:57,220 --> 01:48:00,220
+bueno va a poner más de un par de meses
+
+1818
+01:48:00,220 --> 01:48:05,220
+de seis meses. Exacto, o sea si es 100% examen, pues va a estar bien.
+
+1819
+01:48:05,220 --> 01:48:13,220
+De hecho, cuando yo cursé, le cargaron mucho a la asistencia, y ahí sí me gustaba tanto
+
+1820
+01:48:13,220 --> 01:48:18,220
+que así llegué aquí. ¿Tú estabas mucho tiempo?
+
+1821
+01:48:18,220 --> 01:48:26,220
+Pues luego me levantaron más dentro, ¿no? O sea, si no, no me pasaba el tema, pero también
+
+1822
+01:48:26,220 --> 01:48:34,220
+cada día más pregunta va a alazar y si no contestas te quita la alaza así
+
+1823
+01:48:34,220 --> 01:48:40,220
+no sé, eso de las preguntas es porque tiene más peso la resistencia
+
+1824
+01:48:40,220 --> 01:48:45,220
+entonces por eso tenemos que equilibrar con los otros
+
+1825
+01:48:45,220 --> 01:48:49,220
+yo diría que preguntarle a este tipo, no sé, creo que recomiendo
+
+1826
+01:48:49,220 --> 01:48:53,220
+bueno, las exámenes son muy difíciles
+
+1827
+01:48:53,220 --> 01:48:56,800
+si le vemos, que se hagan los 10%
+
+1828
+01:48:56,800 --> 01:48:59,140
+de la vida
+
+1829
+01:48:59,140 --> 01:49:02,119
+porque
+
+1830
+01:49:02,119 --> 01:49:04,779
+yo ya voy a llegar
+
+1831
+01:49:04,779 --> 01:49:07,000
+al proyecto
+
+1832
+01:49:07,000 --> 01:49:09,760
+que por
+
+1833
+01:49:09,760 --> 01:49:10,579
+las
+
+1834
+01:49:10,579 --> 01:49:11,859
+sueltas
+
+1835
+01:49:11,859 --> 01:49:14,619
+o sea, pero te lo plamo
+
+1836
+01:49:14,619 --> 01:49:15,199
+a pasar
+
+1837
+01:49:15,199 --> 01:49:17,840
+o sea, tratando
+
+1838
+01:49:17,840 --> 01:49:19,220
+los 15 minutos
+
+1839
+01:49:19,220 --> 01:49:22,859
+en este caso
+
+1840
+01:49:22,859 --> 01:49:52,100
+no te podías pasar
+
+1841
+01:49:52,859 --> 01:49:58,640
+y luego se entrega una completa, o incluso una pedaza de dos páginas, tiene que ser una.
+
+1842
+01:50:00,000 --> 01:50:01,000
+¿Qué se le dice?
+
+1843
+01:50:01,000 --> 01:50:02,000
+No me gustaba.
+
+1844
+01:50:02,000 --> 01:50:11,000
+Ah, porque para esto, para que te lo aceptara, tenías que decirle de qué trataba el libro, pero ella escogió un capítulo del libro y le tenías que explicar de qué trataba.
+
+1845
+01:50:11,000 --> 01:50:25,000
+Y si no le gustaba, no te lo aceptaba, pero si le entregabas tu, ¿cómo se llama?, la hoja y estaba mal, gracias a que no era lo que ella había pedido, le rompió la carta.
+
+1846
+01:50:25,000 --> 01:50:26,000
+Sí.
+
+1847
+01:50:26,000 --> 01:50:31,039
+¿Qué recomiendo?
+
+1848
+01:50:56,000 --> 01:51:00,000
+que viene una semana que no queda para ustedes.
+
+1849
+01:51:00,000 --> 01:51:04,000
+Yo no creo que haya tanto problema, lo habéis dicho porque son poquitos.
+
+1850
+01:51:04,000 --> 01:51:08,000
+Ahora van a estar en la casa de los grandes y luego empiezan a arreglar.
+
+1851
+01:51:08,000 --> 01:51:12,000
+Entonces, negociamos hoy.
+
+1852
+01:51:16,000 --> 01:51:20,000
+Bueno, vamos a
+
+1853
+01:51:20,000 --> 01:51:24,000
+comenzar como siempre, que recuerden si tienen error.
+
+1854
+01:51:24,000 --> 01:51:29,680
+en lo que nos propone la facultad.
+
+1855
+01:51:31,039 --> 01:51:34,699
+Y la facultad como tal, ¿qué nos propone?
+
+1856
+01:51:36,699 --> 01:51:40,079
+Que cada una de las materias que se imparten
+
+1857
+01:51:40,079 --> 01:51:41,539
+en una fase de la licenciatura,
+
+1858
+01:51:41,699 --> 01:51:42,539
+en una fase de la licenciatura,
+
+1859
+01:51:43,100 --> 01:51:45,140
+cumplan con el reglamento.
+
+1860
+01:51:45,720 --> 01:51:48,159
+Todos sabemos que existen reglamentos de licenciatura.
+
+1861
+01:51:49,340 --> 01:51:51,000
+Desde que ustedes ingresaron a la unidad,
+
+1862
+01:51:51,000 --> 01:51:55,619
+de mi amor a Dios, a Dios, a Dios, a Dios.
+
+1863
+01:51:55,619 --> 01:51:57,359
+El reglamento institucional.
+
+1864
+01:51:59,220 --> 01:52:01,680
+¿Por qué es importante el reglamento, señores?
+
+1865
+01:52:02,899 --> 01:52:05,539
+Para empezar, ¿qué nos dice un reglamento?
+
+1866
+01:52:06,060 --> 01:52:06,899
+¿Qué nos da?
+
+1867
+01:52:07,920 --> 01:52:09,159
+¿Para qué nos sirve?
+
+1868
+01:52:11,199 --> 01:52:12,479
+¿A qué sirve el reglamento?
+
+1869
+01:52:14,579 --> 01:52:16,600
+Pues nos confiere derechos y obligaciones.
+
+1870
+01:52:17,680 --> 01:52:19,119
+Así de sencillo.
+
+1871
+01:52:19,119 --> 01:52:30,119
+¿A qué tengo derecho? Y al hablar de derechos, por todas las razones, ya te estoy obligando.
+
+1872
+01:52:30,119 --> 01:52:37,119
+Es correcto. No nos vamos a poner a analizar todo realmente porque vamos a disfrutar de todo.
+
+1873
+01:52:37,119 --> 01:52:43,119
+Ya debemos de conocer los efectos y los efectos de la mano. Pero vamos a recuperar la razón
+
+1874
+01:52:43,119 --> 01:52:47,119
+la mejor parte de lo más interesante, porque no se puede afectar a nadie, pero se puede
+
+1875
+01:52:47,119 --> 01:52:55,119
+servir para que le hagas dos cosas. Entonces, el Reglamento Paragonista nos dice...
+
+1876
+01:52:59,119 --> 01:53:09,119
+Vamos a hablar de lo que hace un momento comentábamos. Nos regula lo que corresponde a las asistencias.
+
+1877
+01:53:09,119 --> 01:53:15,420
+En materia de asistencia, veis que yo como hay un monotono,
+
+1878
+01:53:15,420 --> 01:53:23,500
+tengo el derecho de exigirle a mis maestros que me den el 100% de clases.
+
+1879
+01:53:23,500 --> 01:53:27,500
+Que quede claro, el maestro no me viene a hacer un favor,
+
+1880
+01:53:27,500 --> 01:53:33,000
+el maestro tiene la obligación de darle el 100% de clases.
+
+1881
+01:53:33,000 --> 01:53:39,199
+Para eso lo pagan, para eso se contratan, para eso se alquilan con la universidad.
+
+1882
+01:53:39,680 --> 01:53:40,220
+Es correcto.
+
+1883
+01:53:42,220 --> 01:53:48,100
+Pero si yo tengo el derecho de exigirle a mi maestro que me deje el 100% de clases,
+
+1884
+01:53:50,100 --> 01:53:51,619
+¿cuál es la contraparte?
+
+1885
+01:53:52,420 --> 01:53:56,659
+Que yo también tengo la obligación de asistir al 100% de los clases.
+
+1886
+01:53:59,319 --> 01:54:00,500
+¿O bien con la clases?
+
+1887
+01:54:00,500 --> 01:54:04,439
+esto lo vamos a evitar
+
+1888
+01:54:04,439 --> 01:54:07,899
+de hecho en el manifiesto de esa vida
+
+1889
+01:54:07,899 --> 01:54:09,819
+nos vamos a pegar al reglamento
+
+1890
+01:54:09,819 --> 01:54:11,739
+inevitablemente
+
+1891
+01:54:11,739 --> 01:54:13,479
+porque no debe ser
+
+1892
+01:54:13,479 --> 01:54:16,460
+y el reglamento me dice que sí
+
+1893
+01:54:16,460 --> 01:54:19,779
+aunque a nosotros los teachers
+
+1894
+01:54:19,779 --> 01:54:24,899
+nos obliga a que vengamos al 100% de las clases
+
+1895
+01:54:24,899 --> 01:54:28,539
+y que duramos nuestro horario al 100%
+
+1896
+01:54:28,539 --> 01:54:31,779
+¿en qué hablamos de que duramos nuestro horario?
+
+1897
+01:54:33,579 --> 01:54:34,699
+ya lo borré pero no es
+
+1898
+01:54:34,699 --> 01:54:37,500
+nuestro horario es
+
+1899
+01:54:37,500 --> 01:54:39,960
+de 7 a 10 de la tarde
+
+1900
+01:54:39,960 --> 01:54:42,460
+no es de 7 y media
+
+1901
+01:54:42,460 --> 01:54:44,100
+a 8
+
+1902
+01:54:44,100 --> 01:54:46,340
+no es de 9 a 10
+
+1903
+01:54:46,340 --> 01:54:48,460
+no es de 7
+
+1904
+01:54:48,460 --> 01:54:50,760
+a 9 y media
+
+1905
+01:54:50,760 --> 01:54:51,640
+no
+
+1906
+01:54:51,640 --> 01:54:53,439
+me dicen que tenemos
+
+1907
+01:54:53,439 --> 01:54:54,819
+otros cosas
+
+1908
+01:54:54,819 --> 01:54:57,560
+bueno
+
+1909
+01:54:57,560 --> 01:55:05,619
+Por otro lado, a nosotros los tichos sí nos exigen, es así que nos controlan, nuestra
+
+1910
+01:55:05,619 --> 01:55:11,260
+hora de llegada, nuestra hora de salida, todo ese aburrido. Pero el reglamento es un poco
+
+1911
+01:55:11,260 --> 01:55:17,199
+maternalista, paternalista, como le quieran llamar. Ustedes dicen, para ti, tichero, tú
+
+1912
+01:55:17,199 --> 01:55:21,500
+tienes que asistir, es un curso de clases. Ah, perfecto, porque todos los chavos también
+
+1913
+01:55:21,500 --> 01:55:25,579
+tienen que cumplir el 100%. En teoría, a ver, espérate, reglamento, ¿cómo que en
+
+1914
+01:55:25,579 --> 01:55:33,479
+de verdad, es que los chavos están chiquitos. Ellos pueden tener problemas. Tú lo haces
+
+1915
+01:55:33,479 --> 01:55:42,720
+así, así, así. Pues, ¿qué tal si le puchan el alma al mundo? ¿Qué tal si se inunda
+
+1916
+01:55:42,720 --> 01:55:51,939
+por donde ellos van a pasar? ¿Qué tal si se encuentra alguna manifestación? Tú no
+
+1917
+01:55:51,939 --> 01:55:55,439
+No tienen esos problemas, pero ellos…
+
+1918
+01:55:55,439 --> 01:55:59,439
+¡Ah, caramba! Y es un traducido en castellano.
+
+1919
+01:55:59,439 --> 01:56:09,939
+En materia de faltas, los chavos podrán llegar a ausentarse,
+
+1920
+01:56:09,939 --> 01:56:15,439
+siempre y cuando no accedan al porcentaje.
+
+1921
+01:56:15,439 --> 01:56:20,939
+Quiere decir, entonces, que ellos no pueden llegar a faltar más
+
+1922
+01:56:20,939 --> 01:56:24,939
+o un 20%.
+
+1923
+01:56:28,939 --> 01:56:36,939
+Luego entonces, les da la obligación mínima de adquirir el 80% de clases.
+
+1924
+01:56:36,939 --> 01:56:41,939
+Si ellos cumplen con el 80% de cesiones, no tienen problema.
+
+1925
+01:56:41,939 --> 01:56:46,939
+Pero si no cumplen con ello, el automático aplica la baja.
+
+1926
+01:56:46,939 --> 01:56:50,260
+que es lo que les decía, eso no lo inventé yo, eso viene en el primer punto.
+
+1927
+01:56:51,939 --> 01:56:52,560
+¿Estamos de acuerdo?
+
+1928
+01:56:53,579 --> 01:56:55,239
+Pues así lo marca el documento.
+
+1929
+01:56:56,140 --> 01:56:57,079
+Y así lo vamos a utilizar.
+
+1930
+01:56:58,300 --> 01:57:00,300
+Hasta aquí muy bien, pongan regreso.
+
+1931
+01:57:02,000 --> 01:57:04,739
+¿Qué otra cosa sería interesante saber del reglamento?
+
+1932
+01:57:06,000 --> 01:57:09,000
+Pues a lo mejor lo relativo a los calificaciones.
+
+1933
+01:57:11,000 --> 01:57:12,819
+En materia de calificaciones,
+
+1934
+01:57:12,819 --> 01:57:17,479
+que nos habla de la calificación mínima probatoria.
+
+1935
+01:57:19,119 --> 01:57:25,260
+Bueno, ahora voy a dar acá, es 6.
+
+1936
+01:57:26,779 --> 01:57:33,260
+Escúchame, quiere decir que aquel chamino que me saque de 6 para arriba, ya lo abrimos.
+
+1937
+01:57:35,100 --> 01:57:42,140
+Aquel chamino que me saque de 6 para abajo, perdón, de 59 para abajo, ya lo abrimos.
+
+1938
+01:57:42,819 --> 01:57:48,819
+y el reglamento del implante es de 6.0 a 7.
+
+1939
+01:57:51,819 --> 01:58:05,819
+Lo cual indica que aquel echamiento de mensaje 5.9, 5.8, 5.7, 5.6, 5.5
+
+1940
+01:58:05,819 --> 01:58:08,819
+o menos, en automático se llama.
+
+1941
+01:58:08,819 --> 01:58:16,180
+y esto lo voy a aclarar porque el reglamento nunca habla de que el 5.5 sube a 6
+
+1942
+01:58:16,180 --> 01:58:18,380
+que es algo que se presenta mucho en el libro
+
+1943
+01:58:18,380 --> 01:58:24,539
+yo le digo a mi ticha que lo copiera, pero a ver si yo saqué 5.5
+
+1944
+01:58:24,539 --> 01:58:32,119
+y, ah no, es que 5.5 sube a 6
+
+1945
+01:58:32,119 --> 01:58:36,760
+ay chica, a veces aquí en esos reglamentos
+
+1946
+01:58:36,760 --> 01:58:40,359
+y tenían en qué parte del mundo, dice que 5.5 sucesos.
+
+1947
+01:58:41,859 --> 01:58:48,220
+Ni siquiera por norma matemática, porque la media es negativa o no.
+
+1948
+01:58:49,640 --> 01:58:51,500
+Luego entonces vamos a explicarlo.
+
+1949
+01:58:53,319 --> 01:58:54,340
+Volviendo a eso.
+
+1950
+01:58:56,559 --> 01:59:00,059
+¿Qué otra cosa sería interesante saber o recordar del reglamento Carlos?
+
+1951
+01:59:00,059 --> 01:59:03,699
+pues a lo mejor
+
+1952
+01:59:03,699 --> 01:59:04,840
+se me ocurre que
+
+1953
+01:59:04,840 --> 01:59:06,460
+lo relativo a
+
+1954
+01:59:06,460 --> 01:59:08,659
+los exámenes
+
+1955
+01:59:08,659 --> 01:59:11,840
+los intereses de los exámenes
+
+1956
+01:59:11,840 --> 01:59:13,600
+eso es lo que pasa
+
+1957
+01:59:13,600 --> 01:59:17,699
+y en materia de exámenes
+
+1958
+01:59:17,699 --> 01:59:21,439
+el reglamento me dice
+
+1959
+01:59:21,439 --> 01:59:23,300
+que todos los muchachos
+
+1960
+01:59:23,300 --> 01:59:25,420
+tienen el derecho de aplicar
+
+1961
+01:59:25,420 --> 01:59:27,260
+uno
+
+1962
+01:59:27,260 --> 01:59:29,420
+dos, tres
+
+1963
+01:59:29,420 --> 01:59:38,420
+cuatro o más exámenes parciales.
+
+1964
+01:59:39,420 --> 01:59:41,420
+Es correcto.
+
+1965
+01:59:42,420 --> 01:59:50,420
+Esos exámenes parciales mostrarán como resultado un promedio.
+
+1966
+01:59:50,420 --> 01:59:54,100
+y además
+
+1967
+01:59:54,100 --> 01:59:55,640
+hay ese promedio
+
+1968
+01:59:55,640 --> 01:59:58,619
+si el promedio es positivo
+
+1969
+01:59:58,619 --> 01:59:59,979
+tendrá derecho
+
+1970
+02:00:00,000 --> 02:00:11,000
+Quiero presentar el final A con equis y escalación al final B.
+
+1971
+02:00:13,000 --> 02:00:16,000
+Es correcto. Así lo para que lo vean.
+
+1972
+02:00:18,000 --> 02:00:25,000
+Y el que pase la materia en el A o en el B acredita la materia.
+
+1973
+02:00:25,000 --> 02:00:30,380
+el que no pase ninguno de estos dos, no acreditará en ti.
+
+1974
+02:00:31,659 --> 02:00:32,760
+Así lo va a creer.
+
+1975
+02:00:33,760 --> 02:00:34,319
+Escúchate.
+
+1976
+02:00:34,319 --> 02:00:34,560
+¿Qué es lo que te dice?
+
+1977
+02:00:37,119 --> 02:00:38,319
+Esto no es...
+
+1978
+02:00:38,979 --> 02:00:43,039
+Me voy un poco más rápido porque nos queda poco tiempo.
+
+1979
+02:00:47,359 --> 02:00:49,319
+Esta sería la opción número uno.
+
+1980
+02:00:50,319 --> 02:00:52,319
+Eso es lo que nos marca el número uno.
+
+1981
+02:00:52,319 --> 02:01:02,500
+pero como yo sé que muchos de ustedes están pagando la materia, algunos de ustedes son
+
+1982
+02:01:02,500 --> 02:01:09,840
+recusadores, algunos de ustedes están peleados por el mundo financiero, algunos de ustedes
+
+1983
+02:01:09,840 --> 02:01:16,699
+no han tomado la materia, no la están recusando, a los de ustedes complica un poco más esto.
+
+1984
+02:01:16,699 --> 02:01:25,199
+¿Qué podemos hacer? Tratar de flexionar un poco para que el sistema de evaluación no sea tan agresivo.
+
+1985
+02:01:25,840 --> 02:01:29,539
+¿Por qué me refiero a agresivo? Usted está hablando de un valor de riesgo.
+
+1986
+02:01:30,180 --> 02:01:32,979
+Yo creo que usted tiene cierto que se sabe lo que es el riesgo.
+
+1987
+02:01:34,119 --> 02:01:35,920
+¿Qué podemos entender por riesgo?
+
+1988
+02:01:35,920 --> 02:01:46,819
+Pues una situación posible que se tiene que considerar con efectos negativos
+
+1989
+02:01:46,819 --> 02:01:49,439
+Correcto, más o menos, es la idea
+
+1990
+02:01:49,439 --> 02:01:55,479
+Lo cual indica que el riesgo es un concepto que aún en el mundo financiero
+
+1991
+02:01:55,479 --> 02:01:58,180
+No lo hemos podido eliminar
+
+1992
+02:01:58,180 --> 02:02:00,880
+El riesgo siempre va a existir
+
+1993
+02:02:00,880 --> 02:02:09,760
+Repito, ahora ni ahí enfrente en la unidad de posgrado en el mundo financiero nos podemos eliminar el riesgo
+
+1994
+02:02:09,760 --> 02:02:12,119
+¿Qué es lo que podemos hacer con el riesgo?
+
+1995
+02:02:12,119 --> 02:02:20,560
+O lo minimizamos, o lo administramos, pero no lo podemos eliminar, es correcto
+
+1996
+02:02:20,560 --> 02:02:23,880
+Y si no lo podemos eliminar, ¿qué podemos hacer?
+
+1997
+02:02:23,880 --> 02:02:28,840
+es administrar
+
+1998
+02:02:28,840 --> 02:02:29,600
+y minimizar
+
+1999
+02:02:29,600 --> 02:02:32,600
+si nosotros
+
+2000
+02:02:32,600 --> 02:02:34,779
+miramos esto, aquí donde están
+
+2001
+02:02:34,779 --> 02:02:36,340
+son energías y motores
+
+2002
+02:02:36,340 --> 02:02:41,720
+las faltas
+
+2003
+02:02:41,720 --> 02:02:44,479
+no, yo diría que las cosas
+
+2004
+02:02:44,479 --> 02:02:45,539
+dependen de la gente
+
+2005
+02:02:45,539 --> 02:02:48,720
+porque aquí
+
+2006
+02:02:48,720 --> 02:02:51,079
+si tu faltas, no importa que faltes
+
+2007
+02:02:51,079 --> 02:02:53,199
+mientras no toques el 20%
+
+2008
+02:02:53,199 --> 02:02:54,079
+estás en otro rango.
+
+2009
+02:02:55,420 --> 02:02:56,319
+¿Estamos de acuerdo?
+
+2010
+02:02:57,279 --> 02:02:59,199
+La calificación tiene bronca,
+
+2011
+02:02:59,300 --> 02:03:01,460
+tienes un rango de 6
+
+2012
+02:03:01,460 --> 02:03:03,560
+hasta 10, o de 10
+
+2013
+02:03:03,560 --> 02:03:05,220
+hasta el peor de los casos, hasta 6.
+
+2014
+02:03:05,880 --> 02:03:07,220
+Si lo reconocemos en el inverso.
+
+2015
+02:03:07,960 --> 02:03:08,699
+Pero aquí no.
+
+2016
+02:03:10,039 --> 02:03:11,619
+Porque aquí, si pruebas
+
+2017
+02:03:11,619 --> 02:03:14,380
+los exámenes,
+
+2018
+02:03:15,319 --> 02:03:17,220
+no hay manera de que la cumples.
+
+2019
+02:03:18,960 --> 02:03:20,539
+En la verdad, con tu curso,
+
+2020
+02:03:20,539 --> 02:03:23,239
+estaba en el examen
+
+2021
+02:03:23,239 --> 02:03:24,199
+o en el examen
+
+2022
+02:03:24,199 --> 02:03:26,180
+no hay otro
+
+2023
+02:03:26,180 --> 02:03:28,699
+pasas el examen
+
+2024
+02:03:28,699 --> 02:03:29,319
+pasas la parte
+
+2025
+02:03:29,319 --> 02:03:30,420
+tú le das el examen
+
+2026
+02:03:30,420 --> 02:03:31,039
+tú le das la parte
+
+2027
+02:03:31,039 --> 02:03:31,579
+así
+
+2028
+02:03:31,579 --> 02:03:34,899
+bueno pues yo he venido a las clases
+
+2029
+02:03:34,899 --> 02:03:36,600
+pero me he robado este examen
+
+2030
+02:03:36,600 --> 02:03:39,279
+y no me he puesto la mano
+
+2031
+02:03:39,279 --> 02:03:49,579
+y sabemos que los exámenes pueden ser
+
+2032
+02:03:49,579 --> 02:03:54,060
+¿Cómo decir?
+
+2033
+02:03:57,060 --> 02:03:57,960
+A veces
+
+2034
+02:03:57,960 --> 02:04:00,199
+el examen no se vuelve real
+
+2035
+02:04:00,199 --> 02:04:02,260
+de los conocimientos del muchacho.
+
+2036
+02:04:03,359 --> 02:04:04,060
+Hay muchachos que
+
+2037
+02:04:04,060 --> 02:04:05,319
+son muy abusados
+
+2038
+02:04:05,319 --> 02:04:07,640
+pero en el examen se pusieron nerviosos
+
+2039
+02:04:07,640 --> 02:04:11,779
+y caminaron, no porque no sepan
+
+2040
+02:04:11,779 --> 02:04:13,439
+sino porque
+
+2041
+02:04:13,439 --> 02:04:15,020
+les ganaron las muertes.
+
+2042
+02:04:16,979 --> 02:04:18,140
+A lo mejor el muchacho se sabe
+
+2043
+02:04:18,140 --> 02:04:19,000
+pero ese día se
+
+2044
+02:04:19,000 --> 02:04:21,880
+Don Carlos ese día se divorció con su
+
+2045
+02:04:21,880 --> 02:04:22,939
+novia
+
+2046
+02:04:22,939 --> 02:04:25,819
+¿sabes qué le va a preocupar a Carlos?
+
+2047
+02:04:26,939 --> 02:04:28,000
+en contentar a su
+
+2048
+02:04:28,000 --> 02:04:28,380
+ley
+
+2049
+02:04:28,380 --> 02:04:31,760
+¿sabes lo que le van a importar las finanzas en ese momento?
+
+2050
+02:04:34,899 --> 02:04:36,060
+menos que nada
+
+2051
+02:04:36,060 --> 02:04:39,960
+¿y a qué crees que deberán querer hacer Carlos?
+
+2052
+02:04:41,079 --> 02:04:41,859
+pues querer
+
+2053
+02:04:41,859 --> 02:04:42,720
+a la señora
+
+2054
+02:04:42,720 --> 02:04:45,659
+su novia
+
+2055
+02:04:45,659 --> 02:04:46,819
+su princesa
+
+2056
+02:04:46,819 --> 02:04:48,779
+ponerse de la pete
+
+2057
+02:04:48,779 --> 02:04:51,399
+está pensando si se va a poner
+
+2058
+02:04:51,399 --> 02:04:53,720
+boca abajo, boca arriba
+
+2059
+02:04:53,720 --> 02:04:55,319
+de rodillas
+
+2060
+02:04:55,319 --> 02:04:56,760
+oye las vidas
+
+2061
+02:04:56,760 --> 02:04:59,720
+aunque me queda pues el examen
+
+2062
+02:04:59,720 --> 02:05:01,220
+mi lengua es lo primero
+
+2063
+02:05:01,220 --> 02:05:03,340
+y el examen
+
+2064
+02:05:03,340 --> 02:05:04,140
+me va a ir
+
+2065
+02:05:04,140 --> 02:05:06,559
+con un poco
+
+2066
+02:05:06,559 --> 02:05:08,479
+no
+
+2067
+02:05:08,479 --> 02:05:11,939
+eso quiere decir que Carlos no tenga conocimientos
+
+2068
+02:05:11,939 --> 02:05:13,220
+no
+
+2069
+02:05:13,220 --> 02:05:15,420
+lamentablemente en su escala de prioridades
+
+2070
+02:05:15,420 --> 02:05:16,880
+fue más importante la ley
+
+2071
+02:05:16,880 --> 02:05:19,420
+pero le costó la fatiga
+
+2072
+02:05:19,420 --> 02:05:21,220
+tiene un objetivo
+
+2073
+02:05:21,220 --> 02:05:25,279
+entonces para no llegar a esos extremos
+
+2074
+02:05:25,279 --> 02:05:29,460
+aquí yo les voy a hacer una propuesta
+
+2075
+02:05:29,460 --> 02:05:31,539
+en donde vamos a tratar
+
+2076
+02:05:31,539 --> 02:05:32,880
+de diferir el riesgo
+
+2077
+02:05:32,880 --> 02:05:35,220
+yo les voy a explicar cómo funciona
+
+2078
+02:05:35,220 --> 02:05:37,100
+esa propuesta y ustedes la van a disparar
+
+2079
+02:05:37,100 --> 02:05:40,260
+pero lo que ustedes decidan
+
+2080
+02:05:40,260 --> 02:05:41,979
+dejó esto que van con ellos
+
+2081
+02:05:41,979 --> 02:05:44,140
+lo siguen de otra manera
+
+2082
+02:05:44,140 --> 02:05:45,140
+Gracias.
+
+2083
+02:06:14,140 --> 02:06:26,140
+Vamos a manejar cuatro posibles consejos.
+
+2084
+02:06:26,140 --> 02:06:32,140
+Yo les voy a hacer una propuesta. Para mí la propuesta está equilibrada.
+
+2085
+02:06:32,140 --> 02:06:34,140
+y librar.
+
+2086
+02:06:34,140 --> 02:06:44,619
+Que la gente sabe lo que no sabe, que la gente de alguna manera históricamente nos ha dado un
+
+2087
+02:06:44,619 --> 02:06:55,739
+esquema para saber de qué manera nos regalamos, pero de qué manera siempre tenemos.
+
+2088
+02:06:55,739 --> 02:06:57,739
+Saludos.
+
+2089
+02:07:02,140 --> 02:07:03,140
+¿Cómo se llama?
+
+2090
+02:07:19,140 --> 02:07:21,140
+Ok, los explico.
+
+2091
+02:07:23,140 --> 02:07:24,140
+Señores,
+
+2092
+02:07:25,140 --> 02:07:26,140
+¿conocen el término
+
+2093
+02:07:27,140 --> 02:07:28,140
+profanidad?
+
+2094
+02:07:32,140 --> 02:07:33,960
+Lo he escuchado, pero no.
+
+2095
+02:07:34,239 --> 02:07:35,199
+Lo has escuchado, pero no.
+
+2096
+02:07:35,840 --> 02:07:42,720
+¿Has escuchado la palabra que se ha dicho, hijo, nunca pongas todos los pueblos en una sola casa?
+
+2097
+02:07:43,979 --> 02:07:44,760
+¿Ya lo has escuchado?
+
+2098
+02:07:47,340 --> 02:07:48,979
+¿Qué quiere decir la palabra?
+
+2099
+02:07:50,979 --> 02:07:53,220
+¿Y por qué no puedo ponerlo en la palabra?
+
+2100
+02:07:54,560 --> 02:07:55,960
+Porque es mucho riesgo.
+
+2101
+02:07:56,619 --> 02:07:57,199
+¿Por qué es?
+
+2102
+02:07:57,939 --> 02:07:58,460
+¿Por qué?
+
+2103
+02:07:58,460 --> 02:08:05,460
+De hecho, lo hemos dicho, el compañero nos dice, divide y negociarás.
+
+2104
+02:08:05,460 --> 02:08:09,460
+¿Por qué me dicen que divide y negociar?
+
+2105
+02:08:09,460 --> 02:08:18,460
+Porque puede ser en pedazos más grandes o en pedazos más pequeños, es más fácil solucionar.
+
+2106
+02:08:18,460 --> 02:08:26,460
+Bueno, en el mundo mismo, cantar con un grupo, ¿verdad?, con 80 aracanes, los 84 amigos,
+
+2107
+02:08:26,460 --> 02:08:29,119
+a que si me los agarro, van a ir mal.
+
+2108
+02:08:31,279 --> 02:08:33,039
+Si me los agarro por un igualío,
+
+2109
+02:08:33,140 --> 02:08:33,779
+me los agarrando.
+
+2110
+02:08:35,199 --> 02:08:37,000
+Pero si se van encima de 1.280,
+
+2111
+02:08:37,079 --> 02:08:38,500
+lo más seguro es que me van a planchar.
+
+2112
+02:08:40,180 --> 02:08:41,319
+Vamos a ver, vamos a ver.
+
+2113
+02:08:41,880 --> 02:08:43,220
+O sea, hay mil maneras de pensar.
+
+2114
+02:08:43,880 --> 02:08:45,100
+Mil maneras de identificar.
+
+2115
+02:08:46,059 --> 02:08:47,479
+Aquí lo que vamos a hacer es
+
+2116
+02:08:47,479 --> 02:08:49,399
+minimizar el riesgo.
+
+2117
+02:08:50,479 --> 02:08:52,039
+Porque aquí hay que hacer
+
+2118
+02:08:52,039 --> 02:08:54,020
+que aquí
+
+2119
+02:08:54,020 --> 02:08:55,039
+entró el perezaño
+
+2120
+02:08:55,039 --> 02:08:58,979
+ahí
+
+2121
+02:08:58,979 --> 02:09:01,760
+si yo en el examen
+
+2122
+02:09:01,760 --> 02:09:03,920
+todavía no tengo probabilidad
+
+2123
+02:09:03,920 --> 02:09:05,460
+todavía tengo
+
+2124
+02:09:05,460 --> 02:09:06,720
+y todavía no lo explico
+
+2125
+02:09:06,720 --> 02:09:09,920
+desde aquí vamos a empezar a utilizar
+
+2126
+02:09:09,920 --> 02:09:10,840
+el mundo financiero
+
+2127
+02:09:10,840 --> 02:09:12,819
+desde aquí vamos a empezar a utilizar las matemáticas
+
+2128
+02:09:12,819 --> 02:09:15,220
+desde aquí vamos a tratar de comprender los números
+
+2129
+02:09:15,220 --> 02:09:18,819
+aquí yo saco un 5
+
+2130
+02:09:18,819 --> 02:09:20,979
+y me llama
+
+2131
+02:09:20,979 --> 02:09:23,420
+así de fácil
+
+2132
+02:09:23,420 --> 02:09:25,260
+no hay poder más
+
+2133
+02:09:25,260 --> 02:09:26,439
+porque salió 59
+
+2134
+02:09:26,439 --> 02:09:27,559
+mi llamada
+
+2135
+02:09:27,559 --> 02:09:29,279
+o no
+
+2136
+02:09:29,279 --> 02:09:30,859
+acá no
+
+2137
+02:09:30,859 --> 02:09:33,680
+acá si yo salgo un 5
+
+2138
+02:09:33,680 --> 02:09:37,500
+matemática y porcentualmente
+
+2139
+02:09:37,500 --> 02:09:38,359
+¿qué es lo que pasa?
+
+2140
+02:09:39,020 --> 02:09:40,039
+20%
+
+2141
+02:09:40,039 --> 02:09:41,579
+perdí un 20%
+
+2142
+02:09:41,579 --> 02:09:42,760
+pero me admitimos
+
+2143
+02:09:42,760 --> 02:09:46,699
+tengo 20 de aquí porque salí 5
+
+2144
+02:09:46,699 --> 02:09:48,479
+y entonces yo ya estoy retomado
+
+2145
+02:09:48,479 --> 02:09:50,359
+¿correcto?
+
+2146
+02:09:50,920 --> 02:09:52,399
+vamos a ver aquí cómo funciona
+
+2147
+02:09:52,399 --> 02:09:53,920
+aquí nada más tengo 20
+
+2148
+02:09:53,920 --> 02:09:56,659
+no tengo el 40, tengo 20
+
+2149
+02:09:56,659 --> 02:09:58,739
+más 30
+
+2150
+02:10:00,000 --> 02:10:12,239
+Los otros conceptos son 50, más 20 de los otros conceptos son 70, más 10 de los otros conceptos son 50, aunque el reglamento debemos sacar 8 de calificación, Carlos.
+
+2151
+02:10:12,239 --> 02:10:16,239
+Oye, en serio, pues muere, comienza.
+
+2152
+02:10:18,239 --> 02:10:20,239
+¿Se puede o no se puede?
+
+2153
+02:10:20,239 --> 02:10:22,239
+Muchísimo.
+
+2154
+02:10:22,239 --> 02:10:28,239
+Pero esto no es así de guapo, esto tiene reglas.
+
+2155
+02:10:28,239 --> 02:10:31,239
+Porque no es la manera en que le molestemos el examen.
+
+2156
+02:10:31,359 --> 02:10:33,420
+Si a todo el mundo le importa que lo repruebes,
+
+2157
+02:10:33,819 --> 02:10:34,439
+vas a pasar.
+
+2158
+02:10:35,399 --> 02:10:35,760
+Pues vaya.
+
+2159
+02:10:38,159 --> 02:10:40,079
+No podemos caer en la oscuridad.
+
+2160
+02:10:41,300 --> 02:10:43,619
+Todo debe de tener una razón de ser.
+
+2161
+02:10:45,119 --> 02:10:45,979
+Hoy viene una reacción.
+
+2162
+02:10:47,720 --> 02:10:49,819
+Yo les voy a poner todos los parámetros.
+
+2163
+02:10:51,819 --> 02:10:53,140
+Bien, los parámetros.
+
+2164
+02:10:53,140 --> 02:10:56,500
+Si se dan cuenta, aquí la asistencia
+
+2165
+02:10:56,500 --> 02:10:59,279
+va a tener un peso numérico
+
+2166
+02:10:59,279 --> 02:11:00,420
+en calificación.
+
+2167
+02:11:01,680 --> 02:11:04,659
+Va a equivaler a un 10%,
+
+2168
+02:11:04,659 --> 02:11:05,920
+pero ojo,
+
+2169
+02:11:07,060 --> 02:11:08,640
+no del examen parcial,
+
+2170
+02:11:09,640 --> 02:11:11,300
+no de mi calificación parcial,
+
+2171
+02:11:11,979 --> 02:11:15,199
+un 10% de la calificación parcial,
+
+2172
+02:11:16,220 --> 02:11:18,319
+lo cual es mucho.
+
+2173
+02:11:21,079 --> 02:11:22,979
+Aquí también tengo que tener asistencia,
+
+2174
+02:11:23,720 --> 02:11:24,979
+sí, pero aquí es un revisito.
+
+2175
+02:11:26,500 --> 02:11:30,000
+Aquí es lo que siento, aquí forma parte de la mente.
+
+2176
+02:11:31,500 --> 02:11:33,260
+Oye, esto está súper bueno,
+
+2177
+02:11:34,260 --> 02:11:36,840
+me da más por venir, tengo un 10%,
+
+2178
+02:11:36,840 --> 02:11:39,000
+sí, sí,
+
+2179
+02:11:40,140 --> 02:11:42,539
+antes que aquí, repito, aquí hay parámetros.
+
+2180
+02:11:43,420 --> 02:11:46,159
+Para que tú tengas este 10%, ¿qué crees?
+
+2181
+02:11:50,359 --> 02:11:54,300
+Vas a tener que asistir al 100% de las clases.
+
+2182
+02:11:54,300 --> 02:11:57,180
+una sola falta
+
+2183
+02:11:57,180 --> 02:11:58,960
+y es el mismo
+
+2184
+02:11:58,960 --> 02:12:00,020
+que si no lo pierdes
+
+2185
+02:12:00,020 --> 02:12:02,239
+¿por qué?
+
+2186
+02:12:03,460 --> 02:12:04,500
+porque es tu obligación
+
+2187
+02:12:04,500 --> 02:12:07,020
+así es
+
+2188
+02:12:07,020 --> 02:12:09,180
+era tu obligación
+
+2189
+02:12:09,180 --> 02:12:13,420
+cumplí con tus obligaciones
+
+2190
+02:12:13,420 --> 02:12:14,380
+y te previo
+
+2191
+02:12:14,380 --> 02:12:16,720
+ahora vamos a verlo
+
+2192
+02:12:16,720 --> 02:12:18,079
+por conveniencia
+
+2193
+02:12:18,079 --> 02:12:20,899
+cuando papá te dice
+
+2194
+02:12:20,899 --> 02:12:22,840
+bóngate bien y te pongo tu celular
+
+2195
+02:12:22,840 --> 02:12:26,300
+entra a la universidad Carlos
+
+2196
+02:12:26,300 --> 02:12:27,739
+y te
+
+2197
+02:12:27,739 --> 02:12:29,500
+como tu cargo
+
+2198
+02:12:29,500 --> 02:12:32,399
+y así
+
+2199
+02:12:32,399 --> 02:12:34,800
+que nos dan por cumplir
+
+2200
+02:12:34,800 --> 02:12:36,000
+es mi obligación
+
+2201
+02:12:36,000 --> 02:12:38,560
+a papá le interesa que Carlos venga a la universidad
+
+2202
+02:12:38,560 --> 02:12:41,079
+si y no pero quien es el beneficiario
+
+2203
+02:12:41,079 --> 02:12:41,720
+Carlos
+
+2204
+02:12:41,720 --> 02:12:43,359
+pero que dice
+
+2205
+02:12:43,359 --> 02:12:46,199
+chale y le echen ganas
+
+2206
+02:12:46,199 --> 02:12:47,420
+para el amigo
+
+2207
+02:12:47,420 --> 02:12:51,180
+entra a la universidad y yo le pongo su cargo
+
+2208
+02:12:51,180 --> 02:12:55,079
+a que mande el sistema de transporte colectivo.
+
+2209
+02:12:55,079 --> 02:12:57,979
+No, yo le dice a la Pancho,
+
+2210
+02:12:57,979 --> 02:13:00,579
+a ver, Pancho, pórtase bien caro
+
+2211
+02:13:00,579 --> 02:13:05,880
+y le cambies su Motorola por un iPhone 20, caro.
+
+2212
+02:13:05,880 --> 02:13:07,880
+¿No quieres ser caros?
+
+2213
+02:13:07,880 --> 02:13:12,380
+Digo, Pancho, si me pongo todo bien,
+
+2214
+02:13:12,380 --> 02:13:16,680
+este tipo de iPhone.
+
+2215
+02:13:16,680 --> 02:13:23,180
+Esto no será obligación del padre soportar, señor, pero si soporta, a veces no va a soportar.
+
+2216
+02:13:23,960 --> 02:13:25,039
+Va a ser lo mismo.
+
+2217
+02:13:26,420 --> 02:13:28,020
+Estáis propios de sus obligaciones.
+
+2218
+02:13:29,079 --> 02:13:30,539
+Tienen diez posibles capítulos.
+
+2219
+02:13:31,840 --> 02:13:37,899
+Una sola falta, una, y sería amable, apierto.
+
+2220
+02:13:39,500 --> 02:13:40,579
+Aquí es todo o nada.
+
+2221
+02:13:42,439 --> 02:13:43,000
+Vamos, amigos.
+
+2222
+02:13:43,000 --> 02:13:45,199
+aquí
+
+2223
+02:13:45,199 --> 02:13:47,800
+o Carlos es marocito
+
+2224
+02:13:47,800 --> 02:13:51,500
+o Carlos es mujercita
+
+2225
+02:13:51,500 --> 02:13:53,600
+oye pero es que yo me siento
+
+2226
+02:13:53,600 --> 02:13:54,079
+carne
+
+2227
+02:13:54,079 --> 02:13:57,340
+aquí
+
+2228
+02:13:57,340 --> 02:13:58,680
+porque hay pantalones
+
+2229
+02:13:58,680 --> 02:14:01,079
+entonces
+
+2230
+02:14:01,079 --> 02:14:02,279
+también están ahí
+
+2231
+02:14:02,279 --> 02:14:04,800
+entonces estamos entendiendo
+
+2232
+02:14:04,800 --> 02:14:06,840
+¿no?
+
+2233
+02:14:06,840 --> 02:14:06,939
+¿no?
+
+2234
+02:14:10,279 --> 02:14:10,960
+¿no?
+
+2235
+02:14:11,060 --> 02:14:11,020
+¿no?
+
+2236
+02:14:11,020 --> 02:14:14,279
+aquí no me llegan a 20%
+
+2237
+02:14:14,279 --> 02:14:15,199
+y también se llamaban
+
+2238
+02:14:15,199 --> 02:14:17,300
+porque es un corregamento
+
+2239
+02:14:17,300 --> 02:14:20,239
+lo único que estamos haciendo es que estamos premiando
+
+2240
+02:14:20,239 --> 02:14:24,000
+para que cuando menos por interés vengan
+
+2241
+02:14:24,000 --> 02:14:25,560
+si no vienen por aparente
+
+2242
+02:14:25,560 --> 02:14:26,960
+pues por conveniencia
+
+2243
+02:14:26,960 --> 02:14:29,859
+muy bien, muy bien
+
+2244
+02:14:29,859 --> 02:14:33,899
+siguiente, participación
+
+2245
+02:14:33,899 --> 02:14:36,720
+y todavía le dicen
+
+2246
+02:14:36,720 --> 02:14:39,840
+yo no sé si este cuate viene intoxicado
+
+2247
+02:14:39,840 --> 02:14:41,880
+Sí, ya me he hecho el tabaquito mañanero.
+
+2248
+02:14:44,199 --> 02:14:46,319
+O esta participación es obligatoria.
+
+2249
+02:14:47,039 --> 02:14:48,960
+Y todavía lo pone entre comillas.
+
+2250
+02:14:50,199 --> 02:14:52,640
+Y aparte lo sobrañó al maldito.
+
+2251
+02:14:52,979 --> 02:14:53,220
+Sí.
+
+2252
+02:14:55,239 --> 02:14:55,880
+¿Por qué?
+
+2253
+02:14:56,059 --> 02:15:00,119
+Porque Pacho hace ratito nos dijo que yo tengo malas costumbres.
+
+2254
+02:15:00,220 --> 02:15:02,140
+Como todos, todos tenemos malas costumbres.
+
+2255
+02:15:03,319 --> 02:15:08,640
+Y una de mis malas costumbres es que yo creo que no tengo mis días.
+
+2256
+02:15:09,840 --> 02:15:11,840
+¿No saben?
+
+2257
+02:15:11,840 --> 02:15:15,840
+Fíjense qué pésimo.
+
+2258
+02:15:15,840 --> 02:15:18,840
+Es un mal hábito.
+
+2259
+02:15:18,840 --> 02:15:23,840
+Entonces, van a tener que participar ya.
+
+2260
+02:15:23,840 --> 02:15:28,840
+Yo sé que en la participación ustedes están acostumbrados a las maestras,
+
+2261
+02:15:28,840 --> 02:15:32,840
+que en él están todos muy respetuosos, maestras.
+
+2262
+02:15:32,840 --> 02:15:34,840
+Llámese que dice.
+
+2263
+02:15:34,840 --> 02:15:41,260
+A ver, ya, si tú levantas la malla, quiere decir que vas a participar.
+
+2264
+02:15:41,880 --> 02:15:44,079
+Y si tú participas, ¿qué crees, chiquito?
+
+2265
+02:15:44,680 --> 02:15:45,899
+Tienes palomita.
+
+2266
+02:15:49,199 --> 02:15:55,640
+Entre más palomitas tengas, más porcentaje de participación tienes.
+
+2267
+02:15:56,899 --> 02:16:00,079
+Y llega el momento en que el buen día se da cuenta que si viene alguien
+
+2268
+02:16:00,079 --> 02:16:02,399
+y levanta la mano, la pinche debajo del palomita.
+
+2269
+02:16:02,399 --> 02:16:06,399
+aunque diga tarugadas que me mató de palomita.
+
+2270
+02:16:06,399 --> 02:16:11,399
+¿Y qué le interesa ahí a mí, de las palomitas?
+
+2271
+02:16:11,399 --> 02:16:14,399
+Pues que es participación.
+
+2272
+02:16:14,399 --> 02:16:20,399
+Pues aquí no hay fauna,
+
+2273
+02:16:20,399 --> 02:16:23,399
+que vamos que tendríamos pantalones y cosofallitas,
+
+2274
+02:16:23,399 --> 02:16:27,399
+aquí son cosofallitas, aquí va a ser al revés,
+
+2275
+02:16:27,399 --> 02:16:38,780
+pastrera. Bueno, a mí no va a ser necesario que pruebas con la línea. Yo los voy a grabar
+
+2276
+02:16:38,780 --> 02:16:47,459
+indistintamente a cualquiera que les voy a preguntar. Si tú me contestas bien, ¿qué
+
+2277
+02:16:47,459 --> 02:16:57,059
+va a pasar? No pasa nada, porque mantienes tu porcentaje. Pero si contestas mal, ¿qué
+
+2278
+02:16:57,059 --> 02:16:59,059
+¿Qué va a pasar?
+
+2279
+02:17:02,059 --> 02:17:05,059
+Pues ahí te voy a ensaladar.
+
+2280
+02:17:05,059 --> 02:17:08,059
+Porque en vez de que te hayas ganado una palomita,
+
+2281
+02:17:08,059 --> 02:17:11,059
+te voy a romper unas palomitas de la mesa.
+
+2282
+02:17:11,059 --> 02:17:15,059
+¿Sí? Bueno, vamos a dejar las palomitas después.
+
+2283
+02:17:15,059 --> 02:17:19,059
+No hay nada que no hayan pensado que los hemos creciado.
+
+2284
+02:17:19,059 --> 02:17:23,059
+Bueno, pues en vez de ser palomitas, vas a tener
+
+2285
+02:17:23,059 --> 02:17:26,059
+tachísimos.
+
+2286
+02:17:26,059 --> 02:17:27,100
+¿sabe?
+
+2287
+02:17:28,899 --> 02:17:29,719
+¿por qué?
+
+2288
+02:17:30,059 --> 02:17:31,899
+¿por qué este 20% tú?
+
+2289
+02:17:32,739 --> 02:17:34,139
+por el simple hecho de haberte
+
+2290
+02:17:34,139 --> 02:17:35,340
+inscrito en esta materia
+
+2291
+02:17:35,340 --> 02:17:38,260
+por el simple hecho
+
+2292
+02:17:38,260 --> 02:17:40,020
+de haberte iniciado
+
+2293
+02:17:40,020 --> 02:17:42,579
+ya tienes un regalo
+
+2294
+02:17:42,579 --> 02:17:44,420
+pagado por anticipo
+
+2295
+02:17:44,420 --> 02:17:46,879
+ese 20% ya lo tienes
+
+2296
+02:17:46,879 --> 02:17:47,600
+ya es tuyo
+
+2297
+02:17:47,600 --> 02:17:49,979
+ahora ¿qué sucede?
+
+2298
+02:17:50,559 --> 02:17:52,260
+ya no te tienes que preocupar por nada
+
+2299
+02:17:52,260 --> 02:17:55,120
+ahora te vas a preocupar
+
+2300
+02:17:55,120 --> 02:17:56,920
+todo no puede ir a error.
+
+2301
+02:17:58,420 --> 02:17:59,280
+Porque si te llevo
+
+2302
+02:17:59,280 --> 02:18:01,200
+en santa a doblar un recurso,
+
+2303
+02:18:02,159 --> 02:18:03,040
+vas a ir perdiendo
+
+2304
+02:18:03,040 --> 02:18:04,899
+porcentajes. Acuérdate que el colegio
+
+2305
+02:18:04,899 --> 02:18:06,620
+dijo que no se quita un porcentaje
+
+2306
+02:18:06,620 --> 02:18:08,440
+si tú llenas la tercera.
+
+2307
+02:18:10,579 --> 02:18:12,659
+Que aquí te voy a ir tumbando un porcentaje
+
+2308
+02:18:12,659 --> 02:18:14,219
+hasta que te quedes sin nada.
+
+2309
+02:18:15,620 --> 02:18:17,219
+Digo, si te acuerdas,
+
+2310
+02:18:18,120 --> 02:18:19,100
+si te pones lucha
+
+2311
+02:18:19,100 --> 02:18:21,219
+y te echas ganas, que nunca te voy a tocar.
+
+2312
+02:18:23,159 --> 02:18:24,059
+Hoy me lo digo,
+
+2313
+02:18:24,059 --> 02:18:25,579
+yo tengo una duda
+
+2314
+02:18:25,579 --> 02:18:26,520
+venga, dale
+
+2315
+02:18:26,520 --> 02:18:28,920
+¿cuál sería el máximo de
+
+2316
+02:18:28,920 --> 02:18:31,620
+digamos, errores que podría tener alguien?
+
+2317
+02:18:32,340 --> 02:18:33,540
+ahorita voy por acá
+
+2318
+02:18:33,540 --> 02:18:35,360
+es decir, porcentajes
+
+2319
+02:18:35,360 --> 02:18:37,600
+pero quisiera contestarte
+
+2320
+02:18:37,600 --> 02:18:39,020
+algo antes
+
+2321
+02:18:39,020 --> 02:18:41,299
+porque yo ya voy a preguntar
+
+2322
+02:18:41,299 --> 02:18:43,280
+y yo pensé que estaría en contra de las pilas
+
+2323
+02:18:43,280 --> 02:18:44,559
+y dije, este chavo ya la gana
+
+2324
+02:18:44,559 --> 02:18:47,159
+y con las dos manos
+
+2325
+02:18:47,159 --> 02:18:51,399
+¿cuál era la pregunta más lógica?
+
+2326
+02:18:51,399 --> 02:18:54,260
+y que va a preguntar
+
+2327
+02:18:54,260 --> 02:18:56,299
+no
+
+2328
+02:18:56,299 --> 02:18:58,520
+digo yo
+
+2329
+02:18:58,520 --> 02:19:00,040
+bueno
+
+2330
+02:19:00,040 --> 02:19:01,459
+que voy a preguntar
+
+2331
+02:19:01,459 --> 02:19:02,780
+bueno, de entrada
+
+2332
+02:19:02,780 --> 02:19:05,879
+lo que a Chaleco voy a preguntar
+
+2333
+02:19:05,879 --> 02:19:08,500
+es lo de la clase
+
+2334
+02:19:08,500 --> 02:19:10,260
+o clases anteriores
+
+2335
+02:19:10,260 --> 02:19:12,059
+a Chalequito
+
+2336
+02:19:12,059 --> 02:19:13,000
+eso no va a haber
+
+2337
+02:19:13,000 --> 02:19:15,200
+forma de quebrantes
+
+2338
+02:19:15,200 --> 02:19:18,500
+y que otra cosa voy a preguntar
+
+2339
+02:19:19,239 --> 02:19:20,659
+el tema
+
+2340
+02:19:20,659 --> 02:19:24,139
+o los temas que yo te haya dejado revisar.
+
+2341
+02:19:25,360 --> 02:19:28,180
+Pero si hoy se me ocurre venir a hablar de Elefante Rosas,
+
+2342
+02:19:28,299 --> 02:19:31,379
+tú vas a ver que en un momento aquí vamos a hablar de Elefante Rosas.
+
+2343
+02:19:32,440 --> 02:19:33,579
+¿Por qué me pregunta de verdad?
+
+2344
+02:19:33,579 --> 02:19:37,979
+Porque si aquí tenemos que venir a hablar desde finanzas,
+
+2345
+02:19:39,340 --> 02:19:41,319
+no te puedo preguntar nada que no sea por ahí,
+
+2346
+02:19:41,860 --> 02:19:45,319
+o de la clase anterior, o del tema que previamente,
+
+2347
+02:19:45,600 --> 02:19:48,680
+previamente les dije que tenía que ir a hacer.
+
+2348
+02:19:48,680 --> 02:20:00,000
+Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia Georgia
+
+2349
+02:20:00,000 --> 02:20:02,000
+¿Qué otra idea está en cuenta?
+
+2350
+02:20:02,000 --> 02:20:16,000
+Respecto al objetivo adicional, si llegara a tener apuntes, ¿puedo utilizarlos para darle la retroalimentación o todo tiene que ser prendido?
+
+2351
+02:20:16,000 --> 02:20:20,000
+A ver, vamos a ampliar esto todavía más.
+
+2352
+02:20:23,000 --> 02:20:25,000
+Y me voy adelante.
+
+2353
+02:20:25,000 --> 02:20:27,000
+Me voy adelante.
+
+2354
+02:20:27,000 --> 02:20:29,000
+Si te das cuenta, hasta aquí.
+
+2355
+02:20:30,000 --> 02:20:34,280
+Yo les estoy proponiendo asistencia, que repito, es un premio porque vengo.
+
+2356
+02:20:35,540 --> 02:20:41,159
+Vamos a tomar en consideración las participaciones, que las participaciones, repito, si son clases
+
+2357
+02:20:41,159 --> 02:20:42,559
+de estudio no tienen más que repasar.
+
+2358
+02:20:43,479 --> 02:20:45,959
+Si es un tema visto, no tienen más que escribir.
+
+2359
+02:20:46,440 --> 02:20:47,020
+Así de fácil.
+
+2360
+02:20:48,239 --> 02:20:51,440
+La siguiente parte es el trabajo por escrito y exposición.
+
+2361
+02:20:52,600 --> 02:20:57,420
+El reglamento actualmente no lo considera como tal, pero la Facultad de Contabilidad
+
+2362
+02:20:57,420 --> 02:20:59,399
+ya lo implementó desde hace varios años.
+
+2363
+02:21:00,000 --> 02:21:02,559
+De que ahora todos ustedes tienen que escoger esos anchamicos.
+
+2364
+02:21:02,719 --> 02:21:04,100
+Se han dado cuenta todas sus materias.
+
+2365
+02:21:05,100 --> 02:21:05,920
+Ya tienen que escoger.
+
+2366
+02:21:07,180 --> 02:21:10,139
+Y, obviamente, tienes que entregar muchos tomados.
+
+2367
+02:21:11,299 --> 02:21:11,620
+¿De acuerdo?
+
+2368
+02:21:12,219 --> 02:21:14,260
+Y el mismo concierto sobre santos.
+
+2369
+02:21:15,620 --> 02:21:16,559
+Bueno, no es eso.
+
+2370
+02:21:16,979 --> 02:21:17,780
+¿Pero qué crees?
+
+2371
+02:21:18,159 --> 02:21:20,020
+No sé si hasta aquí no se han dado cuenta
+
+2372
+02:21:20,020 --> 02:21:23,799
+que no habría el concepto tareas.
+
+2373
+02:21:27,139 --> 02:21:29,280
+Yo te estoy quitando la bronca.
+
+2374
+02:21:30,000 --> 02:21:32,739
+de que me entregues tareas todos los días
+
+2375
+02:21:32,739 --> 02:21:36,620
+te estoy ahorrando la chamba
+
+2376
+02:21:36,620 --> 02:21:37,899
+te estoy ahorrando el tiempo
+
+2377
+02:21:37,899 --> 02:21:39,340
+te estoy ahorrando todo eso
+
+2378
+02:21:39,340 --> 02:21:41,440
+por una simple
+
+2379
+02:21:41,440 --> 02:21:43,299
+modificación
+
+2380
+02:21:43,299 --> 02:21:46,760
+en vez de que estés en frío en un ocaso
+
+2381
+02:21:46,760 --> 02:21:49,040
+mejor ponte a estudiar
+
+2382
+02:21:49,040 --> 02:21:52,399
+te hago una pregunta
+
+2383
+02:21:52,399 --> 02:21:53,459
+si contestas bien
+
+2384
+02:21:53,459 --> 02:21:56,700
+si no contestas, ¿para qué quiero que me llenes
+
+2385
+02:21:56,700 --> 02:21:58,200
+el boiler con tareas?
+
+2386
+02:21:58,200 --> 02:22:01,920
+a mí no me sirve de nada que me llenes de papeles
+
+2387
+02:22:01,920 --> 02:22:04,020
+o que me llenes
+
+2388
+02:22:04,020 --> 02:22:05,700
+mi correo
+
+2389
+02:22:05,700 --> 02:22:07,200
+de la menos atúres
+
+2390
+02:22:07,200 --> 02:22:09,379
+si porque acá el señor es un buen creador
+
+2391
+02:22:09,379 --> 02:22:10,819
+de mi, de mi papel
+
+2392
+02:22:10,819 --> 02:22:12,899
+somos psicológicos
+
+2393
+02:22:12,899 --> 02:22:14,379
+así como los bancos
+
+2394
+02:22:14,379 --> 02:22:18,040
+ya no queremos llegar a este escándalo
+
+2395
+02:22:18,040 --> 02:22:20,920
+se lo mando por correo
+
+2396
+02:22:20,920 --> 02:22:22,020
+por email
+
+2397
+02:22:22,020 --> 02:22:24,680
+así le llamo a los clientes
+
+2398
+02:22:24,680 --> 02:22:27,540
+o se lo mando por whatsapp
+
+2399
+02:22:27,540 --> 02:22:29,139
+como ahora ya pueden dar contado
+
+2400
+02:22:29,139 --> 02:22:30,239
+por guayos
+
+2401
+02:22:30,239 --> 02:22:33,620
+como quiera que sea pero tú estás cerca
+
+2402
+02:22:33,620 --> 02:22:36,899
+te voy a ahorrar todo eso
+
+2403
+02:22:36,899 --> 02:22:37,819
+por eso chamo
+
+2404
+02:22:37,819 --> 02:22:41,639
+por el simple hecho de hacer una preguntita
+
+2405
+02:22:41,639 --> 02:22:43,700
+para verificar si estuviste o no estuviste
+
+2406
+02:22:43,700 --> 02:22:45,360
+o prefieren darles
+
+2407
+02:22:45,360 --> 02:22:49,340
+como ustedes quieran, yo no tengo tema
+
+2408
+02:22:49,340 --> 02:22:51,020
+personalmente tengo una duda
+
+2409
+02:22:51,020 --> 02:22:53,620
+cuál sería la diferencia entre trabajo superscrito
+
+2410
+02:22:53,620 --> 02:22:54,360
+y las tareas
+
+2411
+02:22:54,360 --> 02:22:55,799
+muy bien
+
+2412
+02:22:55,799 --> 02:22:59,579
+era el siguiente paso
+
+2413
+02:22:59,579 --> 02:23:02,420
+el siguiente paso
+
+2414
+02:23:02,420 --> 02:23:03,700
+nos habla
+
+2415
+02:23:03,700 --> 02:23:05,239
+de trabajos
+
+2416
+02:23:05,239 --> 02:23:10,440
+los trabajos por escrito
+
+2417
+02:23:10,440 --> 02:23:11,739
+como el grupo es muy pequeño
+
+2418
+02:23:11,739 --> 02:23:13,559
+si el grupo hubiera sido más grande
+
+2419
+02:23:13,559 --> 02:23:16,020
+no lo va a repetir
+
+2420
+02:23:16,020 --> 02:23:16,579
+el compacho
+
+2421
+02:23:16,579 --> 02:23:19,479
+yo en profundidad en las manos
+
+2422
+02:23:19,479 --> 02:23:20,840
+dijo un solo trabajo
+
+2423
+02:23:20,840 --> 02:23:22,000
+a lo largo de todo
+
+2424
+02:23:22,000 --> 02:23:23,819
+uno solo
+
+2425
+02:23:23,819 --> 02:23:28,579
+porque la verdad es que yo estoy consciente que muchos de ustedes deben más materias,
+
+2426
+02:23:29,260 --> 02:23:34,020
+muchos de ustedes trabajan, muchos de ustedes están construyendo su propio cuerpo
+
+2427
+02:23:34,020 --> 02:23:38,200
+como partido al ser un pequeño y nacional, que públicamente es de su periodo vacacional.
+
+2428
+02:23:39,139 --> 02:23:41,540
+Que ustedes no están ocupando para pagar lo que deben es una cosa,
+
+2429
+02:23:41,659 --> 02:23:45,459
+en el caso de ustedes por adelantarlo, pero en realidad es un periodo vacacional.
+
+2430
+02:23:46,020 --> 02:23:46,799
+Eso es lo que son estos.
+
+2431
+02:23:47,540 --> 02:23:50,899
+Yo soy uno de los pobres chavos, yo no soy un chavito de tiempo,
+
+2432
+02:23:51,280 --> 02:23:53,579
+por ahí, porque no me desean que soy tan cantante.
+
+2433
+02:23:53,819 --> 02:24:02,819
+Bueno, ¿cuál es la diferencia? Que como es un grupo muy pequeño, en vez de ser un trabajo, mínimo van a tener que ser dos.
+
+2434
+02:24:02,819 --> 02:24:12,819
+¿Por qué razón, Carlos? Porque los trabajos son en equipo. Aquí no hay cavernícolas, aquí no hay montañeses.
+
+2435
+02:24:12,819 --> 02:24:20,819
+Aquí tienen que aprender a trabajar en equipo. Porque cuando salgan de aquí y se incorporan a la vida laboral,
+
+2436
+02:24:20,819 --> 02:24:43,299
+ahí ustedes no van a ser el único, por ejemplo Carlos es dueño de su negocio y a lo mejor él trabaja solo, él se compromete con su cliente, oye Charlie que crees que tengo bronca con mi teléfono, a ver pues, él decide si me hace la chamba o no me hace la chamba, él decide que me hace la chamba, él decide cuánto me cobra, ustedes estamos bien o no Charlie,
+
+2437
+02:24:43,299 --> 02:24:46,959
+pero que crees que si logras entrar a una empresa
+
+2438
+02:24:46,959 --> 02:24:49,120
+vas a poder hacer eso
+
+2439
+02:24:49,120 --> 02:24:51,180
+no hay que hablar así
+
+2440
+02:24:51,180 --> 02:24:54,579
+y este es todo
+
+2441
+02:24:54,579 --> 02:24:57,059
+que chalada
+
+2442
+02:24:57,059 --> 02:25:00,860
+oye pero es que me cae mal
+
+2443
+02:25:00,860 --> 02:25:02,180
+porque se me queda viendo feo
+
+2444
+02:25:02,180 --> 02:25:03,260
+me vale mucho
+
+2445
+02:25:03,260 --> 02:25:08,500
+y aquel es un chalada
+
+2446
+02:25:08,500 --> 02:25:11,059
+ah pues como este se me ve feo
+
+2447
+02:25:11,059 --> 02:25:12,639
+aquel me desquito con aquel
+
+2448
+02:25:12,639 --> 02:25:19,639
+Yo no sé, tú vas a tener que aprender a trabajar con persigas que a lo mejor no conoces.
+
+2449
+02:25:19,639 --> 02:25:23,639
+Esa es la idea de esto. Nos vamos a entender.
+
+2450
+02:25:23,639 --> 02:25:27,639
+Entonces, lo único que van a hacer es nuestro trabajo, que va a ser por equipo.
+
+2451
+02:25:27,639 --> 02:25:31,639
+A diferencia de una tarea sentimental.
+
+2452
+02:25:31,639 --> 02:25:34,639
+Vamos bien, hombre, regresa.
+
+2453
+02:25:34,639 --> 02:25:36,639
+¿Qué?
+
+2454
+02:25:36,639 --> 02:25:40,639
+Ya que estamos en materia, a mí se me...
+
+2455
+02:25:40,639 --> 02:25:46,780
+mañana le damos chance
+
+2456
+02:25:46,780 --> 02:25:49,079
+pero mañana nos quitamos esto
+
+2457
+02:25:49,079 --> 02:25:50,200
+¿vale?
+
+2458
+02:25:52,299 --> 02:25:53,540
+yo tengo 8
+
+2459
+02:25:53,540 --> 02:25:57,899
+mañana lo terminamos
+
+2460
+02:25:57,899 --> 02:25:59,000
+me damos un corte
+
+2461
+02:25:59,000 --> 02:26:01,000
+si no mañana cerramos esto
+
+2462
+02:26:01,000 --> 02:26:02,940
+pero para mañana muchachos
+
+2463
+02:26:02,940 --> 02:26:04,120
+si les compreendo un poco
+
+2464
+02:26:04,120 --> 02:26:06,600
+hoy si estaba considerado
+
+2465
+02:26:06,600 --> 02:26:08,299
+el tiempo para esto
+
+2466
+02:26:08,299 --> 02:26:11,760
+pero yo ya dibujé
+
+2467
+02:26:11,760 --> 02:26:13,479
+lo que yo deseo
+
+2468
+02:26:13,479 --> 02:26:15,479
+entonces para mañana
+
+2469
+02:26:15,479 --> 02:26:17,860
+necesito que le den una repasadita
+
+2470
+02:26:17,860 --> 02:26:19,879
+ya sea sus cuadernos
+
+2471
+02:26:19,879 --> 02:26:21,840
+ya sea sus apuntes
+
+2472
+02:26:21,840 --> 02:26:23,100
+a lo que tengan
+
+2473
+02:26:23,100 --> 02:26:25,239
+porque mañana voy a hacer preguntas
+
+2474
+02:26:25,239 --> 02:26:26,040
+aclárate
+
+2475
+02:26:26,040 --> 02:26:29,680
+no le va a afectar a nadie
+
+2476
+02:26:29,680 --> 02:26:31,500
+o sea
+
+2477
+02:26:31,500 --> 02:26:33,600
+se lo podría decir de alguna manera
+
+2478
+02:26:33,600 --> 02:26:35,600
+mañana les voy a hacer un examen
+
+2479
+02:26:35,600 --> 02:26:37,639
+pero yo sé que si les digo
+
+2480
+02:26:37,639 --> 02:26:40,000
+porque si no se me van a caer los calzonados.
+
+2481
+02:26:41,100 --> 02:26:42,819
+No pretendo ser exámenes.
+
+2482
+02:26:42,819 --> 02:26:44,879
+¿Qué tenemos?
+
+2483
+02:26:45,920 --> 02:26:46,559
+Efectivamente.
+
+2484
+02:26:46,879 --> 02:26:48,440
+Mañana los voy a cuestionar,
+
+2485
+02:26:48,620 --> 02:26:49,860
+porque quiero saber cómo viene.
+
+2486
+02:26:50,639 --> 02:26:53,000
+Y ustedes sabrán, ¿eso qué demonios le importa?
+
+2487
+02:26:54,000 --> 02:26:55,360
+Porque necesito saber
+
+2488
+02:26:55,360 --> 02:26:56,979
+con qué velocidad
+
+2489
+02:26:56,979 --> 02:26:58,659
+me puedo llevar el temario,
+
+2490
+02:26:59,280 --> 02:27:01,040
+o si necesito ir más despacio,
+
+2491
+02:27:01,639 --> 02:27:02,860
+o a dónde le necesito ir
+
+2492
+02:27:02,860 --> 02:27:03,420
+a la ciudad,
+
+2493
+02:27:04,159 --> 02:27:05,379
+a la comunidad de Córdoba.
+
+2494
+02:27:06,600 --> 02:27:07,219
+¿Estamos de acuerdo?
+
+2495
+02:27:07,639 --> 02:27:15,299
+Entonces, mañana voy a preguntar de lo que es la materia y lo que deben de saber para cubrir esa materia.
+
+2496
+02:27:16,000 --> 02:27:17,360
+¿De acuerdo?
+
+2497
+02:27:19,360 --> 02:27:20,579
+Voy viendo que regrese.
+
+2498
+02:27:21,819 --> 02:27:23,579
+Ok, vamos a dejarme hasta ahí.
+
+2499
+02:27:23,959 --> 02:27:26,299
+Por el día de hoy, muchachos, con cuestiones de tiempo.
+
+2500
+02:27:27,620 --> 02:27:28,739
+Pero mañana lo vestimos.
+
+2501
+02:27:29,139 --> 02:27:29,540
+¿De acuerdo?
+
+2502
+02:27:30,299 --> 02:27:32,020
+Una de las temas que deseamos que tengan.
+
+2503
+02:27:32,799 --> 02:27:35,780
+Si conocen a alguno de sus camaradas, díganos que esté presente.
+
+2504
+02:27:35,780 --> 02:27:36,780
+Gracias.
+
+2505
+02:28:05,780 --> 02:28:06,780
+Gracias.
+
+2506
+02:28:35,780 --> 02:28:36,780
+Gracias.
+

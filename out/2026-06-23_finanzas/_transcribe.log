@@ -1,0 +1,33 @@
+duration=8938.4s chunks=15 chunk_len=600s word_ts=False
+[chunk 1/15] offset=0s
+[chunk 1/15] done (143 segments)
+[chunk 2/15] offset=600s
+[chunk 2/15] done (105 segments)
+[chunk 3/15] offset=1200s
+[chunk 3/15] done (190 segments)
+[chunk 4/15] offset=1800s
+[chunk 4/15] done (163 segments)
+[chunk 5/15] offset=2400s
+[chunk 5/15] done (101 segments)
+[chunk 6/15] offset=3000s
+[chunk 6/15] done (130 segments)
+[chunk 7/15] offset=3600s
+[chunk 7/15] done (243 segments)
+[chunk 8/15] offset=4200s
+[chunk 8/15] done (134 segments)
+[chunk 9/15] offset=4800s
+    retry 1/3 for piece_008 (rc=-6):   warnings.warn('resource_tracker: There appear to be %d '
+[chunk 9/15] done (145 segments)
+[chunk 10/15] offset=5400s
+[chunk 10/15] done (113 segments)
+[chunk 11/15] offset=6000s
+[chunk 11/15] done (131 segments)
+[chunk 12/15] offset=6600s
+[chunk 12/15] done (215 segments)
+[chunk 13/15] offset=7200s
+[chunk 13/15] done (176 segments)
+[chunk 14/15] offset=7800s
+[chunk 14/15] done (218 segments)
+[chunk 15/15] offset=8400s
+[chunk 15/15] done (216 segments)
+WROTE out/2026-06-23_finanzas/transcript_whisperx.json/.txt/.srt  segments=2423

@@ -1,0 +1,14 @@
+# Audios (no subir)
+*.m4a
+*.qta
+*.wav
+*.mp3
+*.m4v
+Grabaciones/
+
+# Entorno y basura
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
