@@ -10,10 +10,6 @@
   **la estructura y los organismos** del sistema financiero mexicano. → Ten lista la lista de **≥6 organismos**
   (SHCP · Banxico · CNBV · CONDUSEF · CNSF · CONSAR · IPAB · BMV) y para qué sirve cada uno, además de la
   estructura general (autoridades, intermediarios, organismos de protección). [00:44:43–00:45:18]
-- [ ] ⭐ **Construir la base de datos / sistema de reexpresión (tarea de informáticos):** un Excel/sistema que,
-  al meter una **cifra base**, consulte la **tabla del INPC** y aplique el **factor de actualización** para
-  devolver en automático la **cifra actualizada**. *"…me generes una base de datos… el algoritmo que tú diseñes
-  vaya, busque el índice, lo jale… y a mí me aparezca en automático esta cifra."* [01:38:38, 01:39:41]
 - [ ] **Seguir dominando las razones de hoy:** rotación de **CxC** y **CxP**, y plazo medio de **cobro** y de
   **pago** (fórmula + lectura en veces/días + interpretación PMC vs. PMP). [01:57:26, 02:34:57, 02:48:39]
 - [ ] **Revisar la bibliografía del programa:** Finanzas Corporativas de **Ross** y de **Weston**. [00:45:55]
@@ -51,4 +47,6 @@
 - Número final de exámenes (1 o 2) y fechas.
 - **Alcance exacto del "sistema financiero" a examinar** (estructura + organismos confirmado; falta saber si
   pedirá funciones específicas, banca de 1er/2º piso, etc.). [Clase06b]
-- Entrega/forma de la **base de datos de reexpresión** (¿se entrega? ¿solo se revisa en clase?). [01:39:41]
+
+> ℹ️ Nota: la "base de datos de reexpresión" que el profe describió [01:38:38, 01:39:41] fue **un ejemplo**
+> ilustrativo (cómo automatizarían la reexpresión con sus habilidades de informáticos), **no un entregable.**

@@ -29,7 +29,7 @@
 ## Tareas por fecha
 | Estado | Para | Tarea | Origen |
 |---|---|---|---|
-| ⬜ | **Clase 7 (martes 30-jun)** | ⭐⭐ **Estudiar el SISTEMA FINANCIERO MEXICANO** (estructura + organismos: SHCP, Banxico, CNBV, CONDUSEF, CNSF, CONSAR, IPAB, BMV) — **preguntará 2×**. ⭐ **Construir la base de datos/sistema de reexpresión** (cifra base → INPC → factor de actualización → cifra actualizada en automático). Seguir dominando **rotación (CxC/CxP) y plazos medios (cobro/pago)**. Revisar bibliografía (Ross, Weston). | C6 [02:50:58, 01:39:41] |
+| ⬜ | **Clase 7 (martes 30-jun)** | ⭐⭐ **Estudiar el SISTEMA FINANCIERO MEXICANO** (estructura + organismos: SHCP, Banxico, CNBV, CONDUSEF, CNSF, CONSAR, IPAB, BMV) — **preguntará 2×**. Seguir dominando **rotación (CxC/CxP) y plazos medios (cobro/pago)**. Revisar bibliografía (Ross, Weston). *(La "base de datos de reexpresión" fue solo un ejemplo del profe, no entregable.)* | C6 [02:50:58] |
 | ✅ | Clase 6 (lunes) | Dominar **interpretación verbal** de RCT/CNT/MS/ácida/INLI; **solvencia vs. liquidez**; aritmética/geométrica; lectura pos/neg. Llegar listo para rotación/cronológicas. | C5 [B6 01:34] |
 | ✅ | Clase 5 | Dominar **mecánica del IVA**, **naturaleza de cuentas + ecuación contable**, par **clientes/deudores** y **proveedores/acreedores**, **fórmulas de razones** (ácido, CNT, RCT). | C4 [02:13, 02:43] |
 | ✅ | Clase 4 | Repasar **estructura del estado de costo de producción**, **4 básicos + 6 secundarios**, **balance general**; empezaron **los métodos de análisis**. | C3 [02:57] |

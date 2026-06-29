@@ -27,15 +27,14 @@
    Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros) · **IPAB** (Instituto para la
    Protección al Ahorro Bancario) · **BMV** (Bolsa Mexicana de Valores). El profe lamentó que les
    *quitaran* este tema del programa y lo va a ver igual porque "ustedes ya viven dentro del sistema financiero". [00:44:43–00:45:18]
-2. **TAREA DE PROGRAMACIÓN (informáticos): construir la base de datos de reexpresión.** *"Necesito que tú, en
-   tu sistema, me generes una base de datos para que cuando yo le inserte la cifra base, el algoritmo… busque el
-   índice, lo jale… haga esta ecuación y a mí me aparezca en automático la cifra [actualizada]."* [01:39:41,
-   01:38:38] → un Excel/sistema que, dada una cifra base, consulte la tabla del INPC y devuelva la cifra
-   actualizada con el **factor de actualización**.
-3. **Seguir dominando las razones** (las de hoy: rotación de CxC/CxP, plazo medio de cobro/pago) — ya las
+2. **Seguir dominando las razones** (las de hoy: rotación de CxC/CxP, plazo medio de cobro/pago) — ya las
    "encomendó" antes y volverá a preguntarlas. [01:57:26]
-4. **Bibliografía:** revisar en el programa de estudio los textos de **Finanzas Corporativas de Ross** y de
+3. **Bibliografía:** revisar en el programa de estudio los textos de **Finanzas Corporativas de Ross** y de
    **Weston** (Westerfield/Copeland). [00:45:55]
+
+> ℹ️ **No es tarea:** lo de "generar una base de datos que tome la cifra base y aplique el factor de
+> actualización" [01:38:38 *"por poner un ejemplo"*, 01:39:41] el profe lo dijo **solo como ejemplo** de cómo
+> ustedes (informáticos) podrían automatizar la reexpresión — **no lo dejó como entregable.**
 
 ---
 

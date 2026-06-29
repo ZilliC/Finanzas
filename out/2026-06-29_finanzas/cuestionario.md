@@ -40,9 +40,10 @@
 24. **≥6 estados financieros secundarios.**
 25. **10 tipos de crédito.**
 
-## 💻 Tarea práctica (no es pregunta, es entrega/revisión)
-- Arma el **Excel/sistema de reexpresión**: input = cifra base; el sistema busca el INPC en una tabla, calcula el
-  **factor de actualización** y devuelve en automático la **cifra actualizada**.
+## 💻 Ejemplo que dio el profe (NO es tarea)
+- Solo como ilustración, el profe comentó que ustedes (informáticos) podrían **automatizar la reexpresión** con
+  un Excel/sistema: input = cifra base → busca el INPC → calcula el **factor de actualización** → cifra
+  actualizada. Útil para entender el cálculo, pero **no lo dejó como entregable.**
 
 ---
 
