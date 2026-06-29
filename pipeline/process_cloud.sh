@@ -19,23 +19,52 @@ P="$ROOT/pipeline"
 echo "==> [1] Extract mono 16kHz audio"
 ffmpeg -y -nostdin -loglevel error -i "$REC" -map 0:a:0 -ac 1 -ar 16000 -c:a pcm_s16le "$OUT/audio16k.wav"
 
-PRIMARY=""
+# ---- [2] Run the 3 ears in parallel; each is optional and logs to its own file ----
+# Voxtral (primary, diarized) + Groq Whisper (cross-check) + Gemini (comprehension) are
+# independent of each other, so we launch them concurrently and join below.
+# Plain indexed arrays (kept bash 3.2-compatible — macOS /bin/bash has no `declare -A`).
+EAR_NAMES=()
+EAR_PIDS=()
+launch() {  # launch <name> <cmd...>
+  local name="$1"; shift
+  ( "$@" ) > "$OUT/_ear_${name}.log" 2>&1 &
+  EAR_NAMES+=("$name")
+  EAR_PIDS+=("$!")
+  echo "==> [2] launched ear '$name' (pid $!) -> _ear_${name}.log"
+}
+
 if [ -n "${MISTRAL_API_KEY:-}" ]; then
-  echo "==> [2] Ear A: Voxtral (primary + diarization)"
-  python "$P/cloud_transcribe.py" "$OUT/audio16k.wav" "$OUT" voxtral
-  PRIMARY="$OUT/transcript_voxtral.json"
+  launch voxtral python "$P/cloud_transcribe.py" "$OUT/audio16k.wav" "$OUT" voxtral
 else
   echo "==> [2] SKIP Voxtral (no MISTRAL_API_KEY)"
 fi
-
 if [ -n "${GROQ_API_KEY:-}" ]; then
-  echo "==> [3] Ear B: Groq Whisper large-v3 (cross-check)"
-  python "$P/cloud_transcribe.py" "$OUT/audio16k.wav" "$OUT" groq
-  [ -z "$PRIMARY" ] && PRIMARY="$OUT/transcript_groq.json"
+  launch groq python "$P/cloud_transcribe.py" "$OUT/audio16k.wav" "$OUT" groq
 else
-  echo "==> [3] SKIP Groq (no GROQ_API_KEY)"
+  echo "==> [2] SKIP Groq (no GROQ_API_KEY)"
+fi
+if [ -n "${GEMINI_API_KEY:-}${GOOGLE_API_KEY:-}" ]; then
+  launch gemini python "$P/gemini_pass.py" "$OUT/audio16k.wav" "$OUT"
+else
+  echo "==> [2] SKIP Gemini (no GEMINI_API_KEY/GOOGLE_API_KEY)"
 fi
 
+# ---- [3] Join: wait for every ear, surface status. Gemini failure is non-fatal. ----
+i=0
+while [ "$i" -lt "${#EAR_PIDS[@]}" ]; do
+  name="${EAR_NAMES[$i]}"
+  if wait "${EAR_PIDS[$i]}"; then
+    echo "==> [3] ear '$name' OK"
+  else
+    echo "==> [3] ear '$name' FAILED (see $OUT/_ear_${name}.log)"
+  fi
+  i=$((i + 1))
+done
+
+# Primary transcript for downstream: prefer Voxtral (diarized), else Groq.
+PRIMARY=""
+[ -f "$OUT/transcript_voxtral.json" ] && PRIMARY="$OUT/transcript_voxtral.json"
+[ -z "$PRIMARY" ] && [ -f "$OUT/transcript_groq.json" ] && PRIMARY="$OUT/transcript_groq.json"
 if [ -z "$PRIMARY" ]; then
   echo "ERROR: no transcript produced (need MISTRAL_API_KEY and/or GROQ_API_KEY)"; exit 1
 fi
@@ -54,13 +83,7 @@ fi
 
 echo "==> [5] Condensed timestamped transcript"
 python "$P/condense.py" "$OUT/transcript_whisperx.json" "$OUT/transcript_timed.txt"
-
-if [ -n "${GEMINI_API_KEY:-}${GOOGLE_API_KEY:-}" ]; then
-  echo "==> [6] Gemini comprehension pass (whole audio)"
-  python "$P/gemini_pass.py" "$OUT/audio16k.wav" "$OUT" || echo "    (gemini pass failed, continuing)"
-else
-  echo "==> [6] SKIP Gemini (no GEMINI_API_KEY/GOOGLE_API_KEY)"
-fi
+# (Gemini comprehension pass ran in parallel back in [2]; transcript_gemini.md is ready if its key was set.)
 
 echo "==> Cloud stages done on $OUT. Next: Claude Code synthesis (see pipeline/SYNTHESIS.md)."
 echo "    Inputs now also include transcript_gemini.md (comprehension) and a Voxtral-diarized transcript."

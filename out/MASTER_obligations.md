@@ -29,7 +29,10 @@
 ## Tareas por fecha
 | Estado | Para | Tarea | Origen |
 |---|---|---|---|
-| ⬜ | Clase 4 | Repasar **estructura del estado de costo de producción**, **4 básicos + 6 secundarios**, **balance general**; mañana empiezan **los métodos de análisis**. Completar listas (10 créditos, 6 métodos). | C3 [02:57] |
+| ⬜ | **Clase 7 (martes 30-jun)** | ⭐⭐ **Estudiar el SISTEMA FINANCIERO MEXICANO** (estructura + organismos: SHCP, Banxico, CNBV, CONDUSEF, CNSF, CONSAR, IPAB, BMV) — **preguntará 2×**. ⭐ **Construir la base de datos/sistema de reexpresión** (cifra base → INPC → factor de actualización → cifra actualizada en automático). Seguir dominando **rotación (CxC/CxP) y plazos medios (cobro/pago)**. Revisar bibliografía (Ross, Weston). | C6 [02:50:58, 01:39:41] |
+| ✅ | Clase 6 (lunes) | Dominar **interpretación verbal** de RCT/CNT/MS/ácida/INLI; **solvencia vs. liquidez**; aritmética/geométrica; lectura pos/neg. Llegar listo para rotación/cronológicas. | C5 [B6 01:34] |
+| ✅ | Clase 5 | Dominar **mecánica del IVA**, **naturaleza de cuentas + ecuación contable**, par **clientes/deudores** y **proveedores/acreedores**, **fórmulas de razones** (ácido, CNT, RCT). | C4 [02:13, 02:43] |
+| ✅ | Clase 4 | Repasar **estructura del estado de costo de producción**, **4 básicos + 6 secundarios**, **balance general**; empezaron **los métodos de análisis**. | C3 [02:57] |
 | ✅ | Clase 3 | Repasar estados financieros + lo de Clase 2; hubo preguntas | C2 [02:45] |
 | ✅ | Clase 2 | Repasar todo; diagnóstico oral | C1 [02:26] |
 
@@ -37,3 +40,7 @@
 - Tema(s) y fechas de entrega del trabajo de investigación (el profe aún no los configuró). · C2 [00:54]
 - Número final de exámenes (1 o 2) y fechas.
 - Rúbrica/plan de trabajo por escrito que el profe va a enviar. · C2 [01:49]
+- ✅ **CONFIRMADO (C6):** el profe **amplió el curso con el "sistema financiero mexicano"** (no está en el
+  temario oficial; lo agregó por su cuenta y lo evaluará). · C6 [00:44:43, 02:50:58]
+- Alcance exacto del sistema financiero a examinar (estructura + organismos confirmado; ¿funciones?, ¿banca
+  1er/2º piso?) y si la **base de datos de reexpresión** se entrega o solo se revisa. · C6 [01:39:41, Clase06b]

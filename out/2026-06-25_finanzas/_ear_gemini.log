@@ -1,0 +1,10 @@
+gemini audio-chunked: duration=10173s chunks=6 chunk_len=1800s model=gemini-2.5-flash
+[block 1/6] cached
+[block 2/6] cached
+[block 3/6] cached
+[block 4/6] cached
+[block 5/6] uploading + asking gemini-2.5-flash…
+[block 5/6] done
+[block 6/6] uploading + asking gemini-2.5-flash…
+[block 6/6] done
+WROTE out/2026-06-25_finanzas/transcript_gemini.md — 6 bloques
