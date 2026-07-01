@@ -276,7 +276,7 @@ Medidas macro del dinero: valúan no solo el dinero en **circulación** sino el 
 para ver "cómo está el país". El **Banco de México** regula la **emisión y circulación** del dinero (parámetros
 que le impiden emitir sin límite). · Origen: C6 [G-B4 11:40, 12:35]
 
-### Sistema financiero mexicano (estructura y organismos) · ⬜ · prereq/ampliación · Origen C1 · 🔁🆕 C6
+### Sistema financiero mexicano (estructura y organismos) · 🟡 · prereq/ampliación · Origen C1 · 🔁 C6 · 🔁 C7
 Conjunto de **autoridades, intermediarios y organismos de protección** que canalizan recursos. **NO está en el
 temario oficial de esta generación** ("se los quitaron"); el profe lo **agregó por su cuenta** y lo **va a
 evaluar** (la estructura + los organismos). Organismos a memorizar: **SHCP, Banxico, CNBV, CONDUSEF, CNSF,
@@ -290,6 +290,56 @@ CONSAR, IPAB, BMV**. · Origen: C1 [00:19] · 🆕 abierto formalmente C6 [00:44
   Nacional Financiera, **Bancomext** = Banco Nacional de Comercio Exterior, **Banobras** = Banco Nacional de
   Obras y Servicios Públicos. Macro/reexpresión: **INPC** = Índice Nacional de Precios al Consumidor · **INEGI**
   = Instituto Nacional de Estadística y Geografía · **NIF** = Normas de Información Financiera.
+
+### Estructura del sistema financiero (jerarquía, C7) · 🟡 · add-on · Origen C7
+Se estudia como **organigrama/casilleros** (jerarquías → funciones → niveles), con **fuentes oficiales** (SHCP,
+Banxico, comisiones), no Wikipedia/IA. Jerarquía: **(1) SHCP** = máxima autoridad → **(2) Banxico** → **(3)
+comisiones de supervisión y vigilancia:**
+- **CNBV** (Bancaria y de Valores): **una sola** comisión (fusión de la antigua Bancaria + la de Valores) con
+  **dos subsistemas: bancario y bursátil**. ⚠️ Fuentes viejas que las separan = error.
+- **CNSF** (Seguros y Fianzas): subsistemas **asegurador** y **afianzador**.
+- **CONSAR**: regula las **afores** (ahorro para el retiro).
+Ramas que dependen de esto: **sistema bancario** (interesan las clasificaciones **estructurales**; hay **dos
+tipos de banca** → **organismos auxiliares de crédito**); **mercados bursátiles** (metales, dinero, capitales,
+divisas, **MexDer** = derivados; instrumentos y contratos; criptomonedas); **sistema asegurador** (seguros,
+**reaseguros, coaseguros**; seguro de vida por muerte y **"en vida"**, gastos médicos, daños). *(Banca y mercados
+quedaron incompletos → siguen en C8.)* · Origen: C7 [00:41:00–01:03:17]
+
+### División de poderes (marco del Estado) · ⬜ · contexto/prereq · Origen C7
+**Constitución art. 49:** el supremo poder de la Federación se divide en **Legislativo, Ejecutivo y Judicial**.
+- **Ejecutivo** = **Presidente de la República** (no actúa solo; requiere sustento en leyes).
+- **Legislativo** = **Congreso de la Unión** (art. 50), dos cámaras: **Diputados** (art. 52: **500** = 300
+  mayoría relativa + 200 representación proporcional; representa al gobierno) y **Senadores** (art. 56: **128**;
+  representa a la población).
+- **Judicial** = **Suprema Corte de Justicia de la Nación**.
+Por qué lo ve: la **SHCP** (cabeza del sistema financiero) es una **secretaría de Estado**; **lo que para el
+gobierno es derecho, para el ciudadano es obligación** (y viceversa). · Origen: C7 [01:16:28–01:37:57]
+
+### Proceso legislativo (cómo se emite una ley) · ⬜ · contexto/prereq · Origen C7
+**Iniciativa de ley** (art. 71: la presentan Presidente, diputados/senadores, legislaturas estatales/CDMX o
+ciudadanos con ≥ **0.13%** de la lista nominal) → **cámara de origen** discute y vota → **cámara revisora** →
+si ambas aprueban, pasa al **Ejecutivo**, que la **promulga y publica** en el **DOF** (Diario Oficial). **Plazos
+(art. 72):** 30 días naturales para observaciones + 10 para publicar. Las cámaras **intercambian** papel
+(origen↔revisora) **excepto** en **empréstitos, contribuciones/impuestos y reclutamiento de tropas**, que
+**siempre inician en Diputados** (art. 72-H). · Origen: C7 [01:26:23–01:41:34]
+
+### Finanzas públicas: gasto público, Presupuesto de Egresos y Ley de Ingresos · ⬜ · transversal · Origen C7
+El gobierno **obtiene, administra y aplica dinero** para cubrir sus obligaciones (= derechos del ciudadano:
+educación vía **SEP**, salud, seguridad vía SEDENA/Marina/Guardia Nacional). El **gasto público** se cubre con
+**partidas presupuestales** del **Presupuesto de Egresos de la Federación** (anual, una partida por dependencia).
+Los **ingresos** se fijan en la **Ley de Ingresos de la Federación** y provienen sobre todo de **impuestos**. ·
+Origen: C7 [01:54:04–02:06:59]
+
+### Marco fiscal: jerarquía de leyes e impuestos · ⬜ · add-on/prereq fiscal · Origen C7
+**Por qué pagamos:** jerarquía de leyes con la **Constitución** en la cima. **Art. 31-IV**: obligación de los
+mexicanos de **contribuir al gasto público** (federación, estados, CDMX, municipio) de forma **proporcional y
+equitativa**. Debajo, las leyes específicas: **Ley del ISR** (art. 1: físicas y morales; impuesto **directo**
+sobre ingresos), **Ley del IVA** (art. 1: obligados por **actos o actividades** —enajenación, servicios, uso o
+goce temporal, importación—; impuesto **indirecto**, **tasa 16%**), **Ley del IEPS** (bienes/servicios
+específicos). El **Código Fiscal de la Federación art. 2** clasifica las **contribuciones** en: **impuestos,
+aportaciones de seguridad social, contribuciones de mejoras y derechos**. La parte fiscal la opera el **SAT**
+(Hacienda tiene más funciones financieras que fiscales). No pagar → sanciones **administrativas y corporales**.
+· Origen: C7 [02:07:30–02:21:25]
 
 ---
 

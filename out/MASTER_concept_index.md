@@ -8,7 +8,7 @@
 |---|---|
 | 1. Introducción a las Finanzas | 🟢 cubierto (C1–C2) |
 | 2. Análisis financiero integral | 🟢🟡 muy avanzado (C3–C6): estados financieros, costo de producción, balance, **Estado de Resultados**, IVA e impuestos, naturaleza de cuentas + ecuación contable, capital social, doble óptica, cifras históricas/futuras, **razones simples con cifras** (RCT/CNT/MS/ácida/INLI + **rotación CxC/CxP y cronológicas PMC/PMP** en C6), e **inflación→reexpresión** (INPC, factor actualización/ajuste, B-10, partidas monetarias/no). Falta: **rentabilidad/apalancamiento** con cifras, **porcientos integrales**, análisis horizontal |
-| **+ Sistema financiero mexicano** (ampliación fuera de temario) | 🆕 abierto (C6): el profe lo agregó y lo evaluará — estructura + organismos. **Tarea para C7.** |
+| **+ Sistema financiero mexicano** (ampliación fuera de temario) | 🟡 en curso (C6–C7): estructura + organismos + comisiones/subsistemas (CNBV, CNSF, CONSAR), y marco **Estado/fiscal** (división de poderes, proceso legislativo, ISR/IVA, art. 31-IV, CFF art. 2). **Faltan banca, organismos auxiliares y mercados → sigue C8.** El profe lo evalúa (×2). |
 | 3. Planeación financiera (costo de capital, WACC, CAPM) | ⬜ nombrado |
 | 4. Estado de flujo de efectivo (método directo) | ⬜ nombrado como básico |
 | 5. Evaluación de proyectos (VPN, TIR) | 🟡 TIR explicada a fondo (C3) |
@@ -51,7 +51,10 @@
 | **Reexpresión: factor actualización/ajuste** | ⬜ | 2.2 | C6 [01:22] | Actualización=INPC rec./ant.→cifra nueva; Ajuste=(…)−1→pura inflación. B-10/NIF. |
 | **Partidas monetarias vs. no monetarias** | ⬜ | 2.2 | C6 [01:36] | Solo se reexpresan las **no monetarias** (bienes); el dinero/acciones no. |
 | **Agregados monetarios (M1/M2/M3)** | ⬜ | transversal | C6 [G-B4] | Dinero en circulación + documentado; Banxico regula emisión. |
-| **Sistema financiero mexicano** | ⬜ | ampliación | C1 [00:19] 🆕 C6 | Estructura + organismos. Fuera de temario; el profe lo agregó y **lo pregunta C7 (×2)**. |
+| **Sistema financiero mexicano** | 🟡 | ampliación | C1 [00:19] · C6 · C7 [00:41] | Jerarquía: SHCP→Banxico→comisiones (CNBV bancario/bursátil, CNSF asegurador/afianzador, CONSAR/afores)→banca, bolsa, seguros. Fuera de temario; **lo pregunta ×2**, sigue en C8. |
+| **División de poderes / proceso legislativo** | ⬜ | contexto | C7 [01:16–01:41] | Art. 49 (poderes); Congreso (art. 50): Diputados 500 (art. 52: 300+200) y Senadores 128 (art. 56). Ley: iniciativa (art. 71)→origen→revisora→Ejecutivo→DOF (art. 72; 30+10 días; inciso H). |
+| **Finanzas públicas (gasto/ingreso)** | ⬜ | transversal | C7 [01:54–02:06] | Gasto público→partidas→**Presupuesto de Egresos**; ingresos→**Ley de Ingresos** (impuestos). Derechos: educación (SEP), salud, seguridad. |
+| **Marco fiscal / jerarquía de leyes** | ⬜ | add-on/prereq | C7 [02:07–02:21] | Constitución **art. 31-IV** (contribuir, proporcional y equitativa)→leyes ISR/IVA(16%)/IEPS→CFF **art. 2** (4 contribuciones). SHCP≠SAT. Sanciones admin. y corporales. |
 | TIR (tasa interna de retorno) | 🟡 | 5.2 | C2, C3 [00:35] | 🔁 Pregunta recurrente. |
 
 ## Listas del diagnóstico a memorizar (las pregunta al azar)

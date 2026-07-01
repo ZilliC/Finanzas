@@ -29,7 +29,8 @@
 ## Tareas por fecha
 | Estado | Para | Tarea | Origen |
 |---|---|---|---|
-| ⬜ | **Clase 7 (martes 30-jun)** | ⭐⭐ **Estudiar el SISTEMA FINANCIERO MEXICANO** (estructura + organismos: SHCP, Banxico, CNBV, CONDUSEF, CNSF, CONSAR, IPAB, BMV) — **preguntará 2×**. Seguir dominando **rotación (CxC/CxP) y plazos medios (cobro/pago)**. Revisar bibliografía (Ross, Weston). *(La "base de datos de reexpresión" fue solo un ejemplo del profe, no entregable.)* | C6 [02:50:58] |
+| ⬜ | **Clase 8 (miércoles 1-jul)** | ⭐⭐ **Seguir con el SISTEMA FINANCIERO MEXICANO** (faltan: 2 tipos de banca, organismos auxiliares de crédito, detalle de mercados bursátiles) — "mañana continuamos". Repasar **estructura del Estado** (arts. 49/50/52/56/71/72; 500 diputados/128 senadores; proceso legislativo) y **marco fiscal** (art. 31-IV; ISR vs. IVA 16%; Código Fiscal art. 2). | C7 [02:22:29] |
+| 🟡 | Clase 7 (martes) | ⭐⭐ Estudiar el SISTEMA FINANCIERO MEXICANO — **el profe lo desarrolló en clase** (comisiones/subsistemas, Estado, marco fiscal) y **lo continúa en C8**. Rotación/reexpresión NO se retomaron. | C6 [02:50:58] |
 | ✅ | Clase 6 (lunes) | Dominar **interpretación verbal** de RCT/CNT/MS/ácida/INLI; **solvencia vs. liquidez**; aritmética/geométrica; lectura pos/neg. Llegar listo para rotación/cronológicas. | C5 [B6 01:34] |
 | ✅ | Clase 5 | Dominar **mecánica del IVA**, **naturaleza de cuentas + ecuación contable**, par **clientes/deudores** y **proveedores/acreedores**, **fórmulas de razones** (ácido, CNT, RCT). | C4 [02:13, 02:43] |
 | ✅ | Clase 4 | Repasar **estructura del estado de costo de producción**, **4 básicos + 6 secundarios**, **balance general**; empezaron **los métodos de análisis**. | C3 [02:57] |
@@ -40,7 +41,9 @@
 - Tema(s) y fechas de entrega del trabajo de investigación (el profe aún no los configuró). · C2 [00:54]
 - Número final de exámenes (1 o 2) y fechas.
 - Rúbrica/plan de trabajo por escrito que el profe va a enviar. · C2 [01:49]
-- ✅ **CONFIRMADO (C6):** el profe **amplió el curso con el "sistema financiero mexicano"** (no está en el
-  temario oficial; lo agregó por su cuenta y lo evaluará). · C6 [00:44:43, 02:50:58]
-- Alcance exacto del sistema financiero a examinar (estructura + organismos confirmado; ¿funciones?, ¿banca
-  1er/2º piso?) y si la **base de datos de reexpresión** se entrega o solo se revisa. · C6 [01:39:41, Clase06b]
+- ✅ **CONFIRMADO (C6–C7):** el profe **amplió el curso con el "sistema financiero mexicano"** (no está en el
+  temario oficial; lo agregó por su cuenta y lo evaluará). En C7 lo desarrolló hasta el marco Estado/fiscal. · C6 [00:44:43, 02:50:58] · C7 [00:43:29]
+- Alcance exacto del sistema financiero a examinar: confirmado estructura + organismos + comisiones/subsistemas;
+  **falta el detalle de banca (1er/2º piso), organismos auxiliares y mercados bursátiles** que dejó abiertos y
+  sigue en C8. · C7 [02:22:29]
+- La **base de datos de reexpresión** (C6) sigue siendo **solo ejemplo**, no entregable.

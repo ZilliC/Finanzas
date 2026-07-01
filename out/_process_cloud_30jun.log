@@ -1,0 +1,14 @@
+==> [1] Extract mono 16kHz audio
+==> [2] launched ear 'voxtral' (pid 9052) -> _ear_voxtral.log
+==> [2] launched ear 'groq' (pid 9053) -> _ear_groq.log
+==> [2] launched ear 'gemini' (pid 9054) -> _ear_gemini.log
+==> [3] ear 'voxtral' OK
+==> [3] ear 'groq' OK
+==> [3] ear 'gemini' FAILED (see /Users/carloszilli/Desktop/Finanzas/out/2026-06-30_finanzas/_ear_gemini.log)
+==> primary transcript = transcript_voxtral.json -> transcript_whisperx.json
+==> [4] Disagreements: Voxtral vs Groq
+WROTE /Users/carloszilli/Desktop/Finanzas/out/2026-06-30_finanzas/disagreements.md — 164/288 windows flagged
+==> [5] Condensed timestamped transcript
+WROTE /Users/carloszilli/Desktop/Finanzas/out/2026-06-30_finanzas/transcript_timed.txt — 232 blocks
+==> Cloud stages done on /Users/carloszilli/Desktop/Finanzas/out/2026-06-30_finanzas. Next: Claude Code synthesis (see pipeline/SYNTHESIS.md).
+    Inputs now also include transcript_gemini.md (comprehension) and a Voxtral-diarized transcript.

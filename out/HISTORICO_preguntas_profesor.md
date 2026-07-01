@@ -20,8 +20,13 @@ Se llenan conforme se repiten entre clases. Hasta ahora (C1–C4):
   explícitamente que pregunta al azar sobre ellas. Memorízalas.
 - 🔁🔁🔁 **"¿Qué SIGNIFICA el resultado?"** (la interpretación, no la cifra) — la machacó en C5 **y C6**; es **el
   patrón estrella** de las razones. Sé capaz de dar la lectura **sin nombrar la razón**.
-- 🆕⭐ **SISTEMA FINANCIERO MEXICANO** — el profe avisó que **empieza a preguntarlo en C7 y lo hará DOS VECES**.
-  Estructura + organismos (≥6). Es lo más probable de la próxima clase. · C6 [02:50:58]
+- 🔁⭐⭐ **SISTEMA FINANCIERO MEXICANO** — anunciado en C6 (preguntaría ×2); en **C7** lo abrió y **dijo que
+  continúa en C8** ("mañana continuamos, pónganse a estudiar"). Estructura + organismos + **comisiones y sus
+  subsistemas** (CNBV bancario/bursátil, CNSF asegurador/afianzador, CONSAR/afores). **Máxima probabilidad de
+  examen.** · C6 [02:50:58] · C7 [02:22:29]
+- 🆕 **Marco Estado/fiscal (C7):** división de poderes (arts. **49/50/52/56/71/72**), **500 diputados / 128
+  senadores**, proceso legislativo, **art. 31-IV** (obligación de contribuir), **ISR vs. IVA (16%)**, Código
+  Fiscal art. 2 (clasificación de contribuciones). Probable que lo repase al azar. · C7
 - 🆕 **Temas C6 con alta probabilidad de reaparecer:** **factor de actualización vs. de ajuste**, **partidas
   monetarias vs. no monetarias** (B-10), **fórmula de la rotación de CxC/CxP**, **plazo medio de cobro vs. pago**
   (lectura PMC>PMP = problema), **promedio "juega/no juega con el sistema financiero"**, **año comercial = 360**.
@@ -208,6 +213,31 @@ de la evaluación. Las preguntas de fondo arrancan en la Clase 2.
 
 > Nota: se omiten las muchísimas retóricas/ilustrativas (la "mamá" y la carne, el tabaco/canasta básica,
 > "Super Google", Charlie Brown, etc.). Arriba van las que miden conocimiento.
+
+---
+
+## Clase 7 — 2026-06-30 (sistema financiero → Estado → marco fiscal)
+
+> Clase muy expositiva (dio cátedra más que interrogar) y con **~40 min iniciales de plática personal**. Las
+> preguntas de conocimiento fueron pocas y casi todas dirigidas a Carlos; muchas otras fueron retóricas o
+> políticas (se omiten). Sin diarización cloud → curadas del `transcript_timed.txt`.
+
+### Ronda A — Sistema financiero
+1. 🔁 ¿Qué es el **sistema financiero** conceptualmente? (según lo que investigaron) [00:47:05]
+
+### Ronda B — Estructura del Estado y proceso legislativo
+2. ¿Cuál sería una de las **funciones principales del Congreso de la Unión**? [01:22:53]
+3. ¿**Cuántos diputados** tiene la Cámara de Diputados? (respuesta: **500**) [01:25:36–01:37:20]
+4. ¿Cómo se lleva a cabo el **proceso de emisión de leyes**? [01:26:23]
+5. ¿**Quién puede presentar** la iniciativa de ley? (art. 71) [01:37:57]
+
+### Ronda C — Marco fiscal
+6. ¿A qué **derechos** tenemos los mexicanos y **quién** tiene la obligación de dárnoslos? [01:55:43–01:56:17]
+7. ¿De **dónde** saca el gobierno el dinero? (impuestos / Ley de Ingresos) [02:02:58]
+8. ¿**Dónde** marca la Constitución la obligación de pagar impuestos? (art. **31-IV**) [02:09:45]
+
+> Nota: se omiten las abundantes **rétoricas/políticas** (Morena, amparo, Guardia Nacional, el celular, seguros
+> "por si te mueres", etc.). Arriba solo las que miden conocimiento.
 
 ---
 
