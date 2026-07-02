@@ -18,6 +18,8 @@ import time
 
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 CHUNK = int(os.environ.get("GEMINI_CHUNK_SECONDS", "1800"))
+MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "8"))
+RETRY_SECONDS = int(os.environ.get("GEMINI_RETRY_SECONDS", "120"))
 
 PROMPT = """Eres un asistente que estudia una grabación de clase universitaria de Finanzas (español de México).
 Este audio es un BLOQUE de la clase que empieza en el minuto absoluto {start_hhmm} (las marcas de tiempo que
@@ -42,6 +44,20 @@ def audio_duration(path):
     out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                           "-of", "csv=p=0", path], capture_output=True, text=True, check=True)
     return float(out.stdout.strip())
+
+
+def with_retries(fn, label):
+    """Transient 503s ('high demand') and DNS/network blips are common on gemini-2.5-flash;
+    retry with a flat backoff instead of failing the whole multi-hour run over one blip."""
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            return fn()
+        except Exception as e:
+            if attempt == MAX_RETRIES:
+                raise
+            print(f"[{label}] attempt {attempt}/{MAX_RETRIES} failed ({e!r}); "
+                  f"retrying in {RETRY_SECONDS}s", flush=True)
+            time.sleep(RETRY_SECONDS)
 
 
 def main():
@@ -73,12 +89,15 @@ def main():
                         "-ss", str(offset), "-t", str(CHUNK), "-i", audio,
                         "-ac", "1", "-ar", "16000", "-b:a", "64k", mp3], check=True)
         print(f"[block {i+1}/{n}] uploading + asking {MODEL}…", flush=True)
-        f = client.files.upload(file=mp3)
+        f = with_retries(lambda: client.files.upload(file=mp3), f"block {i+1}/{n} upload")
         while getattr(f, "state", None) and str(f.state).endswith("PROCESSING"):
             time.sleep(3)
             f = client.files.get(name=f.name)
         prompt = PROMPT.format(start_hhmm=hhmm(offset))
-        resp = client.models.generate_content(model=MODEL, contents=[f, prompt])
+        resp = with_retries(
+            lambda: client.models.generate_content(model=MODEL, contents=[f, prompt]),
+            f"block {i+1}/{n} generate",
+        )
         text = resp.text or "(sin respuesta)"
         open(cache, "w").write(text)
         sections.append(header + "\n" + text)
